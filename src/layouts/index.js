@@ -8,7 +8,7 @@ import './index.css'
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: '#67B0B9',
       marginBottom: '1.45rem',
     }}
   >
@@ -25,9 +25,10 @@ const Header = () => (
           style={{
             color: 'white',
             textDecoration: 'none',
+            fontWeight: 100
           }}
         >
-          Gatsby
+          Steveostudios
         </Link>
       </h1>
     </div>
@@ -37,7 +38,7 @@ const Header = () => (
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Steveostudios"
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
