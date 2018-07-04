@@ -17,74 +17,17 @@ import {
 library.add(faStroopwafel, faGithub, faDribbble, faMedium, faVimeo);
 
 import "./index.css";
+import "./overrides.css";
+import "./header.css";
+import "./main.css";
 
 const Header = () => (
-  <div
-    style={{
-      marginBottom: "1.45rem",
-      borderBottom: "1px solid #cecece",
-      fontFamily: "sans-serif"
-    }}
-  >
-    <div
-      style={{
-        margin: "0 auto",
-        maxWidth: 960,
-        padding: "1.45rem 1.0875rem"
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          margin: 0,
-          alignItems: "center",
-          justifyContent: "space-between"
-        }}
-      >
-        <div style={{ display: "flex", margin: 0, alignItems: "center" }}>
-          <Link
-            to="/"
-            style={{
-              textDecoration: "none",
-              fontWeight: 100,
-              color: "#333"
-            }}
-          >
-            <img
-              style={{
-                borderRadius: "50%",
-                height: "40px",
-                marginBottom: 0,
-                marginRight: "1rem"
-              }}
-              src={avatar}
-            />
-          </Link>
-          <Link
-            to="/"
-            style={{
-              textDecoration: "none",
-              fontWeight: 100,
-              color: "#333"
-            }}
-          >
-            <div>Hi, I'm Steve</div>
-          </Link>
-        </div>
-        <div>
-          <Link
-            to="/bookshelf"
-            style={{
-              textDecoration: "none",
-              fontWeight: 100,
-              color: "#333"
-            }}
-          >
-            Bookshelf
-          </Link>
-        </div>
-      </div>
-    </div>
+  <div className="header">
+    <Link className="mark" to="/">
+      <img src={avatar} />
+      <div>Hi, I'm Steve</div>
+    </Link>
+    <Link to="/bookshelf">Bookshelf</Link>
   </div>
 );
 
@@ -98,16 +41,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
-    <div
-      style={{
-        margin: "0 auto",
-        maxWidth: 960,
-        padding: "0px 1.0875rem 1.45rem",
-        paddingTop: 0
-      }}
-    >
-      {children()}
-    </div>
+    <div className="main">{children()}</div>
   </div>
 );
 

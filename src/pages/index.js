@@ -14,16 +14,13 @@ const IndexPage = () => (
     <h1
       style={{
         color: "#3c3c3c",
-        fontFamily: "sans-serif",
         fontSize: "2rem",
         fontWeight: 100
       }}
     >
       Steve Stone
     </h1>
-    <p style={{ color: "#9c9c9c", fontFamily: "sans-serif" }}>
-      Developer at Download Youth Ministry
-    </p>
+    <p style={{ color: "#9c9c9c" }}>Developer at Download Youth Ministry</p>
     <div style={{ display: "flex" }}>
       <a
         style={{ margin: "1rem", fontSize: "2rem", color: "#3f3f3f" }}

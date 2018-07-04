@@ -1,0 +1,31 @@
+@import url("./overrides.css");
+.header {
+  border-bottom: 1px solid #cecece;
+  margin: 0 auto;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 100;
+  color: #224466;
+  padding: 1em var(--pad);
+}
+
+.header a,
+.header a:visited {
+  text-decoration: none;
+  color: #224466;
+}
+
+.header .mark {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.header .mark img {
+  border-radius: 50%;
+  height: 2em;
+  margin-bottom: 0;
+  margin-right: 1em;
+}

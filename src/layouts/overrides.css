@@ -1,0 +1,8 @@
+:root {
+  --pad: calc(2vw + 0.5em);
+}
+
+html,
+body {
+  font-family: sans-serif;
+}
