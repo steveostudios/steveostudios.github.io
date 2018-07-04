@@ -1,0 +1,33 @@
+.home {
+  margin-top: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #224466;
+}
+
+.home h1 {
+  font-size: 3em;
+  font-weight: 100;
+  margin-bottom: 0.25em;
+}
+
+.home h2 {
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 0.25em;
+}
+
+.home .social {
+  display: flex;
+}
+
+.home .social a {
+  margin: 1em;
+  font-size: 2em;
+  color: #224466;
+  transition: all 0.25s ease-in-out;
+}
+.home .social a:hover {
+  color: #4788bb;
+}

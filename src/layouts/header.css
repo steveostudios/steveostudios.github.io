@@ -8,6 +8,10 @@
   justify-content: space-between;
   font-weight: 100;
   color: #224466;
+  background-image: url("./../images/header.png");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
   padding: 1em var(--pad);
 }
 
