@@ -21,16 +21,16 @@ const IndexPage = () => (
     </p>
     <div className="social">
       <OutboundLink href="https://github.com/steveostudios">
-        <FontAwesomeIcon icon={["fab", "github"]} />
+        <FontAwesomeIcon icon={["fab", "github"]} size="xs" />
       </OutboundLink>
       <OutboundLink href="https://dribbble.com/steveostudios">
-        <FontAwesomeIcon icon={["fab", "dribbble"]} />
+        <FontAwesomeIcon icon={["fab", "dribbble"]} size="xs" />
       </OutboundLink>
       <OutboundLink href="https://medium.com/@steveostudios">
-        <FontAwesomeIcon icon={["fab", "medium"]} />
+        <FontAwesomeIcon icon={["fab", "medium"]} size="xs" />
       </OutboundLink>
       <OutboundLink href="https://vimeo.com/steveostudios">
-        <FontAwesomeIcon icon={["fab", "vimeo"]} />
+        <FontAwesomeIcon icon={["fab", "vimeo"]} size="xs" />
       </OutboundLink>
     </div>
   </div>

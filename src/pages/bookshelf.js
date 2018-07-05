@@ -33,7 +33,7 @@ class BookshelfPage extends React.Component {
       return (
         <p className="stars">
           {this.renderReview(review)}
-          {count.map((star, i) => <FontAwesomeIcon icon="star" />)}
+          {count.map((star, i) => <FontAwesomeIcon icon="star" size="xs" />)}
         </p>
       );
     } else {
