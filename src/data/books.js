@@ -22,7 +22,8 @@ const books = [
     publisher: "A Book Apart",
     publisherUrl: "",
     stars: 4,
-    review: null,
+    review:
+      "It is really hard to make a UI feel like a human talking to another human -- which is what every app essentially does! This book does a great job of showing the how to communicate to the user in the user's own language! Love!",
     url: "https://abookapart.com/products/conversational-design",
     image: "/static/books/ConversationalDesign.png"
   },
@@ -35,7 +36,8 @@ const books = [
     publisher: "A Book Apart",
     publisherUrl: "",
     stars: 4,
-    review: null,
+    review:
+      "Gosh - remember the days when you needed to layout a website with tables? Floats? Well, no more! CSS Flexbox and Grid are here! Rachael does an amaxing job at showing what CSS flexbox and Grid are, how they fix common design problems, and even how to support backeards-compatability!",
     url: "https://abookapart.com/products/the-new-css-layout",
     image: "/static/books/TheNewCSSLayout.png"
   },
@@ -48,7 +50,8 @@ const books = [
     publisher: "O'Reilly | Yahoo! Press",
     publisherUrl: "",
     stars: 5,
-    review: null,
+    review:
+      "JavaScript is my language... But it is seriously quirky. I can only imagine trying to understand it coming from another programming language! This book does an excellent job advocating for JavaScript, while telling you the common pitfalls!",
     url:
       "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=as_li_ss_tl?ie=UTF8&qid=1530649753&sr=8-1&keywords=javascript+the+good+parts&linkCode=ll1&tag=steveostudi0c-20&linkId=d126a9b8a6d772ee0c6532f35c44c388",
     image: "/static/books/JavaScriptTheGoodParts.jpg"
@@ -62,7 +65,8 @@ const books = [
     publisher: "",
     publisherUrl: "",
     stars: 5,
-    review: null,
+    review:
+      "Seriously. The most profound book on user testing. Steve gives you a script, clear examples, how to read your data... This book made me want to test!",
     url:
       "https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1530649852&sr=1-1&keywords=rocket+surgery+made+easy+steve+krug&linkCode=ll1&tag=steveostudi0c-20&linkId=031fcb032fd2ff1c178fd7ddb322a43c",
     image: "/static/books/RocketSurgeryMadeEasy.jpg"
@@ -103,8 +107,9 @@ const books = [
     dateFinish: "2017-07-04T10:00:00.000Z",
     publisher: "A Book Apart",
     publisherUrl: "",
-    stars: 5,
-    review: "",
+    stars: 2,
+    review:
+      "Super basic. If you need an introduction to HTML, this is the book for you!",
     url: "https://abookapart.com/products/1e-html5-for-web-designers",
     image: "/static/books/HTML5ForWebDesigners.png"
   },
@@ -117,7 +122,7 @@ const books = [
     publisher: "A Book Apart",
     publisherUrl: "",
     stars: 5,
-    review: "",
+    review: null,
     url: "https://abookapart.com/products/css3-for-web-designers",
     image: "/static/books/CSS3ForWebDesigners.png"
   },
