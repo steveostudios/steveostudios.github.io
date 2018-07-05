@@ -3,6 +3,7 @@ import Link from "gatsby-link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import { withPrefix } from "gatsby-link";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
 import books from "./../data/books";
 import "./bookshelf.css";
 
@@ -10,15 +11,15 @@ class BookshelfPage extends React.Component {
   renderBook(book, i) {
     return (
       <div className="book" key={i}>
-        <a href={book.url}>
+        <OutboundLink href={book.url}>
           <img src={withPrefix(book.image)} />
-        </a>
-        <a
+        </OutboundLink>
+        <OutboundLink
           href={book.url}
           style={{ textDecoration: "none", fontWeight: "400" }}
         >
           <h3>{book.title}</h3>
-        </a>
+        </OutboundLink>
         <p>{book.subtitle}</p>
         <p>{book.author}</p>
         {this.renderStars(book.stars, book.review)}

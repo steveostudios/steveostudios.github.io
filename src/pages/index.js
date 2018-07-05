@@ -1,5 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
+import { OutboundLink } from "gatsby-plugin-google-analytics";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import "./home.css";
@@ -9,24 +11,27 @@ const IndexPage = () => (
     <h1>Steve Stone</h1>
     <h2>
       Developer at
-      <a href="https://downloadyouthministry.com"> Download Youth Ministry</a>
+      <OutboundLink href="https://downloadyouthministry.com">
+        {" "}
+        Download Youth Ministry
+      </OutboundLink>
     </h2>
     <p>
-      I make <a href="https://sidekick.tv">Sidekick</a>
+      I make <OutboundLink href="https://sidekick.tv">Sidekick</OutboundLink>
     </p>
     <div className="social">
-      <a href="https://github.com/steveostudios">
+      <OutboundLink href="https://github.com/steveostudios">
         <FontAwesomeIcon icon={["fab", "github"]} />
-      </a>
-      <a href="https://dribbble.com/steveostudios">
+      </OutboundLink>
+      <OutboundLink href="https://dribbble.com/steveostudios">
         <FontAwesomeIcon icon={["fab", "dribbble"]} />
-      </a>
-      <a href="https://medium.com/@steveostudios">
+      </OutboundLink>
+      <OutboundLink href="https://medium.com/@steveostudios">
         <FontAwesomeIcon icon={["fab", "medium"]} />
-      </a>
-      <a href="https://vimeo.com/steveostudios">
+      </OutboundLink>
+      <OutboundLink href="https://vimeo.com/steveostudios">
         <FontAwesomeIcon icon={["fab", "vimeo"]} />
-      </a>
+      </OutboundLink>
     </div>
   </div>
 );
