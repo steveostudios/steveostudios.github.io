@@ -7,7 +7,13 @@ import "./home.css";
 const IndexPage = () => (
   <div className="home">
     <h1>Steve Stone</h1>
-    <h2>Developer at Download Youth Ministry</h2>
+    <h2>
+      Developer at
+      <a href="https://downloadyouthministry.com"> Download Youth Ministry</a>
+    </h2>
+    <p>
+      I make <a href="https://sidekick.tv">Sidekick</a>
+    </p>
     <div className="social">
       <a href="https://github.com/steveostudios">
         <FontAwesomeIcon icon={["fab", "github"]} />

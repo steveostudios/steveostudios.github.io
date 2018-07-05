@@ -6,7 +6,7 @@ import avatar from "./../images/avatar_Steveostudios.jpg";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faStroopwafel } from "@fortawesome/free-solid-svg-icons";
+import { faStar } from "@fortawesome/free-solid-svg-icons";
 import {
   faGithub,
   faDribbble,
@@ -14,7 +14,7 @@ import {
   faVimeo
 } from "@fortawesome/free-brands-svg-icons";
 
-library.add(faStroopwafel, faGithub, faDribbble, faMedium, faVimeo);
+library.add(faStar, faGithub, faDribbble, faMedium, faVimeo);
 
 import "./index.css";
 import "./overrides.css";

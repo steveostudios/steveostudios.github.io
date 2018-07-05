@@ -39,9 +39,33 @@
   height: 270px;
   object-fit: contain;
   margin-bottom: 0;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+  transform: scale(1);
+  transition: transform 0.125s ease-in-out;
+}
+
+.book img:hover {
+  transform: scale(1.05);
 }
 
 .book > * + * {
   margin: 0;
   margin-top: 0.5em;
+}
+
+.book .stars {
+  position: relative;
+}
+.book .stars .review {
+  position: absolute;
+  border: 1px solid #cecece;
+  display: none;
+  background: #fefefe;
+  margin: -1em;
+  padding: 1em;
+  bottom: 2.5em;
+}
+
+.book .stars:hover .review {
+  display: block;
 }

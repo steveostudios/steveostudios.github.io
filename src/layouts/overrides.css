@@ -6,3 +6,11 @@ html,
 body {
   font-family: sans-serif;
 }
+
+html {
+  min-height: 100%;
+  background-attachment: scroll;
+  background-image: url("./../images/footer.png");
+  background-position: bottom;
+  background-repeat: repeat-x;
+}

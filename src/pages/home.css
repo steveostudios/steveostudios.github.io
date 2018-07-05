@@ -6,6 +6,16 @@
   color: #224466;
 }
 
+.home a {
+  text-decoration: none;
+  color: #224466;
+  transition: all 0.25s ease-in-out;
+}
+
+.home a:hover {
+  color: #4788bb;
+}
+
 .home h1 {
   font-size: 3em;
   font-weight: 100;
@@ -18,6 +28,13 @@
   margin-bottom: 0.25em;
 }
 
+.home p {
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 0.25em;
+  opacity: 0.75;
+}
+
 .home .social {
   display: flex;
 }
@@ -25,9 +42,4 @@
 .home .social a {
   margin: 1em;
   font-size: 2em;
-  color: #224466;
-  transition: all 0.25s ease-in-out;
-}
-.home .social a:hover {
-  color: #4788bb;
 }

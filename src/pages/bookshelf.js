@@ -1,14 +1,15 @@
 import React from "react";
 import Link from "gatsby-link";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import { withPrefix } from "gatsby-link";
 import books from "./../data/books";
 import "./bookshelf.css";
 
 class BookshelfPage extends React.Component {
-  renderBook(book) {
+  renderBook(book, i) {
     return (
-      <div className="book">
+      <div className="book" key={i}>
         <a href={book.url}>
           <img src={withPrefix(book.image)} />
         </a>
@@ -20,8 +21,27 @@ class BookshelfPage extends React.Component {
         </a>
         <p>{book.subtitle}</p>
         <p>{book.author}</p>
+        {this.renderStars(book.stars, book.review)}
       </div>
     );
+  }
+
+  renderStars(stars, review) {
+    if (stars) {
+      const count = Array.apply(null, Array(stars));
+      return (
+        <p className="stars">
+          {this.renderReview(review)}
+          {count.map((star, i) => <FontAwesomeIcon icon="star" />)}
+        </p>
+      );
+    } else {
+      return <p>not rated</p>;
+    }
+  }
+
+  renderReview(review) {
+    return !review ? null : <div className="review">{review}</div>;
   }
 
   render() {
@@ -38,7 +58,7 @@ class BookshelfPage extends React.Component {
             .filter(book => {
               return new Date(book.dateStart).getFullYear() === 2018;
             })
-            .map(book => this.renderBook(book))}
+            .map((book, i) => this.renderBook(book, i))}
         </div>
         <h2>2017</h2>
         <div className="books">
@@ -51,7 +71,7 @@ class BookshelfPage extends React.Component {
             .filter(book => {
               return new Date(book.dateStart).getFullYear() === 2017;
             })
-            .map(book => this.renderBook(book))}
+            .map((book, i) => this.renderBook(book, i))}
         </div>
         <h2>2016</h2>
         <div className="books">
@@ -64,7 +84,7 @@ class BookshelfPage extends React.Component {
             .filter(book => {
               return new Date(book.dateStart).getFullYear() === 2016;
             })
-            .map(book => this.renderBook(book))}
+            .map((book, i) => this.renderBook(book, i))}
         </div>
       </div>
     );

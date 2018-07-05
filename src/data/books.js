@@ -75,8 +75,8 @@ const books = [
     dateFinish: "2018-03-29T10:00:00.000Z",
     publisher: "A Book Apart",
     publisherUrl: "",
-    stars: "2018-03-02T10:00:00.000Z",
-    review: "2018-03-29T10:00:00.000Z",
+    stars: 4,
+    review: null,
     url: "https://abookapart.com/products/practical-design-discovery",
     image: "/static/books/PracticalDesignDiscovery.png"
   },
