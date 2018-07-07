@@ -24,6 +24,11 @@ a:hover {
   color: #6688aa;
 }
 
+.fa-xs {
+  width: 1em;
+  height: 1em;
+}
+
 h1,
 h2,
 h3,
