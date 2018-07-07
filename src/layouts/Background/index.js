@@ -10,6 +10,7 @@ class Background extends React.Component {
         <div className="shape-3" />
         <div className="shape-4" />
         <div className="shape-5" />
+        <div className="shape-6" />
       </div>
     );
   }
