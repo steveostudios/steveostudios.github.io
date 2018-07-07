@@ -1,74 +1,40 @@
 .Background {
-  position: absolute;
+  position: fixed;
+  top: 0;
+  z-index: -1;
   left: 0;
   right: 0;
   width: 100%;
-  height: 100%;
+  min-height: 100%;
   overflow-x: hidden;
 }
 
-.Background .shape-1 {
+.Background .shape {
   position: absolute;
-  width: 20em;
-  height: 20em;
-  background-color: #ff00cc;
-  top: -3em;
-  left: -8em;
-  z-index: -1;
   display: block;
   transform: rotate(45deg);
 }
 
-.Background .shape-2 {
-  position: absolute;
-  width: 10em;
-  height: 10em;
-  background-color: #ffff00;
-  top: 16em;
-  left: 20em;
-  z-index: -2;
-  display: block;
-  transform: rotate(45deg);
-}
-
-.Background .shape-3 {
-  position: absolute;
-  width: 40em;
-  height: 40em;
+.Background .shape.cyan {
   background-color: #00ccff;
-  top: 4em;
-  right: -30em;
-  z-index: -3;
-  display: block;
-  transform: rotate(45deg);
 }
-.Background .shape-4 {
-  position: absolute;
-  width: 5em;
-  height: 5em;
-  background-color: rgba(17, 34, 51, 0.25);
-  top: 32em;
-  left: 10em;
-  z-index: -4;
-  display: block;
-  transform: rotate(45deg);
-}
-.Background .shape-5 {
-  position: absolute;
-  width: 4em;
-  height: 4em;
-  background-color: #112233;
-  bottom: 4em;
-  right: 20em;
-  z-index: -5;
-  display: block;
-  transform: rotate(45deg);
+.Background .shape.magenta {
+  background-color: #ff00cc;
 }
 
-.Background .shape-6 {
-  position: absolute;
-  width: 12em;
-  height: 12em;
+.Background .shape.yellow {
+  background-color: #ffff00;
+}
+
+.Background .shape.key {
+  background-color: #112233;
+}
+
+.Background .shape.key-25 {
+  background-color: rgba(17, 34, 51, 0.25);
+}
+
+.Background .shape.stripes {
   background: linear-gradient(
     to bottom,
     rgba(17, 34, 51, 0.25),
@@ -76,12 +42,90 @@
     rgba(17, 34, 51, 0) 50%,
     rgba(17, 34, 51, 0)
   );
-  /* The rectangle in which to repeat. 
-   It can be fully wide in this case */
-  background-size: 100% 20px;
-  top: 8em;
-  left: 2em;
-  z-index: -6;
-  display: block;
-  transform: rotate(45deg);
+  background-size: 100% 10%;
+}
+
+.Background .shape-1 {
+  width: 50%;
+  padding-top: 50%;
+  top: -2%;
+  left: -12%;
+}
+
+.Background .shape-2 {
+  width: 20%;
+  padding-top: 20%;
+  top: 30%;
+  left: 10%;
+}
+
+.Background .shape-3 {
+  width: 80%;
+  padding-top: 80%;
+  top: 5%;
+  right: -40%;
+}
+
+.Background .shape-4 {
+  width: 8%;
+  padding-top: 8%;
+  top: 90%;
+  left: 30%;
+}
+
+.Background .shape-5 {
+  width: 4%;
+  padding-top: 4%;
+  bottom: 4%;
+  right: 90%;
+}
+
+.Background .shape-6 {
+  width: 20%;
+  padding-top: 20%;
+  top: 20%;
+  right: 54%;
+}
+
+.Background .shape-7 {
+  width: 6%;
+  padding-top: 6%;
+  top: 24%;
+  right: 8%;
+}
+
+.Background .shape-8 {
+  width: 2%;
+  padding-top: 2%;
+  top: 4%;
+  right: 38%;
+}
+
+.Background .shape-9 {
+  width: 10%;
+  padding-top: 10%;
+  bottom: 30%;
+  right: 80%;
+}
+
+.Background .shape-10 {
+  width: 8%;
+  padding-top: 8%;
+  top: 40%;
+  right: 4%;
+}
+
+.Background .shape-11 {
+  width: 8%;
+  padding-top: 8%;
+  top: 40%;
+  right: 4%;
+}
+
+.Background .shape-12 {
+  width: 14%;
+  padding-top: 14%;
+  bottom: 40%;
+  right: 4%;
+  transform: rotate(-45deg);
 }
