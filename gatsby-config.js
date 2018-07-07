@@ -18,6 +18,12 @@ module.exports = {
         // Avoids sending pageview hits from custom paths
         exclude: []
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Rubik`, `Nunito`]
+      }
     }
   ]
 };

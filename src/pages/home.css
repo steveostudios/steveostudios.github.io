@@ -1,29 +1,11 @@
 .home {
-  margin-top: 200px;
+  margin-top: 4em;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  color: #224466;
-}
-
-.home a {
-  ftext-decoration: none;
-  color: #224466;
-  transition: all 0.25s ease-in-out;
-}
-
-.home a:hover {
-  color: #4788bb;
 }
 
 .home h1 {
   font-size: 3em;
-  font-weight: 100;
-  margin-bottom: 0.25em;
-}
-
-.home h2 {
-  font-size: 1em;
   font-weight: 100;
   margin-bottom: 0.25em;
 }
@@ -36,10 +18,11 @@
 }
 
 .home .social {
+  margin-top: 0.5em;
   font-size: 2em;
   display: flex;
 }
 
 .home .social a {
-  margin: 1em;
+  margin-right: 1em;
 }

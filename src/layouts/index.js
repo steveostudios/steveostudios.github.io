@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
-import avatar from "./../images/avatar_Steveostudios.jpg";
+import logo from "./../images/logo.png";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -24,10 +24,9 @@ import "./main.css";
 const Header = () => (
   <div className="header">
     <Link className="mark" to="/">
-      <img src={avatar} />
-      <div>Hi, I'm Steve</div>
+      <img src={logo} />
     </Link>
-    <Link to="/bookshelf">Bookshelf</Link>
+    <Link to="/books">Books</Link>
   </div>
 );
 
@@ -41,6 +40,11 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
+    <div className="shape-1" />
+    <div className="shape-2" />
+    <div className="shape-3" />
+    <div className="shape-4" />
+    <div className="shape-5" />
     <div className="main">{children()}</div>
   </div>
 );

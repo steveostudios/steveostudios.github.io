@@ -1,25 +1,13 @@
 @import url("./overrides.css");
 .header {
-  border-bottom: 1px solid #cecece;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin: 0 auto;
   max-width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-weight: 100;
-  color: #224466;
-  background-image: url("./../images/header-left.png"),
-    url("./../images/header-right.png");
-  background-position: left, right;
-  background-repeat: no-repeat;
-  background-size: contain;
   padding: 1em var(--pad);
-}
-
-.header a,
-.header a:visited {
-  text-decoration: none;
-  color: #224466;
+  text-transform: uppercase;
 }
 
 .header .mark {
@@ -29,7 +17,6 @@
 }
 
 .header .mark img {
-  border-radius: 50%;
   height: 2em;
   margin-bottom: 0;
   margin-right: 1em;

@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { withPrefix } from "gatsby-link";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import books from "./../data/books";
-import "./bookshelf.css";
+import "./books.css";
 
 class BookshelfPage extends React.Component {
   renderBook(book, i) {

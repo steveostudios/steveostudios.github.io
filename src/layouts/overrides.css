@@ -4,13 +4,88 @@
 
 html,
 body {
-  font-family: sans-serif;
+  font-family: "Nunito";
 }
 
 html {
   min-height: 100%;
-  background-attachment: scroll;
-  background-image: url("./../images/footer.png");
-  background-position: bottom;
-  background-repeat: repeat-x;
+  color: #112233;
+  overflow-x: hidden;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+  color: #112233;
+  transition: all 100ms ease-in-out;
+}
+a:hover {
+  color: #6688aa;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Rubik";
+}
+
+.shape-1 {
+  position: absolute;
+  width: 20em;
+  height: 20em;
+  background-color: #ff00cc;
+  top: -3em;
+  left: -8em;
+  z-index: -1;
+  display: block;
+  transform: rotate(45deg);
+}
+
+.shape-2 {
+  position: absolute;
+  width: 10em;
+  height: 10em;
+  background-color: #ffff00;
+  top: 16em;
+  left: 20em;
+  z-index: -1;
+  display: block;
+  transform: rotate(45deg);
+}
+
+.shape-3 {
+  position: absolute;
+  width: 40em;
+  height: 40em;
+  background-color: #00ccff;
+  top: 4em;
+  right: -30em;
+  z-index: -2;
+  display: block;
+  transform: rotate(45deg);
+}
+.shape-4 {
+  position: absolute;
+  width: 5em;
+  height: 5em;
+  background-color: rgba(17, 34, 51, 0.25);
+  top: 32em;
+  left: 10em;
+  z-index: -3;
+  display: block;
+  transform: rotate(45deg);
+}
+.shape-5 {
+  position: absolute;
+  width: 4em;
+  height: 4em;
+  background-color: #112233;
+  bottom: 4em;
+  right: 20em;
+  z-index: -4;
+  display: block;
+  transform: rotate(45deg);
 }

@@ -8,14 +8,14 @@ import "./home.css";
 
 const IndexPage = () => (
   <div className="home">
-    <h1>Steve Stone</h1>
-    <h2>
-      Developer at
+    <h1>Hi, I'm Steve Stone</h1>
+    <p>
+      I'm a developer at
       <OutboundLink href="https://downloadyouthministry.com">
         {" "}
         Download Youth Ministry
-      </OutboundLink>
-    </h2>
+      </OutboundLink>, based out or Louisville, KY
+    </p>
     <p>
       I make <OutboundLink href="https://sidekick.tv">Sidekick</OutboundLink>
     </p>
