@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import Helmet from "react-helmet";
+import Background from "./Background";
 import logo from "./../images/logo.png";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
@@ -39,12 +40,8 @@ const TemplateWrapper = ({ children }) => (
         { name: "keywords", content: "sample, something" }
       ]}
     />
+    <Background />
     <Header />
-    <div className="shape-1" />
-    <div className="shape-2" />
-    <div className="shape-3" />
-    <div className="shape-4" />
-    <div className="shape-5" />
     <div className="main">{children()}</div>
   </div>
 );

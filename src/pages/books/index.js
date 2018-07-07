@@ -4,8 +4,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import { withPrefix } from "gatsby-link";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
-import books from "./../data/books";
-import "./books.css";
+import books from "./../../data/books";
+import "./style.css";
 
 class BookshelfPage extends React.Component {
   renderBook(book, i) {
@@ -48,7 +48,7 @@ class BookshelfPage extends React.Component {
   render() {
     return (
       <div className="bookshelf">
-        <h2>2018</h2>
+        <h1>2018</h1>
         <div className="books">
           {books
             .sort((a, b) => {
@@ -61,7 +61,7 @@ class BookshelfPage extends React.Component {
             })
             .map((book, i) => this.renderBook(book, i))}
         </div>
-        <h2>2017</h2>
+        <h1>2017</h1>
         <div className="books">
           {books
             .sort((a, b) => {
@@ -74,7 +74,7 @@ class BookshelfPage extends React.Component {
             })
             .map((book, i) => this.renderBook(book, i))}
         </div>
-        <h2>2016</h2>
+        <h1>2016</h1>
         <div className="books">
           {books
             .sort((a, b) => {

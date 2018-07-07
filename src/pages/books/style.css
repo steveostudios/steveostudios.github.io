@@ -1,24 +1,29 @@
 /* @import url("./../layouts/overrides.css"); */
 .bookshelf {
   position: relative;
+  box-sizing: border-box;
 }
-.bookshelf h2 {
-  font-size: 0.9em;
+.bookshelf h1 {
   font-weight: 500;
 }
 
 .books {
-  grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
   display: grid;
   grid-gap: calc(1em + 2vw);
+  grid-template-columns: 1fr 1fr;
+
   font-size: 0.875em;
   margin-bottom: calc(1em + 2vw);
   line-height: 1.2;
 }
 
-.book {
-  font-size: 0.875em;
-  line-height: 1.2;
+@media (min-width: 30em) {
+  .books {
+    grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+  }
+  .book img {
+    height: 270px;
+  }
 }
 
 .book h3 {
@@ -34,7 +39,7 @@
 }
 
 .book img {
-  height: 270px;
+  height: 200px;
   object-fit: contain;
   margin-bottom: 0;
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
