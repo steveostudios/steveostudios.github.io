@@ -1,0 +1,21 @@
+#gitGraph {
+  margin: -1em;
+}
+#tooltips {
+  position: fixed;
+  left: 10em;
+  top: 5em;
+  width: calc(50% - 2em);
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+  display: block;
+  padding: 1em;
+  opacity: 0;
+  transition: none;
+}
+
+#tooltips.active {
+  transition: opacity 100ms ease-in-out 250ms;
+  opacity: 1;
+}
