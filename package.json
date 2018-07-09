@@ -10,6 +10,7 @@
     "@fortawesome/react-fontawesome": "^0.1.0",
     "gatsby": "^1.9.17",
     "gatsby-link": "^1.6.15",
+    "gatsby-plugin-favicon": "^2.1.1",
     "gatsby-plugin-google-analytics": "^1.0.31",
     "gatsby-plugin-google-fonts": "0.0.4",
     "gatsby-plugin-react-helmet": "^1.0.5"
