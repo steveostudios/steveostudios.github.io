@@ -1,7 +1,0 @@
-@import url("./overrides.css");
-.main {
-  margin: 0 auto;
-  max-width: 100%;
-  padding: 0px 1.0875rem 1.45rem;
-  padding: 1em var(--pad);
-}

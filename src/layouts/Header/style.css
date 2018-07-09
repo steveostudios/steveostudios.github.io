@@ -1,5 +1,5 @@
-@import url("./overrides.css");
-.header {
+@import url("./../overrides.css");
+.Header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin: 0 auto;
   max-width: 100%;
@@ -10,13 +10,13 @@
   text-transform: uppercase;
 }
 
-.header .mark {
+.Header .mark {
   display: flex;
   align-items: center;
   flex: 1;
 }
 
-.header .mark img {
+.Header .mark img {
   height: 2em;
   margin-bottom: 0;
   margin-right: 1em;

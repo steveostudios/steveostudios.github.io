@@ -20,6 +20,9 @@ const IndexPage = () => (
       I make <OutboundLink href="https://sidekick.tv">Sidekick</OutboundLink>
     </p>
     <div className="social">
+      <OutboundLink href="https://twitter.com/steveostudios">
+        <FontAwesomeIcon icon={["fab", "twitter"]} size="xs" />
+      </OutboundLink>
       <OutboundLink href="https://github.com/steveostudios">
         <FontAwesomeIcon icon={["fab", "github"]} size="xs" />
       </OutboundLink>

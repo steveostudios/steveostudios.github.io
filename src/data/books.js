@@ -317,6 +317,20 @@ const books = [
     url:
       "https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-1&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=640e8b51b5da0f9863662f31be4eb666",
     image: "/static/books/YouDontKnowJSUpAndGoing.jpg"
+  },
+  {
+    title: "Sprint",
+    subtitle: "How to Solve Big Problems and Test New Ideas in Just Five Days",
+    author: "Jake Knapp, John Zeratsky, and Brandon Kowitz",
+    dateStart: "2016-01-15T10:00:00.000Z",
+    dateFinish: "2016-01-15T10:00:00.000Z",
+    publisher: "Simon & Schuster",
+    publisherUrl: "",
+    stars: null,
+    review: "",
+    url:
+      "https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=as_li_ss_tl?ie=UTF8&qid=1531075696&sr=8-2&keywords=sprint&linkCode=ll1&tag=steveostudi0c-20&linkId=6d131932f77600def106419e0a205f69",
+    image: "/static/books/Sprint.jpg"
   }
 ];
 
