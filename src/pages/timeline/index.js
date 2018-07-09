@@ -176,14 +176,7 @@ class TimelinePage extends React.Component {
           displayHash: false,
           font: "normal 12pt Rubik",
           color: "#112233"
-        },
-        shouldDisplayTooltipsInCompactMode: true,
-        tooltipHTMLFormatter: function(commit) {
-          // default = true
-          return "" + commit.sha1 + "" + ": " + commit.message;
-        },
-        tooltipDisplay: true,
-        tooltipContainer: document.querySelector("#tooltips")
+        }
       }
     };
 
