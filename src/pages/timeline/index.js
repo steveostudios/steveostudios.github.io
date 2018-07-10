@@ -1,12 +1,5 @@
 import React from "react";
 import GitGraph from "react-gitgraph";
-// import Link from "gatsby-link";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// <script src="js/gitgraph.min.js" />;
-
-// import { withPrefix } from "gatsby-link";
-// import { OutboundLink } from "gatsby-plugin-google-analytics";
-// import books from "./../../data/books";
 import "./style.css";
 
 class TimelinePage extends React.Component {
@@ -38,35 +31,35 @@ class TimelinePage extends React.Component {
     const yearCol = 0;
     const schoolCol = 1;
     const workCol = 2;
-    const significantCol = 3;
+    const sideCol = 3;
 
-    const year = gitgraph.branch({
-      name: "life",
-      column: yearCol
-    });
-    year.commit({
-      message: "1983"
-    });
-    year.commit({ messageDisplay: false });
-    year.commit({ message: "1984" });
-    year.commit({ message: "1985" });
-    year.commit({ message: "1986" });
-    year.commit({ message: "1987" });
-    year.commit({ message: "1988" });
-    year.commit({ message: "1989" });
-    const school001 = gitgraph.branch({
-      parentBranch: year,
-      name: "school",
-      column: schoolCol
-    });
-    school001.commit({
-      message: "Gordon McCaw Elementary"
-    });
-    year.commit({ message: "1990" });
-    year.commit({ message: "1991" });
-    year.commit({ message: "1992" });
-    year.commit({ message: "1993" });
-    year.commit({ message: "1994" });
+    const year = gitgraph
+      .branch({
+        name: "life",
+        column: yearCol
+      })
+      .commit({ message: "1983" })
+      .commit({ message: "1984" })
+      .commit({ message: "1985" })
+      .commit({ message: "1986" })
+      .commit({ message: "1987" })
+      .commit({ message: "1988" })
+      .commit({ message: "1989" });
+    const school001 = gitgraph
+      .branch({
+        parentBranch: year,
+        name: "school",
+        column: schoolCol
+      })
+      .commit({
+        message: "Gordon McCaw Elementary"
+      });
+    year
+      .commit({ message: "1990" })
+      .commit({ message: "1991" })
+      .commit({ message: "1992" })
+      .commit({ message: "1993" })
+      .commit({ message: "1994" });
     // year.commit({ message: "1995" });
     school001.merge(year, { message: "1995" });
     const school002 = gitgraph.branch({
@@ -108,17 +101,19 @@ class TimelinePage extends React.Component {
       message: "Central Christian Church - Production Assistant"
     });
     school003.merge(year, { message: "2002" });
-    const school004 = gitgraph.branch({
-      parentBranch: year,
-      name: "school",
-      column: schoolCol
-    });
-    school004.commit({
-      message: "University Nevada, Las Vegas - Film program"
-    });
-    year.commit({ message: "2003" });
-    year.commit({ message: "2004" });
-    year.commit({ message: "2005" });
+    const school004 = gitgraph
+      .branch({
+        parentBranch: year,
+        name: "school",
+        column: schoolCol
+      })
+      .commit({
+        message: "University Nevada, Las Vegas - Film program"
+      });
+    year
+      .commit({ message: "2003" })
+      .commit({ message: "2004" })
+      .commit({ message: "2005" });
     work002.merge(year, {
       messageDisplay: false
     });
@@ -132,34 +127,44 @@ class TimelinePage extends React.Component {
       message:
         "Southeast Christian Church - Student Ministry Creative Media Designer"
     });
-    year.commit({ message: "2007" });
-    year.commit({ message: "2008" });
-    year.commit({ message: "2009" });
-    year.commit({ message: "2010" });
-    year.commit({ message: "2011" });
-    year.commit({ message: "2012" });
-    year.commit({ message: "2013" });
-    year.commit({ message: "2014" });
-    year.commit({ message: "2015" });
+    const side001 = gitgraph
+      .branch({
+        parentBranch: year,
+        name: "work",
+        column: sideCol
+      })
+      .commit({ message: "joined Church Tech Talk" })
+      .commit({ message: "joined r58 design" });
+    year.commit({ message: "2007" }).commit({ message: "2008" });
+    side001.commit({ message: "r58 design became Digital Stache" });
+    year
+      .commit({ message: "2009" })
+      .commit({ message: "2010" })
+      .commit({ message: "2011" })
+      .commit({ message: "2012" })
+      .commit({ message: "2013" })
+      .commit({ message: "2014" })
+      .commit({ message: "2015" });
     work003.merge(year, {
       messageDisplay: false
     });
-    const work004 = gitgraph.branch({
-      parentBranch: year,
-      name: "work",
-      column: workCol
-    });
-    work004.commit({
-      message: "Download Youth Ministry - Developer"
-    });
-    year.commit({ message: "2016" });
-
-    year.commit({ message: "2017" });
-    year.commit({
-      message: "2018",
-      details: "notice this!",
-      date: "some date, huh?!"
-    });
+    const work004 = gitgraph
+      .branch({
+        parentBranch: year,
+        name: "work",
+        column: workCol
+      })
+      .commit({
+        message: "Download Youth Ministry - Developer"
+      });
+    year
+      .commit({ message: "2016" })
+      .commit({ message: "2017" })
+      .commit({
+        message: "2018",
+        details: "notice this!",
+        date: "some date, huh?!"
+      });
   }
 
   render() {

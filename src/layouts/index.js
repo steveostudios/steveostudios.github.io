@@ -31,7 +31,6 @@ const TemplateWrapper = ({ children }) => (
     <Background />
     <Header />
     <div className="main">{children()}</div>
-    <script src="./../../node_modules/gitgraph/build/gitgraph.min.js" />;
   </div>
 );
 
