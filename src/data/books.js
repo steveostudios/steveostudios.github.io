@@ -1,14 +1,29 @@
 const books = [
   {
+    title: "Clean Code",
+    subtitle: "A Handbook of Agile Software Craftsmanship",
+    author: "Robert C. Martin",
+    dateStart: "2018-07-19T10:00:00.000Z",
+    dateFinish: null,
+    publisher: "Prentice Hall",
+    publisherUrl: "",
+    stars: null,
+    review: null,
+    url:
+      "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&qid=1532031940&sr=8-3&keywords=clean+code&linkCode=ll1&tag=steveostudi0c-20&linkId=3a849aca23fa18d512c11cad44ed6526",
+    image: "/static/books/CleanCode.jpg"
+  },
+  {
     title: "Remote",
     subtitle: "",
     author: "Jason Fried and David Heinemeier Hansson",
     dateStart: "2018-05-29T10:00:00.000Z",
-    dateFinish: null,
+    dateFinish: "2018-07-25T10:00:00.000Z",
     publisher: "Crown Business",
     publisherUrl: "",
-    stars: null,
-    review: null,
+    stars: 3,
+    review:
+      "Kinda all fluff and dreams. The authors spend a LOT of time just talking about all of the benefits of remote work, trying to sell you to let your team work remote. I was expecting this book to be a lot more about the practicals on _how_ to work remote! If you are looking to convince a manager to let you work remote, ",
     url:
       "https://www.amazon.com/gp/product/0804137501/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=&linkId=8a406edc2fe9394925c4e61b826ebf96",
     image: "/static/books/Remote.jpg"
