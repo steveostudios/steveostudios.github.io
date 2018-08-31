@@ -1,5 +1,32 @@
 const books = [
   {
+    title: "On Web typography",
+    subtitle: "",
+    author: "Jason Santa Maria",
+    dateStart: "2018-08-16T10:00:00.000Z",
+    dateFinish: null,
+    publisher: "A Book Apart",
+    publisherUrl: "",
+    stars: null,
+    review: null,
+    url: "https://abookapart.com/products/on-web-typography",
+    image: "/static/books/WebfontHandbook.png"
+  },
+  {
+    title: "Webfont Handbook",
+    subtitle: "",
+    author: "Bram Stein",
+    dateStart: "2018-08-04T10:00:00.000Z",
+    dateFinish: "2018-08-16T10:00:00.000Z",
+    publisher: "A Book Apart",
+    publisherUrl: "",
+    stars: 4,
+    review:
+      "I remember when having a custom font on the web meant you needed to create an image. Then using flash to embed those fonts...We've come a long way. Bram gives some really practical tips on how to use webfonts, what legal concerns you need to have, and how to get the most performance out of fonts. Great handbook to have!",
+    url: "https://abookapart.com/products/webfont-handbook",
+    image: "/static/books/WebfontHandbook.png"
+  },
+  {
     title: "Clean Code",
     subtitle: "A Handbook of Agile Software Craftsmanship",
     author: "Robert C. Martin",
