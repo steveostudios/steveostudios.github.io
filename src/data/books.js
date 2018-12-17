@@ -1,4 +1,16 @@
 const books = [{
+    title: "Competing Against Luck",
+    subtitle: "The Story of Innovation and Customer Choice",
+    author: "Clayton M. Christensen, Taddy Hall, Karen Dillion, and David S. Duncan",
+    dateStart: "2018-12-16T10:00:00.000Z",
+    dateFinish: null,
+    publisher: "Harper Business",
+    publisherUrl: "",
+    stars: null,
+    review: null,
+    url: "https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=steveostudi0c-20&linkId=14ae758bc13160f7a5be1e21de88db23&language=en_US",
+    image: "/static/books/CompetingAgainstLuck.jpg"
+  }, {
     title: "The Road Back To You",
     subtitle: "An Enneagram Journey to Self-Discovery",
     author: "Ian Morgan Cron and Suzanne Stabile",
@@ -16,10 +28,10 @@ const books = [{
     subtitle: "",
     author: "Jason Santa Maria",
     dateStart: "2018-08-16T10:00:00.000Z",
-    dateFinish: null,
+    dateFinish: "2018-12-16T10:00:00.000Z",
     publisher: "A Book Apart",
     publisherUrl: "",
-    stars: null,
+    stars: 4,
     review: null,
     url: "https://abookapart.com/products/on-web-typography",
     image: "/static/books/OnWebTypography.png"
