@@ -1,4 +1,16 @@
 const books = [{
+    title: "Going Offline",
+    subtitle: "",
+    author: "Jeremy Keith",
+    dateStart: "2018-12-26T10:00:00.000Z",
+    dateFinish: "2018-12-31T10:00:00.000Z",
+    publisher: "A Book Apart",
+    publisherUrl: "",
+    stars: null,
+    review: null,
+    url: "https://abookapart.com/products/going-offline",
+    image: "/static/books/GoingOffline.png"
+  },{
     title: "Competing Against Luck",
     subtitle: "The Story of Innovation and Customer Choice",
     author: "Clayton M. Christensen, Taddy Hall, Karen Dillion, and David S. Duncan",
