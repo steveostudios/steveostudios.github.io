@@ -65,6 +65,17 @@ const books = [{
     url: "https://abookapart.com/products/progressive-web-apps",
     image: "/static/books/ProgressiveWebApps.png"
   }, {
+    title: "Going Offline",
+    subtitle: "",
+    author: "Jeremy Keith",
+    dateStart: "2018-12-26",
+    dateFinish: "2018-12-31",
+    publisher: "A Book Apart",
+    stars: 5,
+    review: "Perfect! Totally explains and gives the code to make a webiste offline with Service Workers. Brilliantly done!",
+    url: "https://abookapart.com/products/going-offline",
+    image: "/static/books/GoingOffline.png"
+  }, {
     title: "Competing Against Luck",
     subtitle: "The Story of Innovation and Customer Choice",
     author: "Clayton M. Christensen, Taddy Hall, Karen Dillion, and David S. Duncan",
