@@ -10,14 +10,15 @@ const IndexPage = () => (
   <div className="home">
     <h1>Hi, I'm Steve Stone</h1>
     <p>
-      I'm a developer at
+      I am a developer at
       <OutboundLink href="https://downloadyouthministry.com">
         {" "}
         Download Youth Ministry
-      </OutboundLink>, based out or Louisville, KY
+      </OutboundLink>.
     </p>
+    <p>I live in Louisville, KY.</p>
     <p>
-      I make <OutboundLink href="https://sidekick.tv">Sidekick</OutboundLink>
+      I make <OutboundLink href="https://sidekick.tv">Sidekick</OutboundLink>.
     </p>
     <div className="social">
       <OutboundLink href="https://twitter.com/steveostudios">

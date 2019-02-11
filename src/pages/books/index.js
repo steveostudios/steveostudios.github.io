@@ -48,16 +48,29 @@ class BookshelfPage extends React.Component {
   render() {
     return (
       <div className="bookshelf">
+        <h1>2019</h1>
+        <div className="books">
+          {books
+            .sort((a, b) => {
+              var dateA = new Date(a.dateFinish);
+              var dateB = new Date(b.dateFinish);
+              return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
+            })
+            .filter(book => {
+              return new Date(book.dateFinish).getFullYear() === 2019;
+            })
+            .map((book, i) => this.renderBook(book, i))}
+        </div>
         <h1>2018</h1>
         <div className="books">
           {books
             .sort((a, b) => {
-              var dateA = new Date(a.dateStart);
-              var dateB = new Date(b.dateStart);
+              var dateA = new Date(a.dateFinish);
+              var dateB = new Date(b.dateFinish);
               return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
             })
             .filter(book => {
-              return new Date(book.dateStart).getFullYear() === 2018;
+              return new Date(book.dateFinish).getFullYear() === 2018;
             })
             .map((book, i) => this.renderBook(book, i))}
         </div>
@@ -65,12 +78,12 @@ class BookshelfPage extends React.Component {
         <div className="books">
           {books
             .sort((a, b) => {
-              var dateA = new Date(a.dateStart);
-              var dateB = new Date(b.dateStart);
+              var dateA = new Date(a.dateFinish);
+              var dateB = new Date(b.dateFinish);
               return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
             })
             .filter(book => {
-              return new Date(book.dateStart).getFullYear() === 2017;
+              return new Date(book.dateFinish).getFullYear() === 2017;
             })
             .map((book, i) => this.renderBook(book, i))}
         </div>
@@ -78,12 +91,12 @@ class BookshelfPage extends React.Component {
         <div className="books">
           {books
             .sort((a, b) => {
-              var dateA = new Date(a.dateStart);
-              var dateB = new Date(b.dateStart);
+              var dateA = new Date(a.dateFinish);
+              var dateB = new Date(b.dateFinish);
               return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
             })
             .filter(book => {
-              return new Date(book.dateStart).getFullYear() === 2016;
+              return new Date(book.dateFinish).getFullYear() === 2016;
             })
             .map((book, i) => this.renderBook(book, i))}
         </div>
