@@ -1,12 +1,23 @@
 const books = [{
-    title: "Image Performance",
-    subtitle: "A Handbook of Agile Software Craftsmanship",
-    author: "Mat Marquis",
-    dateStart: "2019-02-08",
+    title: "Animation at Work",
+    subtitle: "",
+    author: "Rachel Nabors",
+    dateStart: "2019-02-12",
     dateFinish: null,
     publisher: "A Book Apart",
     stars: null,
     review: null,
+    url: "https://abookapart.com/products/animation-at-work",
+    image: "/static/books/AnimationAtWork.png"
+  }, {
+    title: "Image Performance",
+    subtitle: "",
+    author: "Mat Marquis",
+    dateStart: "2019-02-08",
+    dateFinish: "2019-02-12",
+    publisher: "A Book Apart",
+    stars: 4,
+    review: "Great synopsis. I liked the section where Mat described how compression kindof works. It now makes way more sense how images can look perceivably identical, but have drastically different data sizes.",
     url: "https://abookapart.com/products/image-performance",
     image: "/static/books/ImagePerformance.png"
   }, {
