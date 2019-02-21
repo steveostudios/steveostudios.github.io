@@ -45,61 +45,34 @@ class BookshelfPage extends React.Component {
     return !review ? null : <div className="review">{review}</div>;
   }
 
+  groupByArray(xs, key) {
+    return xs
+      .filter(book => book.dateFinish)
+      .sort((a, b) => new Date(b.dateFinish) - new Date(a.dateFinish))
+      .reduce(function(rv, x) {
+        let v = key instanceof Function ? key(x) : x[key];
+        let el = rv.find(r => r && r.key === new Date(v).getFullYear());
+        if (el) {
+          el.values.push(x);
+        } else {
+          rv.push({ key: new Date(v).getFullYear(), values: [x] });
+        }
+        return rv;
+      }, []);
+  }
+
   render() {
+    const years = this.groupByArray(books, "dateFinish");
     return (
       <div className="bookshelf">
-        <h1>2019</h1>
-        <div className="books">
-          {books
-            .sort((a, b) => {
-              var dateA = new Date(a.dateFinish);
-              var dateB = new Date(b.dateFinish);
-              return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
-            })
-            .filter(book => {
-              return new Date(book.dateFinish).getFullYear() === 2019;
-            })
-            .map((book, i) => this.renderBook(book, i))}
-        </div>
-        <h1>2018</h1>
-        <div className="books">
-          {books
-            .sort((a, b) => {
-              var dateA = new Date(a.dateFinish);
-              var dateB = new Date(b.dateFinish);
-              return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
-            })
-            .filter(book => {
-              return new Date(book.dateFinish).getFullYear() === 2018;
-            })
-            .map((book, i) => this.renderBook(book, i))}
-        </div>
-        <h1>2017</h1>
-        <div className="books">
-          {books
-            .sort((a, b) => {
-              var dateA = new Date(a.dateFinish);
-              var dateB = new Date(b.dateFinish);
-              return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
-            })
-            .filter(book => {
-              return new Date(book.dateFinish).getFullYear() === 2017;
-            })
-            .map((book, i) => this.renderBook(book, i))}
-        </div>
-        <h1>2016</h1>
-        <div className="books">
-          {books
-            .sort((a, b) => {
-              var dateA = new Date(a.dateFinish);
-              var dateB = new Date(b.dateFinish);
-              return dateA > dateB ? -1 : dateA < dateB ? 1 : 0;
-            })
-            .filter(book => {
-              return new Date(book.dateFinish).getFullYear() === 2016;
-            })
-            .map((book, i) => this.renderBook(book, i))}
-        </div>
+        {years.map((item, i) => (
+          <div>
+            <h1>{item.key}</h1>
+            <div className="books">
+              {item.values.map((book, i) => this.renderBook(book, i))}
+            </div>
+          </div>
+        ))}
       </div>
     );
   }
