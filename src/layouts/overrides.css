@@ -20,6 +20,7 @@ a:visited {
   color: #112233;
   transition: all 100ms ease-in-out;
 }
+
 a:hover {
   color: #6688aa;
 }
@@ -43,4 +44,8 @@ h6 {
   max-width: 100%;
   padding: 0px 1.0875rem 1.45rem;
   padding: 1em var(--pad);
+}
+
+footer {
+  background-color: #112233;
 }

@@ -9,12 +9,12 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 import {
   faGithub,
   faDribbble,
-  faMedium,
-  faVimeo,
+  faMediumM,
+  faVimeoV,
   faTwitter
 } from "@fortawesome/free-brands-svg-icons";
 
-library.add(faStar, faTwitter, faGithub, faDribbble, faMedium, faVimeo);
+library.add(faStar, faTwitter, faGithub, faDribbble, faMediumM, faVimeoV);
 
 import "./index.css";
 import "./overrides.css";

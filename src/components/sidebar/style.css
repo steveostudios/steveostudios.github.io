@@ -1,0 +1,46 @@
+.sidebar {
+  background-color: #fafafa;
+  color: #333;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 40%;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  font-size: 800;
+}
+
+.sidebar .about {
+  margin: 0 80px;
+}
+
+.sidebar h1,
+.sidebar h1 a {
+  font-family: "Biryani";
+  text-decoration: none;
+  color: #4a4a4a;
+  margin-bottom: 48px;
+  font-weight: 900;
+  letter-spacing: -1px;
+}
+
+.sidebar p {
+  font-family: "Biryani";
+  font-weight: 300;
+  font-size: 16px;
+  margin-bottom: 48px;
+  line-height: 1.7;
+}
+
+.sidebar .social {
+  margin-bottom: 48px;
+
+}
+
+.sidebar .social a {
+  color: #333;
+  margin-right: 32px;
+  opacity: 0.5;
+  font-size: 24px;
+}
