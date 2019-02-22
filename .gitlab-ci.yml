@@ -1,15 +1,17 @@
-image: node:6.10.0
+image: node:latest
+
+# This folder is cached between builds
+# http://docs.gitlab.com/ce/ci/yaml/README.html#cache
+cache:
+  paths:
+    - node_modules/
 
 pages:
   script:
-  - npm install
-  - npm install gatsby-cli
-  - node_modules/.bin/gatsby build --prefix-paths
+    - npm install
+    - ./node_modules/.bin/gatsby build --prefix-paths
   artifacts:
     paths:
-    - public
-  cache:
-    paths:
-      - node_modules
+      - public
   only:
-  - master
+    - master
