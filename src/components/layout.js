@@ -1,9 +1,19 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { StaticQuery, graphql } from "gatsby";
-
 import Sidebar from "./sidebar";
 import "./layout.css";
+
+import { library } from "@fortawesome/fontawesome-svg-core";
+import {
+  faGithub,
+  faDribbble,
+  faMediumM,
+  faVimeoV,
+  faTwitter
+} from "@fortawesome/free-brands-svg-icons";
+
+library.add(faGithub, faDribbble, faMediumM, faVimeoV, faTwitter);
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -17,25 +27,10 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <>
+      <div>
         <Sidebar siteTitle={data.site.siteMetadata.title} />
-        <div
-          style={{
-            // margin: `0 auto`,
-            maxWidth: 960,
-            width: "60%",
-            left: "40%",
-            position: "relative",
-            paddingTop: 0,
-            backgroundColor: "#005ba9",
-            color: "#f3f3f3",
-            fontFamily: "Biryani"
-          }}
-        >
-          <main> {children} </main>
-          <footer>©{new Date().getFullYear()} steveostudios</footer>
-        </div>
-      </>
+        <main> {children} </main>
+      </div>
     )}
   />
 );
