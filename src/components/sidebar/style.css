@@ -1,0 +1,151 @@
+.sidebar {
+  background-color: #fafafa;
+  color: #333;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 800;
+  font-family: "Biryani";
+}
+
+.sidebar .about {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 80px;
+}
+
+.sidebar h1,
+.sidebar h1 a {
+  color: #4a4a4a;
+  margin-bottom: 48px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  line-height: 1.5;
+}
+
+.sidebar h2 {
+  color: #4a4a4a;
+  margin-bottom: 24px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 1.5;
+}
+
+.sidebar h1 span,
+.sidebar h2 span {
+  display: inline-block;
+  margin-right: 12px;
+}
+
+.sidebar p {
+  font-family: "Biryani";
+  font-weight: 300;
+  font-size: 16px;
+  margin-bottom: 12px;
+  line-height: 1.7;
+}
+
+.sidebar .social {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  max-width: 240px;
+}
+
+.sidebar .social a {
+  color: #959595;
+  font-size: 24px;
+  transition:
+    color 0.125s linear;
+}
+
+.sidebar .social .twitter:hover {
+  color: #1da1f2;
+}
+
+.sidebar .social .github:hover {
+  color: #4078c0;
+}
+
+.sidebar .social .dribbble:hover {
+  color: #ea4c89;
+}
+
+.sidebar .social .medium:hover {
+  color: #00ab6c;
+}
+
+.sidebar .social .vimeo:hover {
+  color: #1ab7ea;
+}
+
+.sidebar .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  max-width: 80px;
+  float: right;
+  padding: 20px;
+  position: relative;
+  user-select: none;
+  margin-left: -20px;
+}
+
+.sidebar .menu-icon .navicon {
+  background: #333;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+.sidebar .menu-icon .navicon:before,
+.sidebar .menu-icon .navicon:after {
+  background: #333;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+.sidebar .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.sidebar .menu-icon .navicon:after {
+  top: -5px;
+}
+
+.sidebar .menu-btn {
+  display: none;
+}
+
+.sidebar .menu-btn:checked~.menu-icon .navicon {
+  background: transparent;
+}
+
+.sidebar .menu-btn:checked~.menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.sidebar .menu-btn:checked~.menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.sidebar .menu-btn:checked~.menu-icon:not(.steps) .navicon:before,
+.sidebar .menu-btn:checked~.menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+.sidebar .meta {}
+
+.sidebar .meta li a {
+  display: block;
+  padding: 20px 20px;
+  border-right: 1px solid #f4f4f4;
+  text-decoration: none;
+}
