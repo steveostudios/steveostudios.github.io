@@ -91,16 +91,7 @@ body>*>*>* {
   min-height: 100vh;
 }
 
-/* @media(max-width: 599px) {
-  main {
-    width: 60%;
-    left: 40%;
-    position: relative;
-  }
-} */
-
 main {
-
   color: #f3f3f3;
   font-weight: 300;
   min-height: 100vh;
@@ -120,6 +111,7 @@ main {
 
 .main-container {
   width: 100%;
+
 }
 
 .main-container.home {
@@ -127,7 +119,7 @@ main {
 }
 
 .main-container.reading {
-  background-color: #005ba9;
+  background-color: #ff9940;
 }
 
 footer {
@@ -287,7 +279,7 @@ footer {
   }
 
   .main-contents {
-    min-height: calc(100vh - 128px);
+    min-height: calc(100vh - 48px);
     padding: 24px 40px;
   }
 }
