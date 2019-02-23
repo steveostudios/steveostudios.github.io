@@ -16,6 +16,7 @@ const IndexPage = () => (
         <img
           style={{
             position: "relative",
+            top: "-60px",
             zIndex: 100,
             maxWidth: "400px"
           }}

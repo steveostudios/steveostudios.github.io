@@ -1,7 +1,7 @@
 .steam {
   height: 200px;
   position: relative;
-  top: 60px;
+  top: 0px;
   z-index: 90;
 }
 
