@@ -3,7 +3,7 @@ const books = [{
     subtitle: "",
     author: "Rachel Nabors",
     dateStart: "2019-02-12",
-    dateFinish: null,
+    dateFinish: "2019-02-24",
     publisher: "A Book Apart",
     stars: null,
     review: null,
