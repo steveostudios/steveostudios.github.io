@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import Footer from "../components/footer";
 import Steam from "../components/steam";
-import coffeeMug from "../images/coffee-mug3.png";
+import coffeeMug from "../images/coffee-mug.png";
 import SEO from "../components/seo";
 
 import "./home.css";
