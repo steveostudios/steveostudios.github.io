@@ -1,4 +1,15 @@
 const books = [{
+    title: "Thanks for the Feedback",
+    subtitle: "The Science and Art of Receiving Feedback Well",
+    author: "Douglas Stone and Sheila Heen",
+    dateStart: "2019-02-28",
+    dateFinish: null,
+    publisher: "Penguin Books",
+    stars: null,
+    review: null,
+    url: "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+    image: "/static/books/ThanksForTheFeedback.jpg"
+  }, {
     title: "Animation at Work",
     subtitle: "",
     author: "Rachel Nabors",
