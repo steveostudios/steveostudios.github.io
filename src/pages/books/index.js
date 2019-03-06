@@ -10,9 +10,12 @@ class BookshelfPage extends React.Component {
   renderBook(book, i) {
     return (
       <div className="book" key={i}>
-        <img src={withPrefix(book.image)} />
+        <img src={withPrefix(book.image)} alt={book.title} />
         <h3> {book.title} </h3>
         <p> {book.author} </p>
+        {book.hasOwnProperty("progress") ? (
+          <progress value={book.progress} max="1" />
+        ) : null}
       </div>
     );
   }
@@ -38,12 +41,19 @@ class BookshelfPage extends React.Component {
 
   render() {
     const years = this.groupByArray(books, "dateFinish");
+    const current = books.filter(item => item.hasOwnProperty("progress"));
     return (
       <Layout>
         <SEO title="Books" />
         <div className="main-container reading">
           <div className="main-contents">
             <div className="bookshelf">
+              <div className="currently-reading">
+                <h1> /_currently_reading</h1>
+                <div className="books">
+                  {current.map((book, i) => this.renderBook(book, i))}
+                </div>
+              </div>
               {years.map((item, i) => (
                 <div key={i}>
                   <h1> /_{item.key} </h1>

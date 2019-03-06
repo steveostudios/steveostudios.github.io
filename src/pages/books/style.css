@@ -56,6 +56,10 @@
   box-shadow: 2px 8px 32px 4px rgba(0, 0, 0, 0.25);
 }
 
+.book progress {
+  width: 100%;
+}
+
 .book p {
   font-size: 12px;
   font-weight: 300;
