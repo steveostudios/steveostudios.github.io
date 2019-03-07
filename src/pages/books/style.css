@@ -51,13 +51,26 @@
 
 .book img {
   max-height: 200px;
-  object-fit: contain;
+  object-fit: cover;
   margin-bottom: 0;
   box-shadow: 2px 8px 32px 4px rgba(0, 0, 0, 0.25);
 }
 
-.book progress {
-  width: 100%;
+.book .progress-bar {
+  margin: 4px 16px 16px 16px;
+  border-radius: 4px;
+  width: inherit;
+  display: block;
+  height: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.book .progress-bar span {
+  border-radius: 4px;
+
+  background-color: #009ee2;
+  height: 100%;
+  display: block;
 }
 
 .book p {

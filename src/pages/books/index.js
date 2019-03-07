@@ -11,11 +11,12 @@ class BookshelfPage extends React.Component {
     return (
       <div className="book" key={i}>
         <img src={withPrefix(book.image)} alt={book.title} />
-        <h3> {book.title} </h3>
-        <p> {book.author} </p>
         {book.hasOwnProperty("progress") ? (
-          <progress value={book.progress} max="1" />
+          <div class="progress-bar">
+            <span style={{ width: 100 * book.progress + "%" }} />
+          </div>
         ) : null}
+        <h3> {book.title} </h3> <p> {book.author} </p>
       </div>
     );
   }
@@ -65,7 +66,7 @@ class BookshelfPage extends React.Component {
             </div>
           </div>
           <Footer />
-        </div>{" "}
+        </div>
       </Layout>
     );
   }
