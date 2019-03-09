@@ -49,13 +49,6 @@ const Sidebar = ({ siteTitle }) => (
           <span>Nerd.</span>
         </h2>
         <div className="details">
-          <p>
-            I make apps at{" "}
-            <a href="https://downloadyouthministry.com">
-              Download Youth Ministry
-            </a>{" "}
-            like <a href="https://sidekick.tv">Sidekick</a>.
-          </p>
           <div className="social">
             <a className="twitter" href="https://twitter.com/steveostudios">
               <FontAwesomeIcon icon={["fab", "twitter"]} />
