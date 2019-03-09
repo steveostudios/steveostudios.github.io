@@ -18,7 +18,8 @@ const IndexPage = () => (
             position: "relative",
             top: "-60px",
             zIndex: 100,
-            maxWidth: "400px"
+            maxWidth: "400px",
+            width: "100%"
           }}
           src={coffeeMug}
           alt="Logo"

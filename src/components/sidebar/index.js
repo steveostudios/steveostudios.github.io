@@ -12,12 +12,35 @@ const Sidebar = ({ siteTitle }) => (
       <label class="menu-icon" for="menu-btn">
         <span class="navicon" />
       </label>
+      <div className="nav nav-full">
+        <Link to="/">
+          <FontAwesomeIcon icon={["fas", "home"]} />
+        </Link>
+        <Link to="/about/">
+          <FontAwesomeIcon icon={["fas", "user-circle"]} />
+        </Link>
+        <Link to="/books/">
+          <FontAwesomeIcon icon={["fas", "book-open"]} />
+        </Link>
+      </div>
       <h1>
         <Link to="/">
           <span>Hi.</span>
           <span>I'm Steve.</span>
         </Link>
+        <div className="nav nav-mobile">
+          <Link to="/">
+            <FontAwesomeIcon icon={["fas", "home"]} />
+          </Link>
+          <Link to="/about/">
+            <FontAwesomeIcon icon={["fas", "user-circle"]} />
+          </Link>
+          <Link to="/books/">
+            <FontAwesomeIcon icon={["fas", "book-open"]} />
+          </Link>
+        </div>
       </h1>
+
       <div className="meta">
         <h2>
           <span>Developer.</span>
@@ -32,9 +55,6 @@ const Sidebar = ({ siteTitle }) => (
               Download Youth Ministry
             </a>{" "}
             like <a href="https://sidekick.tv">Sidekick</a>.
-          </p>
-          <p>
-            I drink lots of coffee and I like to <Link to="/books/">read</Link>.
           </p>
           <div className="social">
             <a className="twitter" href="https://twitter.com/steveostudios">

@@ -12,8 +12,22 @@ import {
   faVimeoV,
   faTwitter
 } from "@fortawesome/free-brands-svg-icons";
+import {
+  faBookOpen,
+  faUserCircle,
+  faHome
+} from "@fortawesome/free-solid-svg-icons";
 
-library.add(faGithub, faDribbble, faMediumM, faVimeoV, faTwitter);
+library.add(
+  faGithub,
+  faDribbble,
+  faMediumM,
+  faVimeoV,
+  faTwitter,
+  faBookOpen,
+  faUserCircle,
+  faHome
+);
 
 const Layout = ({ children }) => (
   <StaticQuery
