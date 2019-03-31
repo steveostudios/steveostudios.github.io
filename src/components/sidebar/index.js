@@ -65,9 +65,6 @@ const Sidebar = ({ siteTitle }) => (
             <a className="dribbble" href="https://dribbble.com/steveostudios">
               <FontAwesomeIcon icon={["fab", "dribbble"]} />
             </a>
-            <a className="medium" href="https://medium.com/@steveostudios">
-              <FontAwesomeIcon icon={["fab", "medium-m"]} />
-            </a>
             <a className="vimeo" href="https://vimeo.com/steveostudios">
               <FontAwesomeIcon icon={["fab", "vimeo-v"]} />
             </a>
