@@ -1,7 +1,7 @@
 import React from "react";
-import steamImage1 from "../../images/smoke_1.png";
-import steamImage2 from "../../images/smoke_2.png";
-import steamImage3 from "../../images/smoke_3.png";
+import steamImage1 from "./../../../content/assets/smoke_1.png";
+import steamImage2 from "./../../../content/assets/smoke_2.png";
+import steamImage3 from "./../../../content/assets/smoke_3.png";
 import "./style.css";
 
 const steamImage1Link = `<g>

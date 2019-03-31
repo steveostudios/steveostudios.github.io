@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import Footer from "../components/footer";
 import Steam from "../components/steam";
-import coffeeMug from "../images/coffee-mug.png";
+import coffeeMug from "./../../content/assets/coffee-mug.png";
 import SEO from "../components/seo";
 
 const IndexPage = () => (
