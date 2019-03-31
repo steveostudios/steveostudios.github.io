@@ -1,6 +1,7 @@
 ---
 title: PlainTasks Refreshing
 date: 2015-05-11
+tags: ["markdown"]
 ---
 
 A few days ago I wrote about how [Listacular is my go-to list making app][1] and using [PlainTasks in my workflow][2]. If you haven't already, read up on those. Otherwise this is complete jibberish.

@@ -1,6 +1,7 @@
 ---
 title: Keep learning
 date: 2015-04-17
+tags: ["quote"]
 ---
 
 > If you're not learning something every day and you're probably forgetting something that you use to know.  

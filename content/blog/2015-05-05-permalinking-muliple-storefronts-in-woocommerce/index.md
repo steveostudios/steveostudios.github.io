@@ -1,6 +1,7 @@
 ---
 title: Permalinking Muliple Storefronts in WooCommerce
 date: 2015-05-05
+tags: ["wordress"]
 ---
 
 I ran into an issue when I was modifying permalinks in Wordpress today. Specifically, I was trying to achieve the effect of creating multiple storefronts on a Wordpress Woocommerce site using product categories. In order to do that, ideally the urls would look differently than out of the box Wordpress and Woocommerce.

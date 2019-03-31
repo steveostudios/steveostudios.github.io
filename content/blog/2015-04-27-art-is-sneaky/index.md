@@ -1,6 +1,7 @@
 ---
 title: Art is sneaky
 date: 2015-04-27
+tags: ["quote"]
 ---
 
 > While the front door of the intellect is slammed shut, art sneaks through the backdoor of the imagination.

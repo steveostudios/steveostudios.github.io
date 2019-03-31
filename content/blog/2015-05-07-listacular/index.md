@@ -1,6 +1,7 @@
 ---
 title: Listacular
 date: 2015-05-07
+tags: ["markdown"]
 ---
 
 Confession: _I am a todo list junky._

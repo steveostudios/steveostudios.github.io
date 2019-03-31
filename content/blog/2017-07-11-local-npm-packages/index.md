@@ -1,6 +1,7 @@
 ---
 title: Local NPM Packages
 date: 2017-07-11
+tags: ["npm"]
 ---
 
 There are a few scenarios when you may want to “publish” npm packages locally.

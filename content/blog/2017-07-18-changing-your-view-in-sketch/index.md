@@ -1,6 +1,7 @@
 ---
 title: Changing Your View in Sketch
 date: 2017-07-18
+tags: ["sketch"]
 ---
 
 I’ve looked and I can’t seem to find a single, comprehensive list of all the tricks and keyboard shortcuts to change a view in Sketch. So I decided to try and make one.

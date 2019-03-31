@@ -1,6 +1,7 @@
 ---
 title: Top 3 Kramdown extras
 date: 2015-05-02
+tags: ["jekyll", "markdown"]
 ---
 
 Markdown is awesome and definitely one of the main reasons why I wanted to start blogging in Jekyll (yes, I know you can do Markdown in other platforms, but this is a little more literal which is why I think I like it).

@@ -1,6 +1,7 @@
 ---
 title: Getting Started with Mocha testing in Javascript
 date: 2017-07-05
+tags: ["javascript", "mocha"]
 ---
 
 Testing is one of those things that I have shrugged off for a while. It’s like flossing. I know the benefits. People say that it’s easy. It will make Future-Steve invincible. And, I feel bad about _not_ doing it. It just is one more thing that I am unsure of how to fit into my daily routine. So, with this new project I am working on I decided to do it right from the beginning.

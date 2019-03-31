@@ -1,6 +1,7 @@
 ---
 title: PlainTasks
 date: 2015-05-08
+tags: ["markdown"]
 ---
 
 Yesterday I wrote about how [Listacular is my go-to list making app][1]. Listacular doesn't have a platform for desktop or web or plans to make either which was almost a deal-breaker for me. But, because it's just plain text files, you can use your favorite text editor to edit your lists on any device.

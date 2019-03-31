@@ -1,6 +1,7 @@
 ---
 title: Sketch Magic Export
 date: 2017-04-20
+tags: ["sketch"]
 ---
 
 When I was using Photoshop/Illustrator for my asset workflow I had to set up all kinds of tricks to make sure things wound up in the correct folder with the correct file name. You know the drill; The endless process of selecting the right artboards or layers to export, save dialogs, output settings, overwriting files, dragging and dropping to the correct asset folder. Ugh.

@@ -1,6 +1,7 @@
 ---
 title: Git for Solo Development
 date: 2019-04-02
+tags: ["git", "vscode"]
 ---
 
 99% of articles and tutorials about Git will tell you that Git is super important because it helps you with collaboration. Features and bug fixes can be broken out into _branches_. Other developers can pick or be assigned issues to work on. And, when their work is done, it can be _merged_ back into some _master_ code-base.

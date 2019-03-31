@@ -1,6 +1,7 @@
 ---
 title: Hiding Jekyll Posts and Pages
 date: 2015-04-29
+tags: ["jekyll"]
 ---
 
 You can set a Jekyll page or post to be hidden by adding `published: false` to the front matter.

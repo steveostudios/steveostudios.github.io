@@ -1,6 +1,7 @@
 ---
 title: A New Start
 date: 2015-04-12
+tags: ["jekyll"]
 ---
 
 So I'm giving blogging another go. This time with Jekyll.

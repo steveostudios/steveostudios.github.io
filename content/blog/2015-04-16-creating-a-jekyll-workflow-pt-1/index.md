@@ -1,6 +1,7 @@
 ---
 title: Creating a Jekyll Workflow Part 1
 date: 2015-04-16
+tags: ["jekyll"]
 ---
 
 As a designer (aka programming noob), I want to create a workflow that simplifies some of the things that writing in Jekyll requires. I don't write in vim, I still have a conceptually hard time with git, and terminal still freaks me out. I wanted a workflow were I get the benefits of Jekyll, but with a designer mentality.

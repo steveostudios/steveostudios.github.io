@@ -1,6 +1,7 @@
 ---
 title: Microsoft Visual Studio Code
 date: 2015-05-01
+tags: ["electron", "vscode"]
 ---
 
 As I was checking my twitter feed last night, I saw that Microsoft surprised coders with it's new [Visual Studio Code][1], successor to it's long-standing, full featured code editor.

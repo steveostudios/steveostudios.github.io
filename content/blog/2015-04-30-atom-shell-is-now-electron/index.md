@@ -1,6 +1,7 @@
 ---
 title: Atom Shell is now Electron
 date: 2015-04-30
+tags: ["electron"]
 ---
 
 Lately I have been diving into Atom Shell for some apps that Dave and I are writing. We're super excited to share them with you later this year.

@@ -1,6 +1,7 @@
 ---
 title: What does the “open” Sketch file format really mean
 date: 2017-04-14
+tags: ["sketch"]
 ---
 
 Recently Sketch 43 introduced a new “open” file format in. I’m super fascinated by the idea of an open file format. I wanted to know more about what _exactly_ that means, because it could open up a world of possibility, one which is currently _closed_ (pun intended) by Sketch’s competitors.

@@ -1,6 +1,7 @@
 ---
 title: Git NPM Packages
 date: 2017-07-29
+tags: ["git", "npm"]
 ---
 
 A few weeks ago I posted about [local-npm-packages][].
