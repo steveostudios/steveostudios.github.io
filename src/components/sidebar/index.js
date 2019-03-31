@@ -22,6 +22,9 @@ const Sidebar = ({ siteTitle }) => (
         <Link to="/books/">
           <FontAwesomeIcon icon={["fas", "book-open"]} />
         </Link>
+        <Link to="/blog/">
+          <FontAwesomeIcon icon={["fas", "rss"]} />
+        </Link>
       </div>
       <h1>
         <Link to="/">
@@ -37,6 +40,9 @@ const Sidebar = ({ siteTitle }) => (
           </Link>
           <Link to="/books/">
             <FontAwesomeIcon icon={["fas", "book-open"]} />
+          </Link>
+          <Link to="/blog/">
+            <FontAwesomeIcon icon={["fas", "rss"]} />
           </Link>
         </div>
       </h1>

@@ -5,8 +5,6 @@ import Steam from "../components/steam";
 import coffeeMug from "../images/coffee-mug.png";
 import SEO from "../components/seo";
 
-import "./home.css";
-
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />

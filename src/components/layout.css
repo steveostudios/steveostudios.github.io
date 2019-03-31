@@ -30,7 +30,7 @@ a:hover {
 
 
 html {
-  font: 112.5%/1.45em georgia, serif;
+  font: 112.5%/1.45em;
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -75,6 +75,17 @@ p *:last-child {
 
 li>p {
   margin-bottom: calc(1.45rem / 2);
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  padding: 0 8px;
+  border: 1px solid #e6e6e6;
 }
 
 
@@ -123,125 +134,18 @@ main {
 }
 
 .main-container.reading {
-  background-color: #0C74F9;
+  background-color: #4a4a4a;
 }
 
 .main-container.about {
-  background-color: #08A2A8;
+  background-color: #005ba9;
 }
 
 
-footer {
-  margin: 0 32px;
-  color: rgba(255, 255, 255, 0.75);
-  font-size: 10px;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
 
-  font-weight: 300;
-  height: 48px;
-}
+
 
 @media (max-width: 599px) {
-  .sidebar {
-    width: 100%;
-    position: fixed;
-    top: 0;
-    height: 80px;
-    z-index: 100;
-  }
-
-  .sidebar .about {
-    margin: 0 40px;
-    flex-direction: row;
-    width: 100%;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 0;
-  }
-
-  .sidebar .nav-full {
-    display: none;
-  }
-
-  .sidebar a {
-    position: relative;
-    top: 2px;
-  }
-
-  .sidebar .meta {
-    position: absolute;
-    top: 80px;
-    left: 0;
-    right: 0;
-    padding: 0 40px;
-    position: absolute;
-    top: 80px;
-    background-color: #fafafa;
-    display: flex;
-    list-style: none;
-    overflow: hidden;
-    clear: both;
-    max-height: 0;
-    transition: max-height .2s ease-out;
-  }
-
-  .sidebar .menu-btn:checked~.meta {
-    max-height: 240px;
-  }
-
-  .sidebar h1 {
-    font-size: 18px;
-    margin: 0 -16px 0 0;
-    flex: 1;
-    min-width: 140px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .sidebar h2 {
-    font-size: 16px;
-    flex: 1;
-    min-width: 120px;
-    margin: 0;
-    margin-right: 24px;
-    line-height: 1.7;
-    margin-bottom: 16px;
-  }
-
-
-  .sidebar h2 span {
-    display: block;
-  }
-
-  .sidebar .details {
-    margin: 0;
-  }
-
-  .sidebar p {
-    margin-top: 0;
-    font-size: 12px;
-    flex: 2;
-    line-height: 1.5;
-  }
-
-  .sidebar p a {
-    position: initial;
-  }
-
-  .sidebar .social {
-    max-width: 160px;
-    margin: 0;
-    flex: 1;
-    margin-bottom: 16px;
-  }
-
-  .sidebar .social a {
-    font-size: 16px;
-  }
-
   main {
     position: relative;
     top: 80px;
@@ -256,42 +160,6 @@ footer {
 }
 
 @media (min-width: 600px) {
-  .sidebar {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 40%;
-    bottom: 0;
-  }
-
-  .sidebar .menu-btn,
-  .sidebar .menu-icon,
-  .sidebar .menu {
-    display: none;
-  }
-
-  .sidebar .about {
-    margin: 0 40px;
-  }
-
-  .sidebar .nav-mobile {
-    display: none;
-  }
-
-  .sidebar h1 {
-    font-size: 24px;
-  }
-
-  .sidebar h2 {
-    font-size: 20px;
-  }
-
-  .sidebar p {
-    font-size: 12px;
-  }
-
-  .sidebar .social a {}
-
   main {
     width: 60%;
     left: 40%;
@@ -305,49 +173,12 @@ footer {
 }
 
 @media (min-width: 900px) {
-  .sidebar {
-    width: 30%;
-  }
-
-  .sidebar h1 {
-    font-size: 28px;
-  }
-
-  .sidebar h2 {
-    font-size: 24px;
-  }
-
-  .sidebar p {
-    font-size: 14px;
-  }
-
   main {
     width: 70%;
-
     left: 30%;
   }
 }
 
-@media (min-width: 1200px) {
-  .sidebar {}
+@media (min-width: 1200px) {}
 
-  .sidebar h1 {
-    font-size: 32px;
-  }
-
-  .sidebar h2 {
-    font-size: 28px;
-  }
-
-  .sidebar p {
-    font-size: 16px;
-  }
-
-  main {}
-}
-
-@media (min-width: 1800px) {
-  .sidebar {}
-
-  main {}
-}
+@media (min-width: 1800px) {}
