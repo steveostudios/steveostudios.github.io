@@ -1,9 +1,9 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 
-import Layout from "../components/layout";
-import SEO from "../components/seo";
-import Footer from "../components/footer";
+import Layout from "../../components/layout";
+import SEO from "../../components/seo";
+import Footer from "../../components/footer";
 
 import "./style.css";
 
@@ -68,6 +68,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }
