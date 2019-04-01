@@ -1,5 +1,5 @@
 ---
-title: Git NPM Packages
+title: Git npm Packages
 date: 2017-07-29
 tags: ["git", "npm"]
 ---

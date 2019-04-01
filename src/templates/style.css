@@ -77,6 +77,32 @@
   margin: 4px;
 }
 
+.main-container.blog-single .blog-content blockquote {
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+.main-container.blog-single .blog-content blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+.main-container.blog-single .blog-content blockquote p {
+  display: inline;
+}
+
+.main-container.blog-single .blog-content blockquote cite {
+  display: block;
+  margin-left: 48px;
+  font-size: 14px;
+}
+
+
 .main-container.blog-single .pagination {
   display: flex;
   align-items: center;
