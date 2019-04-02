@@ -68,7 +68,8 @@
 
 .main-container.blog-single .blog-content pre.language-shell,
 .main-container.blog-single .blog-content pre.language-javascript,
-.main-container.blog-single .blog-content pre.language-json {
+.main-container.blog-single .blog-content pre.language-json,
+.main-container.blog-single .blog-content pre.language-css {
   padding: 16px;
 }
 

@@ -8,7 +8,7 @@ const books = [
     publisher: "Penguin Books",
     stars: null,
     review: null,
-    progress: 29 / 320,
+    progress: 60 / 320,
     url:
       "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
     image: "/static/books/ThanksForTheFeedback.jpg"
@@ -47,7 +47,7 @@ const books = [
     publisher: "Prentice Hall",
     stars: null,
     review: null,
-    progress: 251 / 412,
+    progress: 276 / 412,
     url:
       "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&qid=1532031940&sr=8-3&keywords=clean+code&linkCode=ll1&tag=steveostudi0c-20&linkId=3a849aca23fa18d512c11cad44ed6526",
     image: "/static/books/CleanCode.jpg"
