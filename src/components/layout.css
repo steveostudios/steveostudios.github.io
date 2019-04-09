@@ -122,11 +122,6 @@ main {
 
 .main-container {
   width: 100%;
-  /* background-color: #0A2BC7;
-  background-color: #0C74F9;
-  background-color: #009EE2;
-  background-color: #08A2A8;
-  background-color: #06755A; */
 }
 
 .main-container.home {
@@ -140,10 +135,6 @@ main {
 .main-container.about {
   background-color: #005ba9;
 }
-
-
-
-
 
 @media (max-width: 599px) {
   main {
