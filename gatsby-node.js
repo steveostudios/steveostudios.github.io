@@ -64,3 +64,39 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     });
   }
 };
+
+// Implement the Gatsby API “createPages”. This is
+// called after the Gatsby bootstrap is finished so you have
+// access to any information necessary to programmatically
+// create pages.
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions;
+
+  // The “graphql” function allows us to run arbitrary
+  // queries against this Gatsbygram's graphql schema. Think of
+  // it like Gatsbygram has a built-in database constructed
+  // from static data that you can run queries against.
+  //
+  // Post is a data node type derived from data/posts.json
+  // which is created when scraping Instagram. “allPostsJson”
+  // is a "connection" (a GraphQL convention for accessing
+  // a list of nodes) gives us an easy way to query all
+  // Post nodes.
+  return graphql(
+    `
+      {
+        allBooksJson(limit: 1000) {
+          edges {
+            node {
+              title
+            }
+          }
+        }
+      }
+    `
+  ).then(result => {
+    if (result.errors) {
+      throw result.errors;
+    }
+  });
+};

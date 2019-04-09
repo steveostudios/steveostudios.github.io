@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
   siteMetadata: {
     title: `Steveostudios`,
@@ -13,22 +15,29 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
+        path: path.join(__dirname, "content", "blog"),
         name: `blog`
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
+        path: path.join(__dirname, "content", "assets"),
         name: `assets`
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`
+        path: path.join(__dirname, "src", "images"),
+        name: `images`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: path.join(__dirname, "content", "books"),
+        name: `books`
       }
     },
     {
@@ -61,6 +70,7 @@ module.exports = {
       }
     },
     `gatsby-transformer-sharp`,
+    `gatsby-transformer-json`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,

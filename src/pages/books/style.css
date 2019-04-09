@@ -49,11 +49,14 @@
   text-decoration: none;
 }
 
-.book img {
+.book .gatsby-image-wrapper {
+  min-width: 129px;
+  max-width: 156px;
   max-height: 200px;
+  height: 200px;
+  box-shadow: 2px 8px 32px 4px rgba(0, 0, 0, 0.25);
   object-fit: cover;
   margin-bottom: 0;
-  box-shadow: 2px 8px 32px 4px rgba(0, 0, 0, 0.25);
 }
 
 .book .progress-bar {

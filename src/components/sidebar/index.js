@@ -8,9 +8,9 @@ import "./style.css";
 const Sidebar = ({ siteTitle }) => (
   <div className="sidebar">
     <div className="about">
-      <input class="menu-btn" type="checkbox" id="menu-btn" />
-      <label class="menu-icon" for="menu-btn">
-        <span class="navicon" />
+      <input className="menu-btn" type="checkbox" id="menu-btn" />
+      <label className="menu-icon" htmlFor="menu-btn">
+        <span className="navicon" />
       </label>
       <div className="nav nav-full">
         <Link to="/">

@@ -226,9 +226,9 @@
   .sidebar h2 {
     font-size: 16px;
     flex: 1;
-    min-width: 120px;
+    min-width: 80px;
     margin: 0;
-    margin-right: 24px;
+    margin-right: 0;
     line-height: 1.7;
     margin-bottom: 16px;
   }
@@ -253,11 +253,16 @@
     position: initial;
   }
 
-  .sidebar .social {
+  .sidebar .meta .details {
     max-width: 160px;
     margin: 0;
     flex: 1;
     margin-bottom: 16px;
+  }
+
+  .sidebar .social {
+    margin: 0;
+
   }
 
   .sidebar .social a {

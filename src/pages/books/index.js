@@ -1,19 +1,26 @@
+import * as PropTypes from "prop-types";
 import React from "react";
+import { graphql } from "gatsby";
 import Layout from "../../components/layout";
 import Footer from "../../components/footer";
 import SEO from "../../components/seo";
-import { withPrefix } from "gatsby-link";
-import books from "./../../data/books";
+import Image from "gatsby-image";
 import "./style.css";
 
 class BookshelfPage extends React.Component {
+  static propTypes = {
+    data: PropTypes.shape({
+      allPostsJson: PropTypes.object
+    })
+  };
+
   renderBook(book, i) {
     return (
       <div className="book" key={i}>
-        <img src={withPrefix(book.image)} alt={book.title} />
-        {book.hasOwnProperty("progress") ? (
-          <div class="progress-bar">
-            <span style={{ width: 100 * book.progress + "%" }} />
+        <Image fixed={{ ...book.bigImage.childImageSharp.big }} />
+        {book.progress !== null ? (
+          <div className="progress-bar">
+            <span style={{ width: 100 * (book.progress / book.total) + "%" }} />
           </div>
         ) : null}
         <h3> {book.title} </h3> <p> {book.author} </p>
@@ -41,8 +48,11 @@ class BookshelfPage extends React.Component {
   }
 
   render() {
+    let { allBooksJson } = this.props.data;
+    const books = allBooksJson.edges.map(e => e.node);
+    console.log(books);
     const years = this.groupByArray(books, "dateFinish");
-    const current = books.filter(item => item.hasOwnProperty("progress"));
+    const current = books.filter(item => item.progress !== null);
     return (
       <Layout>
         <SEO title="Books" />
@@ -73,3 +83,27 @@ class BookshelfPage extends React.Component {
 }
 
 export default BookshelfPage;
+
+export const pageQuery = graphql`
+  query {
+    allBooksJson {
+      edges {
+        node {
+          title
+          author
+          dateFinish
+          progress
+          total
+          bigImage: image {
+            childImageSharp {
+              big: fluid(maxHeight: 200) {
+                src
+                srcSet
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;
