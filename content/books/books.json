@@ -1,4 +1,45 @@
-[
+[{
+    "title": "Accessibility for Everyone",
+    "subtitle": "",
+    "author": "Laura Kalbag",
+    "dateStart": "2019-06-11",
+    "dateFinish": null,
+    "publisher": "A Book Apart",
+    "stars": null,
+    "review": null,
+    "progress": 8,
+    "total": 158,
+    "url": "https://abookapart.com/products/accessibility-for-everyone",
+    "image": "images/AccessibilityForEveryone.jpg"
+  },
+  {
+    "title": "Flexible Typesetting",
+    "subtitle": "",
+    "author": "Tim Brown",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "A Book Apart",
+    "stars": null,
+    "review": null,
+    "progress": null,
+    "total": 209,
+    "url": "https://abookapart.com/products/flexible-typesetting",
+    "image": "images/FlexibleTypesetting.jpg"
+  },
+  {
+    "title": "Demystifying Public Speaking",
+    "subtitle": "",
+    "author": "Lara Callender Hogan",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "A Book Apart",
+    "stars": null,
+    "review": null,
+    "progress": null,
+    "total": 77,
+    "url": "https://abookapart.com/products/demystifying-public-speaking",
+    "image": "images/DemystifyingPublicSpeaking.jpg"
+  },
   {
     "title": "Thanks for the Feedback",
     "subtitle": "The Science and Art of Receiving Feedback Well",

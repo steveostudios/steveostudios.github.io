@@ -49,8 +49,9 @@ class BookshelfPage extends React.Component {
 
   render() {
     let { allBooksJson } = this.props.data;
-    const books = allBooksJson.edges.map(e => e.node);
-    console.log(books);
+    const books = allBooksJson.edges
+      .map(e => e.node)
+      .filter(item => item.dateStart !== null);
     const years = this.groupByArray(books, "dateFinish");
     const current = books.filter(item => item.progress !== null);
     return (
