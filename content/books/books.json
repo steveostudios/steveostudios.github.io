@@ -11,8 +11,7 @@
     "total": 158,
     "url": "https://abookapart.com/products/accessibility-for-everyone",
     "image": "images/AccessibilityForEveryone.jpg"
-  },
-  {
+  }, {
     "title": "Flexible Typesetting",
     "subtitle": "",
     "author": "Tim Brown",
@@ -25,8 +24,16 @@
     "total": 209,
     "url": "https://abookapart.com/products/flexible-typesetting",
     "image": "images/FlexibleTypesetting.jpg"
-  },
-  {
+  }, {
+    "title": "Future Grace",
+    "subtitle": "The Purifying Power of the Promises of God",
+    "author": "John Piper",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "",
+    "url": "",
+    "image": "images/FutureGrace.jpg"
+  }, {
     "title": "Demystifying Public Speaking",
     "subtitle": "",
     "author": "Lara Callender Hogan",
@@ -39,8 +46,7 @@
     "total": 77,
     "url": "https://abookapart.com/products/demystifying-public-speaking",
     "image": "images/DemystifyingPublicSpeaking.jpg"
-  },
-  {
+  }, {
     "title": "Thanks for the Feedback",
     "subtitle": "The Science and Art of Receiving Feedback Well",
     "author": "Douglas Stone and Sheila Heen",
@@ -53,8 +59,7 @@
     "total": 320,
     "url": "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
     "image": "images/ThanksForTheFeedback.jpg"
-  },
-  {
+  }, {
     "title": "Rex Appeal",
     "subtitle": "",
     "author": "Peter Larson and Kristin Donnan",
@@ -795,8 +800,8 @@
     "title": "Turn",
     "subtitle": "Remembering Our Foundations",
     "author": "Max Lucado",
-    "dateStart": null,
-    "dateFinish": null,
+    "dateStart": "2005-12-05",
+    "dateFinish": "2005-12-05",
     "publisher": "",
     "url": "",
     "image": "images/Turn.jpg"
@@ -804,8 +809,8 @@
     "title": "Next Door Savior",
     "subtitle": "Near Enough to Touch, Strong Enough to Trust",
     "author": "Max Lucado",
-    "dateStart": null,
-    "dateFinish": null,
+    "dateStart": "2004-04-21",
+    "dateFinish": "2004-04-21",
     "publisher": "",
     "url": "",
     "image": "images/NextDoorSavior.jpg"
@@ -876,8 +881,8 @@
     "title": "Fifty Reasons Why Jesus Came to Die",
     "subtitle": "",
     "author": "John Piper",
-    "dateStart": "2007-11-18",
-    "dateFinish": "2007-11-18",
+    "dateStart": "2009-11-18",
+    "dateFinish": "2009-11-18",
     "publisher": "",
     "url": "",
     "image": "images/FiftyReasonsWhyJesusCameToDie.jpg"
@@ -1128,8 +1133,8 @@
     "title": "Surprised by Joy",
     "subtitle": "The Shape of My Early Life",
     "author": "C.S. Lewis",
-    "dateStart": null,
-    "dateFinish": null,
+    "dateStart": "2005-04-21",
+    "dateFinish": "2005-04-21",
     "publisher": "",
     "url": "",
     "image": "images/SurprisedByJoy.jpg"
@@ -1214,5 +1219,365 @@
     "publisher": "",
     "url": "",
     "image": "images/TheOutOfBoundsChurch.jpg"
+  }, {
+    "title": "On Directing Film",
+    "subtitle": "",
+    "author": "David Mamet",
+    "dateStart": "2006-03-06",
+    "dateFinish": "2006-03-06",
+    "publisher": "",
+    "url": "",
+    "image": "images/OnDirectingFilm.jpg"
+  }, {
+    "title": "How Movies Helped Save My Soul",
+    "subtitle": "Finding Spiritual Fingerprints in Culturally Significant Films",
+    "author": "Gareth Higgins",
+    "dateStart": "2005-12-28",
+    "dateFinish": "2005-12-28",
+    "publisher": "",
+    "url": "",
+    "image": "images/HowMoviesHelpedSaveMySoal.jpg"
+  }, {
+    "title": "From Reverence to Rape",
+    "subtitle": "The Treatment of Women in the Movies",
+    "author": "Molly Haskell",
+    "dateStart": "2006-01-24",
+    "dateFinish": "2006-01-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/FromReverenceToRape.jpg"
+  }, {
+    "title": "Painting With Light",
+    "subtitle": "",
+    "author": "John Alton",
+    "dateStart": "2006-01-26",
+    "dateFinish": "2006-01-26",
+    "publisher": "",
+    "url": "",
+    "image": "images/PaintingWithLight.jpg"
+  }, {
+    "title": "The Filmmaker's Handbook",
+    "subtitle": "",
+    "author": "Steven Ascher",
+    "dateStart": "2005-01-25",
+    "dateFinish": "2005-01-25",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheFilmmakersHandbook.jpg"
+  }, {
+    "title": "Blink",
+    "subtitle": "The Power of Thinking Without Thinking",
+    "author": "Malcom Gladwell",
+    "dateStart": "2007-04-09",
+    "dateFinish": "2007-04-09",
+    "publisher": "",
+    "url": "",
+    "image": "images/BlinkGladwell.jpg"
+  }, {
+    "title": "The Tipping Point",
+    "subtitle": "How Little Things Can Make a Big Difference",
+    "author": "Malcolm Gladwell",
+    "dateStart": "2004-06-06",
+    "dateFinish": "2004-06-06",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheTippingPoint.jpg"
+  }, {
+    "title": "Redeeming Love",
+    "subtitle": "",
+    "author": "Francine Rivers",
+    "dateStart": "2006-06-17",
+    "dateFinish": "2006-06-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/RedeemingLove.jpg"
+  }, {
+    "title": "The Purpose Driven Life",
+    "subtitle": "What on Earth Am I Here for?",
+    "author": "Rick Warren",
+    "dateStart": "2003-10-08",
+    "dateFinish": "2003-10-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/ThePurposeDrivenLife.jpg"
+  }, {
+    "title": "The Barbarian Way",
+    "subtitle": "Unleash the Untamed Faith Within",
+    "author": "Erwin Raphael McManus",
+    "dateStart": "2007-01-27",
+    "dateFinish": "2007-01-27",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheBarbarianWay.jpg"
+  }, {
+    "title": "Strengths Finder 2.0",
+    "subtitle": "",
+    "author": "Tom Rath",
+    "dateStart": "2008-08-08",
+    "dateFinish": "2008-08-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/StrengthsFinder.jpg"
+  }, {
+    "title": "The Pilgrim's Progress",
+    "subtitle": "",
+    "author": "John Bunyan",
+    "dateStart": "2006-03-03",
+    "dateFinish": "2006-03-03",
+    "publisher": "",
+    "url": "",
+    "image": "images/ThePilgrimsProgress.jpg"
+  }, {
+    "title": "The Giver",
+    "subtitle": "",
+    "author": "Lois Lowry",
+    "dateStart": "2006-04-17",
+    "dateFinish": "2006-04-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheGiver.jpg"
+  }, {
+    "title": "Read, Think, Pray, Live",
+    "subtitle": "A Guide to Reading the Bible in a New Way",
+    "author": "Tony Jones",
+    "dateStart": "2007-03-16",
+    "dateFinish": "2007-03-16",
+    "publisher": "",
+    "url": "",
+    "image": "images/ReadThinkPrayLive.jpg"
+  }, {
+    "title": "A Walk Across America",
+    "subtitle": "",
+    "author": "Peter Jenkins",
+    "dateStart": "2006-01-17",
+    "dateFinish": "2006-01-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/AWalkAcrossAmerica.jpg"
+  }, {
+    "title": "God Is Here",
+    "subtitle": "Connecting with Him in Everyday Life",
+    "author": "Steve Case",
+    "dateStart": "2006-12-02",
+    "dateFinish": "2006-12-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/GodIsHere.jpg"
+  }, {
+    "title": "Your First Two Years in Youth Ministry",
+    "subtitle": "A personal and practical guide to starting right",
+    "author": "Doug Fields",
+    "dateStart": "2008-05-02",
+    "dateFinish": "2008-05-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/YourFirstTwoYearsInYM.jpg"
+  }, {
+    "title": "Refuel",
+    "subtitle": "An Uncomplicated Guide to Connecting with God",
+    "author": "Doug Fields",
+    "dateStart": "2011-11-30",
+    "dateFinish": "2011-11-30",
+    "publisher": "",
+    "url": "",
+    "image": "images/Refuel.jpg"
+  }, {
+    "title": "Faith That Goes the Distance",
+    "subtitle": "",
+    "author": "Jud Wilhite",
+    "dateStart": "2002-06-02",
+    "dateFinish": "2002-06-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/FaithThatGoesTheDistance.jpg"
+  }, {
+    "title": "Love That Goes the Distance",
+    "subtitle": "",
+    "author": "Jud Wilhite",
+    "dateStart": "2003-07-02",
+    "dateFinish": "2003-07-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/LoveThatGoesTheDistance.jpg"
+  }, {
+    "title": "Stripped",
+    "subtitle": "",
+    "author": "Jud Wilhite",
+    "dateStart": "2007-03-07",
+    "dateFinish": "2007-03-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/Stripped.jpg"
+  }, {
+    "title": "Sex God",
+    "subtitle": "",
+    "author": "Rob Bell",
+    "dateStart": "2009-03-07",
+    "dateFinish": "2009-03-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/SexGod.jpg"
+  }, {
+    "title": "If You Want to Walk on Water, You've Got to Get Out of the Boat",
+    "subtitle": "",
+    "author": "John Ortberg",
+    "dateStart": "2004-01-02",
+    "dateFinish": "2004-01-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/IfYouWantToWalkOnWater.jpg"
+  }, {
+    "title": "The Case for Christ",
+    "subtitle": "",
+    "author": "Lee Strobel",
+    "dateStart": "2003-08-08",
+    "dateFinish": "2003-08-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheCaseForChrist.jpg"
+  }, {
+    "title": "Drive",
+    "subtitle": "The Surprising Truth About What Motivates Us",
+    "author": "Daniel H. Pink",
+    "dateStart": "2012-04-03",
+    "dateFinish": "2012-04-03",
+    "publisher": "",
+    "url": "",
+    "image": "images/Drive.jpg"
+  }, {
+    "title": "The Four Loves",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2008-03-02",
+    "dateFinish": "2008-03-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheFourLoves.jpg"
+  }, {
+    "title": "A Million Miles in a Thousand Years",
+    "subtitle": "How I Learned to Live a Better Story",
+    "author": "Donald Miller",
+    "dateStart": "2011-08-08",
+    "dateFinish": "2011-08-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/AMillionMilesInAThousandYears.jpg"
+  }, {
+    "title": "This Beautiful Mess",
+    "subtitle": "Practicing the Presence of the Kingdom of God",
+    "author": "Rick McKinley",
+    "dateStart": "2006-08-08",
+    "dateFinish": "2006-08-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/ThisBeautifulMess.jpg"
+  }, {
+    "title": "Simply Christian",
+    "subtitle": "Why Christianity Makes Sense",
+    "author": "N.T. Wright",
+    "dateStart": "2010-01-14",
+    "dateFinish": "2010-01-14",
+    "publisher": "",
+    "url": "",
+    "image": "images/SimplyChristian.jpg"
+  }, {
+    "title": "Fresh Power",
+    "subtitle": "What Happens When God Leads and You Follow",
+    "author": "Jim Cymbala, Dean Merrill",
+    "dateStart": "2010-05-05",
+    "dateFinish": "2010-05-05",
+    "publisher": "",
+    "url": "",
+    "image": "images/FreshPower.jpg"
+  }, {
+    "title": "Fresh Faith",
+    "subtitle": "What Happens When Real Faith Ignites God's People",
+    "author": "Jim Cymbala, Dean Merrill",
+    "dateStart": "2009-10-10",
+    "dateFinish": "2009-10-10",
+    "publisher": "",
+    "url": "",
+    "image": "images/FreshFaith.jpg"
+  }, {
+    "title": "Fresh Wind, Fresh Fire",
+    "subtitle": "What Happens When God's Spirit Invades the Hearts of His People",
+    "author": "Jim Cymbala, Dean Merrill",
+    "dateStart": "2009-02-02",
+    "dateFinish": "2009-02-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/FreshWindFreshFire.jpg"
+  }, {
+    "title": "When God Builds a Church",
+    "subtitle": "10 Principles for Growing a Dynamic Church",
+    "author": "Bob Russell",
+    "dateStart": "2010-10-10",
+    "dateFinish": "2010-10-10",
+    "publisher": "",
+    "url": "",
+    "image": "images/WhenGodBuildsAChurch.jpg"
+  }, {
+    "title": "20 Compelling Evidences That God Exists",
+    "subtitle": "Discover Why Believing in God Makes So Much Sense",
+    "author": "Kenneth D. Boa, Robert M. Jr. Bowman",
+    "dateStart": "2005-05-05",
+    "dateFinish": "2005-05-05",
+    "publisher": "",
+    "url": "",
+    "image": "images/20CompellingEvidencesThatGodExists.jpg"
+  }, {
+    "title": "A Grief Observed",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2007-03-02",
+    "dateFinish": "2007-03-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/AGriefObserved.jpg"
+  }, {
+    "title": "Miracles",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2004-05-11",
+    "dateFinish": "2004-05-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/Miracles.jpg"
+  }, {
+    "title": "Letters From a Skeptic",
+    "subtitle": "A Son Wrestles with His Father's Questions about Christianity",
+    "author": "Gregory A Boyd, Edward K Boyd",
+    "dateStart": "2008-08-30",
+    "dateFinish": "2008-08-30",
+    "publisher": "",
+    "url": "",
+    "image": "images/LettersFromASkeptic.jpg"
+  }, {
+    "title": "Jesus Wants to Save Christians",
+    "subtitle": "A Manifesto for the Church in Exile",
+    "author": "Rob Bell",
+    "dateStart": "2008-12-12",
+    "dateFinish": "2008-12-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/JesusWantsToSaveChristians.jpg"
+  }, {
+    "title": "Eat this book",
+    "subtitle": "A Conversation in the Art of Spiritual Reading",
+    "author": "Eugene Peterson",
+    "dateStart": "2010-05-05",
+    "dateFinish": "2010-05-05",
+    "publisher": "",
+    "url": "",
+    "image": "images/EatThisBook.jpg"
+  }, {
+    "title": "Everybody Wants to Go to Heaven, but Nobody Wants to Die",
+    "subtitle": "Or the Eschatology of Bluegrass",
+    "author": "David Crowder and Mike Hogan",
+    "dateStart": "2008-09-12",
+    "dateFinish": "2008-09-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/EverybodyWantsToGoToHeaven.jpg"
   }
 ]
