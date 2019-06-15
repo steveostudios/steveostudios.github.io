@@ -498,5 +498,721 @@
     "review": "",
     "url": "https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=as_li_ss_tl?ie=UTF8&qid=1531075696&sr=8-2&keywords=sprint&linkCode=ll1&tag=steveostudi0c-20&linkId=6d131932f77600def106419e0a205f69",
     "image": "images/Sprint.jpg"
+  },
+  {
+    "title": "Will the Real Jesus Please Stand Up?",
+    "subtitle": "A Debate between William Lane Craig & John Dominic Crossan",
+    "author": "William Lane Craig, John Dominic Crossan, Paul Copan (editor)",
+    "dateStart": "2006-01-24",
+    "dateFinish": "2006-01-24",
+    "publisher": "",
+    "url": "",
+    "review": "",
+    "image": "images/WillTheRealJesusPleaseStandUp.jpg"
+  },
+  {
+    "title": "The Case for Easter",
+    "subtitle": "A Journalist Investigates the Evidence for the Resurrection",
+    "author": "Lee Strobel",
+    "dateStart": "2005-04-25",
+    "dateFinish": "2005-04-25",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheCaseForEaster.jpg"
+  }, {
+    "title": "Come Thirsty",
+    "subtitle": "No Heart Too Dry for His Touch",
+    "author": "Max Lucado",
+    "dateStart": "2005-04-10",
+    "dateFinish": "2005-04-10",
+    "publisher": "",
+    "url": "",
+    "image": "images/ComeThirsty.jpg"
+  }, {
+    "title": "Traveling Light",
+    "subtitle": "Releasing the Burdens You Were Never Intended to Bear",
+    "author": "Max Lucado",
+    "dateStart": "2005-01-01",
+    "dateFinish": "2005-01-01",
+    "publisher": "",
+    "url": "",
+    "image": "images/TravelingLight.jpg"
+  }, {
+    "title": "Thunder of Heaven (The Heaven Trilogy, #3)",
+    "subtitle": "",
+    "author": "Ted Dekker",
+    "dateStart": "2004-10-12",
+    "dateFinish": "2004-10-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/ThunderOfHeaven.jpg"
+  }, {
+    "title": "Thr3e",
+    "subtitle": "",
+    "author": "Ted Dekker",
+    "dateStart": "2004-10-12",
+    "dateFinish": "2004-10-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/Thr3e.jpg"
+  }, {
+    "title": "Blink",
+    "subtitle": "",
+    "author": "Ted Dekker",
+    "dateStart": "2004-01-24",
+    "dateFinish": "2004-01-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/Blink.jpg"
+  }, {
+    "title": "The Life You've Always Wanted",
+    "subtitle": "Spiritual Disciplines for Ordinary People",
+    "author": "John Ortberg",
+    "dateStart": "2004-06-24",
+    "dateFinish": "2004-06-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheLifeYouveAlwaysWanted.jpg"
+  }, {
+    "title": "The Da Vinci Code",
+    "subtitle": "",
+    "author": "Dan Brown",
+    "dateStart": "2004-05-11",
+    "dateFinish": "2004-05-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheDaVinciCode.jpg"
+  }, {
+    "title": "Velvet Elvis",
+    "subtitle": "Repainting the Christian Faith",
+    "author": "Rob Bell",
+    "dateStart": "2004-10-11",
+    "dateFinish": "2004-10-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/VelvetElvis.jpg"
+  }, {
+    "title": "Praise Habit",
+    "subtitle": "Finding God in Sunsets and Sushi",
+    "author": "David Crowder",
+    "dateStart": "2006-11-18",
+    "dateFinish": "2006-11-18",
+    "publisher": "",
+    "url": "",
+    "image": "images/PraiseHabit.jpg"
+  }, {
+    "title": "Film Directing Shot by Shot",
+    "subtitle": "Visualizing from Concept to Screen",
+    "author": "Steven D. Katz",
+    "dateStart": "2005-01-18",
+    "dateFinish": "2005-01-18",
+    "publisher": "",
+    "url": "",
+    "image": "images/FilmDirectingShotByShot.jpg"
+  }, {
+    "title": "Messy Spirituality",
+    "subtitle": "God's Annoying Love for Imperfect People",
+    "author": "Michael Yaconelli",
+    "dateStart": "2004-01-22",
+    "dateFinish": "2004-01-22",
+    "publisher": "",
+    "url": "",
+    "image": "images/MessySpirituality.jpg"
+  }, {
+    "title": "The Gospel Reloaded",
+    "subtitle": "",
+    "author": "Seay Garrett",
+    "dateStart": "2007-04-24",
+    "dateFinish": "2007-04-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheGospelReloaded.jpg"
+  }, {
+    "title": "Me, Myself & Bob",
+    "subtitle": "A True Story about God, Dreams, and Talking Vegetables",
+    "author": "Phil Vischer",
+    "dateStart": "2011-02-12",
+    "dateFinish": "2011-02-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/MeMyselfAndBob.jpg"
+  }, {
+    "title": "Jesus Under Fire",
+    "subtitle": "Modern Scholarship Reinvents the Historical Jesus",
+    "author": "Michael J. Wilkins",
+    "dateStart": "2005-04-04",
+    "dateFinish": "2005-04-04",
+    "publisher": "",
+    "url": "",
+    "image": "images/JesusUnderFire.jpg"
+  }, {
+    "title": "Scaling the Secular City",
+    "subtitle": "A Defense of Christianity",
+    "author": "J.P. Moreland",
+    "dateStart": "2005-04-23",
+    "dateFinish": "2005-04-23",
+    "publisher": "",
+    "url": "",
+    "image": "images/ScalingTheSecularCity.jpg"
+  }, {
+    "title": "In the Blink of an Eye",
+    "subtitle": "",
+    "author": "Walter Murch",
+    "dateStart": "2006-01-24",
+    "dateFinish": "2006-01-24",
+    "publisher": "",
+    "url": "",
+    "stars": null,
+    "image": "images/InTheBlinkOfAnEye.jpg"
+  }, {
+    "title": "Obsessed",
+    "subtitle": "",
+    "author": "Ted Dekker",
+    "dateStart": "2005-02-05",
+    "dateFinish": "2005-02-05",
+    "publisher": "",
+    "url": "",
+    "image": "images/Obsessed.jpg"
+  }, {
+    "title": "Love Your God with All Your Mind",
+    "subtitle": "The Role of Reason in the Life of the Soul",
+    "author": "J.P. Moreland",
+    "dateStart": "2005-03-09",
+    "dateFinish": "2005-03-09",
+    "publisher": "",
+    "url": "",
+    "image": "images/LoveYourGodWithAllYourMind.jpg"
+  }, {
+    "title": "Animal Farm",
+    "subtitle": "",
+    "author": "George Orwell",
+    "dateStart": "2006-05-11",
+    "dateFinish": "2006-05-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/AnimalFarm.jpg"
+  }, {
+    "title": "1984",
+    "subtitle": "",
+    "author": "George Orwell",
+    "dateStart": "2005-10-28",
+    "dateFinish": "2005-10-28",
+    "publisher": "",
+    "url": "",
+    "image": "images/1984.jpg"
+  }, {
+    "title": "Rebel Without a Crew",
+    "subtitle": "or How a 23-Year-Old Filmmaker with $7,000 Became a Hollywood Player",
+    "author": "Robert Rodríguez",
+    "dateStart": "2005-02-23",
+    "dateFinish": "2005-02-23",
+    "publisher": "",
+    "url": "",
+    "image": "images/RebelWithoutACrew.jpg"
+  },
+  {
+    "title": "The Writer's Journey",
+    "subtitle": "Mythic Structure for Writers",
+    "author": "",
+    "dateStart": "2006-01-25",
+    "dateFinish": "2006-01-25",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheWritersJourney.jpg"
+  }, {
+    "title": "Stories of Emergence",
+    "subtitle": "Moving from Absolute to Authentic",
+    "author": "Michael Yaconelli",
+    "dateStart": "2007-03-16",
+    "dateFinish": "2007-03-16",
+    "publisher": "",
+    "url": "",
+    "image": "images/StoriesOfEmergence.jpg"
+  }, {
+    "title": "House",
+    "subtitle": "",
+    "author": "Frank E. Peretti",
+    "dateStart": "2007-05-21",
+    "dateFinish": "2007-05-21",
+    "publisher": "",
+    "url": "",
+    "image": "images/House.jpg"
+  }, {
+    "title": "The Wounded Spirit",
+    "subtitle": "",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-05-27",
+    "dateFinish": "2005-05-27",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheWoundedSpirit.jpg"
+  }, {
+    "title": "Hangman's Curse",
+    "subtitle": "Veritas Project, #1",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-05-27",
+    "dateFinish": "2005-05-27",
+    "publisher": "",
+    "url": "",
+    "image": "images/HangmansCurse.jpg"
+  }, {
+    "title": "The Oath",
+    "subtitle": "",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-05-27",
+    "dateFinish": "2005-05-27",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheOath.jpg"
+  }, {
+    "title": "Monster",
+    "subtitle": "",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-05-16",
+    "dateFinish": "2005-05-16",
+    "publisher": "",
+    "url": "",
+    "image": "images/Monster.jpg"
+  }, {
+    "title": "Nightmare Academy",
+    "subtitle": "Veritas Project, #2",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-05-27",
+    "dateFinish": "2005-05-27",
+    "publisher": "",
+    "url": "",
+    "image": "images/NightmareAcademy.jpg"
+  }, {
+    "title": "The Visitation",
+    "subtitle": "",
+    "author": "Frank E. Peretti",
+    "dateStart": "2005-06-12",
+    "dateFinish": "2005-06-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheVisitation.jpg"
+  }, {
+    "title": "Turn",
+    "subtitle": "Remembering Our Foundations",
+    "author": "Max Lucado",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "",
+    "url": "",
+    "image": "images/Turn.jpg"
+  }, {
+    "title": "Next Door Savior",
+    "subtitle": "Near Enough to Touch, Strong Enough to Trust",
+    "author": "Max Lucado",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "",
+    "url": "",
+    "image": "images/NextDoorSavior.jpg"
+  }, {
+    "title": "More Ready Than You Realize",
+    "subtitle": "The Power of Everyday Conversations",
+    "author": "Brian D. McLaren",
+    "dateStart": "2007-11-08",
+    "dateFinish": "2007-11-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/MoreReadyThanYouRealize.jpg"
+  }, {
+    "title": "The Story We Find Ourselves in",
+    "subtitle": "Further Adventures of a New Kind of Christian",
+    "author": "Brian D. McLaren",
+    "dateStart": "2004-09-01",
+    "dateFinish": "2004-09-01",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheStoryWeFindOurselvesIn.jpg"
+  }, {
+    "title": "A New Kind of Christian",
+    "subtitle": "A Tale of Two Friends on a Spiritual Journey",
+    "author": "Brian D. McLaren",
+    "dateStart": "2004-04-07",
+    "dateFinish": "2004-04-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/ANewKindOfChristian.jpg"
+  }, {
+    "title": "Finding Faith",
+    "subtitle": "A Self-Discovery Guide for Your Spiritual Quest",
+    "author": "Brian D. McLaren",
+    "dateStart": "2004-10-12",
+    "dateFinish": "2004-10-12",
+    "publisher": "",
+    "url": "",
+    "image": "images/FindingFaith.jpg"
+  }, {
+    "title": "The Church on the Other Side",
+    "subtitle": "Doing Ministry in the Postmodern Matrix",
+    "author": "Brian D. McLaren",
+    "dateStart": "2006-05-11",
+    "dateFinish": "2006-05-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheChurchOnTheOtherSide.jpg"
+  }, {
+    "title": "A Generous Orthodoxy",
+    "subtitle": "Why I am a missional, evangelical, post/protestant, liberal/conservative, biblical, charismatic/contemplative, fundamentalist/calvinist, anabaptist/anglican, incarnational, depressed-yet-hopeful, emergent, unfinished Christian",
+    "author": "Brian D. McLaren",
+    "dateStart": "2007-01-11",
+    "dateFinish": "2007-01-11",
+    "publisher": "",
+    "url": "",
+    "image": "images/AGenerousOrthodoxy.jpg"
+  }, {
+    "title": "Don't Waste Your Life",
+    "subtitle": "",
+    "author": "John Piper",
+    "dateStart": "2007-10-31",
+    "dateFinish": "2007-10-31",
+    "publisher": "",
+    "url": "",
+    "image": "images/DontWasteYourLife.jpg"
+  }, {
+    "title": "Fifty Reasons Why Jesus Came to Die",
+    "subtitle": "",
+    "author": "John Piper",
+    "dateStart": "2007-11-18",
+    "dateFinish": "2007-11-18",
+    "publisher": "",
+    "url": "",
+    "image": "images/FiftyReasonsWhyJesusCameToDie.jpg"
+  }, {
+    "title": "The Case for Faith",
+    "subtitle": "A Journalist Investigates the Toughest Objections to Christianity",
+    "author": "Lee Strobel",
+    "dateStart": "2005-03-09",
+    "dateFinish": "2005-03-09",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheCaseForFaith.jpg"
+  }, {
+    "title": "The Case for a Creator",
+    "subtitle": "A Journalist Investigates Scientific Evidence That Points Toward God",
+    "author": "Lee Strobel",
+    "dateStart": "2005-02-13",
+    "dateFinish": "2005-02-13",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheCaseForACreator.jpg"
+  }, {
+    "title": "White",
+    "subtitle": "The Great Pursuit (The Circle, #3)",
+    "author": "Ted Dekker",
+    "dateStart": "2004-03-03",
+    "dateFinish": "2004-03-03",
+    "publisher": "",
+    "url": "",
+    "image": "images/White.jpg"
+  }, {
+    "title": "Red",
+    "subtitle": "The Heroic Rescue (The Circle, #2)",
+    "author": "Ted Dekker",
+    "dateStart": "2004-02-02",
+    "dateFinish": "2004-02-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/Red.jpg"
+  }, {
+    "title": "Black",
+    "subtitle": "The Birth of Evil (The Circle, #1)",
+    "author": "Ted Dekker",
+    "dateStart": "2004-02-02",
+    "dateFinish": "2004-02-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/Black.jpg"
+  }, {
+    "title": "Blue Like Jazz",
+    "subtitle": "Nonreligious Thoughts on Christian Spirituality",
+    "author": "Donald Miller",
+    "dateStart": "2005-06-07",
+    "dateFinish": "2005-06-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/BlueLikeJazz.jpg"
+  }, {
+    "title": "Searching for God Knows What",
+    "subtitle": "",
+    "author": "Donald Miller",
+    "dateStart": "2005-06-17",
+    "dateFinish": "2005-06-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/SearchingForGodKnowsWhat.jpg"
+  }, {
+    "title": "To Own a Dragon",
+    "subtitle": "Reflections on Growing Up Without a Father",
+    "author": "Donald Miller",
+    "dateStart": "2007-08-07",
+    "dateFinish": "2007-08-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/ToOwnADragon.jpg"
+  }, {
+    "title": "Through Painted Deserts",
+    "subtitle": "Light, God, and Beauty on the Open Road",
+    "author": "Donald Miller",
+    "dateStart": "2006-04-30",
+    "dateFinish": "2006-04-30",
+    "publisher": "",
+    "url": "",
+    "image": "images/ThroughPaintedDeserts.jpg"
+  }, {
+    "title": "Understanding God's Will",
+    "subtitle": "How to Hack the Equation Without Formulas",
+    "author": "Kyle Lake",
+    "dateStart": "2005-06-17",
+    "dateFinish": "2005-06-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/UnderstandingGodsWill.jpg"
+  }, {
+    "title": "(RE)Understanding Prayer",
+    "subtitle": "A Fresh Approach to Conversation With God",
+    "author": "Kyle Lake",
+    "dateStart": "2007-10-31",
+    "dateFinish": "2007-10-31",
+    "publisher": "",
+    "url": "",
+    "image": "images/ReUnderstandingPrayer.jpg"
+  }, {
+    "title": "Save the Cat",
+    "subtitle": "The Last Book on Screenwriting You'll Ever Need",
+    "author": "Blake Snyder",
+    "dateStart": "2006-02-10",
+    "dateFinish": "2006-02-10",
+    "publisher": "",
+    "url": "",
+    "image": "images/SaveTheCat.jpg"
+  }, {
+    "title": "Selling a Screenplay",
+    "subtitle": "The Screenwriter's Guide to Hollywood",
+    "author": "Syd Field",
+    "dateStart": "2006-03-02",
+    "dateFinish": "2006-03-02",
+    "publisher": "",
+    "url": "",
+    "image": "images/SellingAScreenplay.jpg"
+  }, {
+    "title": "Red Moon Rising",
+    "subtitle": "How 24-7 Prayer Is Awakening a Generation",
+    "author": "Pete Greig",
+    "dateStart": "2006-10-01",
+    "dateFinish": "2006-10-01",
+    "publisher": "",
+    "url": "",
+    "image": "images/RedMoonRising.jpg"
+  }, {
+    "title": "The Vision And The Vow",
+    "subtitle": "Re-Discovering Life and Grace",
+    "author": "Pete Greig",
+    "dateStart": "2005-12-25",
+    "dateFinish": "2005-12-25",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheVisionAndTheVow.jpg"
+  }, {
+    "title": "Darwin's Black Box",
+    "subtitle": "The Biochemical Challenge to Evolution",
+    "author": "Michael J. Behe",
+    "dateStart": "2005-05-24",
+    "dateFinish": "2005-05-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/DarwinsBlackBox.jpg"
+  }, {
+    "title": "Masters of Light",
+    "subtitle": "Conversations with Contemporary Cinematographers",
+    "author": "Dennis Schaefer",
+    "dateStart": "2006-02-26",
+    "dateFinish": "2006-02-26",
+    "publisher": "",
+    "url": "",
+    "image": "images/MastersOfLight.jpg"
+  }, {
+    "title": "It's a hell of a life, but not a bad living",
+    "subtitle": "",
+    "author": "Edward Dmytryk",
+    "dateStart": "2006-03-08",
+    "dateFinish": "2006-03-08",
+    "publisher": "",
+    "url": "",
+    "image": "images/ItsAHellOfALife.jpg"
+  }, {
+    "title": "The Deity Formerly Known as God",
+    "subtitle": "",
+    "author": "Jarrett Stevens",
+    "dateStart": "2006-10-01",
+    "dateFinish": "2006-10-01",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheDeityFormerlyKnownAsGod.jpg"
+  }, {
+    "title": "When Bad Christians Happen to Good People",
+    "subtitle": "Where We Have Failed Each Other and How to Reverse the Damage",
+    "author": "Dave Burchett",
+    "dateStart": "2004-02-03",
+    "dateFinish": "2004-02-03",
+    "publisher": "",
+    "url": "",
+    "image": "images/WhenBadChristiansHappenToGoodPeople.jpg"
+  }, {
+    "title": "The Wizard of Ads",
+    "subtitle": "",
+    "author": "Roy H. Williams",
+    "dateStart": "2011-10-09",
+    "dateFinish": "2011-10-09",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheWizardOfAds.jpg"
+  }, {
+    "title": "Out of the Silent Planet",
+    "subtitle": " The Space Trilogy, #1",
+    "author": "C.S. Lewis",
+    "dateStart": "2007-05-21",
+    "dateFinish": "2007-05-21",
+    "publisher": "",
+    "url": "",
+    "image": "images/OutOfTheSilentPlanet.jpg"
+  }, {
+    "title": "That Hideous Strength",
+    "subtitle": "The Space Trilogy, #3",
+    "author": "C.S. Lewis",
+    "dateStart": "2007-08-17",
+    "dateFinish": "2007-08-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheHideousStrength.jpg"
+  }, {
+    "title": "Perelandra",
+    "subtitle": "The Space Trilogy, #2",
+    "author": "C.S. Lewis",
+    "dateStart": "2007-06-20",
+    "dateFinish": "2007-06-20",
+    "publisher": "",
+    "url": "",
+    "image": "images/Perelandra.jpg"
+  }, {
+    "title": "The Screwtape Letters",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2004-02-03",
+    "dateFinish": "2004-02-03",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheScrewtapeLetters.jpg"
+  }, {
+    "title": "The Problem of Pain",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2004-04-21",
+    "dateFinish": "2004-04-21",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheProblemOfPain.jpg"
+  }, {
+    "title": "The Great Divorce",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2004-04-21",
+    "dateFinish": "2004-04-21",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheGreatDivorce.jpg"
+  }, {
+    "title": "Surprised by Joy",
+    "subtitle": "The Shape of My Early Life",
+    "author": "C.S. Lewis",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "",
+    "url": "",
+    "image": "images/SurprisedByJoy.jpg"
+  }, {
+    "title": "The Chronicles of Narnia (Box Set)",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2005-01-17",
+    "dateFinish": "2005-01-17",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheChroniclesOfNarnia.jpg"
+  }, {
+    "title": "Mere Christianity",
+    "subtitle": "",
+    "author": "C.S. Lewis",
+    "dateStart": "2004-01-22",
+    "dateFinish": "2004-01-22",
+    "publisher": "",
+    "url": "",
+    "image": "images/MereChristianity.jpg"
+  }, {
+    "title": "Out of the Question...Into the Mystery",
+    "subtitle": "Getting Lost in the GodLife Relationship",
+    "author": "Leonard Sweet",
+    "dateStart": "2007-04-24",
+    "dateFinish": "2007-04-24",
+    "publisher": "",
+    "url": "",
+    "image": "images/OutOfTheQuestion.jpg"
+  }, {
+    "title": "The Coffeehouse Gospel",
+    "subtitle": "Sharing Your Faith Through Everyday Conversation",
+    "author": "Matthew Paul Turner",
+    "dateStart": "2005-06-07",
+    "dateFinish": "2005-06-07",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheCoffeehouseGospel.jpg"
+  }, {
+    "title": "The Two Doors of Heaven",
+    "subtitle": "A Story of Your Future",
+    "author": "John Bolin",
+    "dateStart": "2007-02-10",
+    "dateFinish": "2007-02-10",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheTwoDoorsOfHeaven.jpg"
+  }, {
+    "title": "God.com",
+    "subtitle": "Extreme Intimacy with an Interactive God",
+    "author": "James Alexander Langteaux",
+    "dateStart": "2004-02-21",
+    "dateFinish": "2004-02-21",
+    "publisher": "",
+    "url": "",
+    "image": "images/GodCom.jpg"
+  }, {
+    "title": "The Historical Reliability of the Gospels",
+    "subtitle": "",
+    "author": "Craig L. Blomberg",
+    "dateStart": "2005-04-23",
+    "dateFinish": "2005-04-23",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheHistoricalReliabilityOfTheGospels.jpg"
+  }, {
+    "title": "The War of Art",
+    "subtitle": "Break Through the Blocks & Win Your Inner Creative Battles",
+    "author": "Steven Pressfield",
+    "dateStart": "2009-05-22",
+    "dateFinish": "2009-05-22",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheWarOfArt.jpg"
+  }, {
+    "title": "The Out of Bounds Church?",
+    "subtitle": "Learning to Create a Community of Faith in a Culture of Change",
+    "author": "Steve Taylor",
+    "dateStart": "2006-01-15",
+    "dateFinish": "2006-01-15",
+    "publisher": "",
+    "url": "",
+    "image": "images/TheOutOfBoundsChurch.jpg"
   }
 ]
