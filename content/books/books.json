@@ -18,8 +18,6 @@
     "publisher": "A Book Apart",
     "stars": null,
     "review": null,
-    "progress": null,
-    "total": 209,
     "url": "https://abookapart.com/products/flexible-typesetting",
     "image": "images/FlexibleTypesetting.jpg"
   }, {
@@ -43,7 +41,7 @@
     "progress": 4,
     "total": 77,
     "url": "https://abookapart.com/products/demystifying-public-speaking",
-    "image": "images/DemystifyingPublicSpeaking.jpg"
+    "image": "images/DemistifyingPublicSpeaking.jpg"
   }, {
     "title": "Thanks for the Feedback",
     "subtitle": "The Science and Art of Receiving Feedback Well",

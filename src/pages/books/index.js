@@ -17,7 +17,9 @@ class BookshelfPage extends React.Component {
   renderBook(book, i) {
     return (
       <div className="book" key={i}>
-        <Image fixed={{ ...book.bigImage.childImageSharp.big }} />
+        {book.bigImage !== null ? (
+          <Image fixed={{ ...book.bigImage.childImageSharp.big }} />
+        ) : null}
         {book.progress !== null ? (
           <div className="progress-bar">
             <span style={{ width: 100 * (book.progress / book.total) + "%" }} />
