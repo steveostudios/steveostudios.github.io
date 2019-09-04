@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "Accessibility for Everyone",
     "subtitle": "",
     "author": "Laura Kalbag",
@@ -9,7 +10,8 @@
     "review": null,
     "url": "https://abookapart.com/products/accessibility-for-everyone",
     "image": "images/AccessibilityForEveryone.jpg"
-  }, {
+  },
+  {
     "title": "Flexible Typesetting",
     "subtitle": "",
     "author": "Tim Brown",
@@ -20,7 +22,8 @@
     "review": null,
     "url": "https://abookapart.com/products/flexible-typesetting",
     "image": "images/FlexibleTypesetting.jpg"
-  }, {
+  },
+  {
     "title": "Future Grace",
     "subtitle": "The Purifying Power of the Promises of God",
     "author": "John Piper",
@@ -29,7 +32,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FutureGrace.jpg"
-  }, {
+  },
+  {
     "title": "Demystifying Public Speaking",
     "subtitle": "",
     "author": "Lara Callender Hogan",
@@ -40,7 +44,8 @@
     "review": null,
     "url": "https://abookapart.com/products/demystifying-public-speaking",
     "image": "images/DemistifyingPublicSpeaking.jpg"
-  }, {
+  },
+  {
     "title": "Thanks for the Feedback",
     "subtitle": "The Science and Art of Receiving Feedback Well",
     "author": "Douglas Stone and Sheila Heen",
@@ -49,11 +54,12 @@
     "publisher": "Penguin Books",
     "stars": null,
     "review": null,
-    "progress": 141,
+    "progress": 158,
     "total": 320,
     "url": "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
     "image": "images/ThanksForTheFeedback.jpg"
-  }, {
+  },
+  {
     "title": "Rex Appeal",
     "subtitle": "",
     "author": "Peter Larson and Kristin Donnan",
@@ -518,7 +524,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheCaseForEaster.jpg"
-  }, {
+  },
+  {
     "title": "Come Thirsty",
     "subtitle": "No Heart Too Dry for His Touch",
     "author": "Max Lucado",
@@ -527,7 +534,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ComeThirsty.jpg"
-  }, {
+  },
+  {
     "title": "Traveling Light",
     "subtitle": "Releasing the Burdens You Were Never Intended to Bear",
     "author": "Max Lucado",
@@ -536,7 +544,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TravelingLight.jpg"
-  }, {
+  },
+  {
     "title": "Thunder of Heaven (The Heaven Trilogy, #3)",
     "subtitle": "",
     "author": "Ted Dekker",
@@ -545,7 +554,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ThunderOfHeaven.jpg"
-  }, {
+  },
+  {
     "title": "Thr3e",
     "subtitle": "",
     "author": "Ted Dekker",
@@ -554,7 +564,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Thr3e.jpg"
-  }, {
+  },
+  {
     "title": "Blink",
     "subtitle": "",
     "author": "Ted Dekker",
@@ -563,7 +574,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Blink.jpg"
-  }, {
+  },
+  {
     "title": "The Life You've Always Wanted",
     "subtitle": "Spiritual Disciplines for Ordinary People",
     "author": "John Ortberg",
@@ -572,7 +584,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheLifeYouveAlwaysWanted.jpg"
-  }, {
+  },
+  {
     "title": "The Da Vinci Code",
     "subtitle": "",
     "author": "Dan Brown",
@@ -581,7 +594,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheDaVinciCode.jpg"
-  }, {
+  },
+  {
     "title": "Velvet Elvis",
     "subtitle": "Repainting the Christian Faith",
     "author": "Rob Bell",
@@ -590,7 +604,8 @@
     "publisher": "",
     "url": "",
     "image": "images/VelvetElvis.jpg"
-  }, {
+  },
+  {
     "title": "Praise Habit",
     "subtitle": "Finding God in Sunsets and Sushi",
     "author": "David Crowder",
@@ -599,7 +614,8 @@
     "publisher": "",
     "url": "",
     "image": "images/PraiseHabit.jpg"
-  }, {
+  },
+  {
     "title": "Film Directing Shot by Shot",
     "subtitle": "Visualizing from Concept to Screen",
     "author": "Steven D. Katz",
@@ -608,7 +624,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FilmDirectingShotByShot.jpg"
-  }, {
+  },
+  {
     "title": "Messy Spirituality",
     "subtitle": "God's Annoying Love for Imperfect People",
     "author": "Michael Yaconelli",
@@ -617,7 +634,8 @@
     "publisher": "",
     "url": "",
     "image": "images/MessySpirituality.jpg"
-  }, {
+  },
+  {
     "title": "The Gospel Reloaded",
     "subtitle": "",
     "author": "Seay Garrett",
@@ -626,7 +644,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheGospelReloaded.jpg"
-  }, {
+  },
+  {
     "title": "Me, Myself & Bob",
     "subtitle": "A True Story about God, Dreams, and Talking Vegetables",
     "author": "Phil Vischer",
@@ -635,7 +654,8 @@
     "publisher": "",
     "url": "",
     "image": "images/MeMyselfAndBob.jpg"
-  }, {
+  },
+  {
     "title": "Jesus Under Fire",
     "subtitle": "Modern Scholarship Reinvents the Historical Jesus",
     "author": "Michael J. Wilkins",
@@ -644,7 +664,8 @@
     "publisher": "",
     "url": "",
     "image": "images/JesusUnderFire.jpg"
-  }, {
+  },
+  {
     "title": "Scaling the Secular City",
     "subtitle": "A Defense of Christianity",
     "author": "J.P. Moreland",
@@ -653,7 +674,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ScalingTheSecularCity.jpg"
-  }, {
+  },
+  {
     "title": "In the Blink of an Eye",
     "subtitle": "",
     "author": "Walter Murch",
@@ -663,7 +685,8 @@
     "url": "",
     "stars": null,
     "image": "images/InTheBlinkOfAnEye.jpg"
-  }, {
+  },
+  {
     "title": "Obsessed",
     "subtitle": "",
     "author": "Ted Dekker",
@@ -672,7 +695,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Obsessed.jpg"
-  }, {
+  },
+  {
     "title": "Love Your God with All Your Mind",
     "subtitle": "The Role of Reason in the Life of the Soul",
     "author": "J.P. Moreland",
@@ -681,7 +705,8 @@
     "publisher": "",
     "url": "",
     "image": "images/LoveYourGodWithAllYourMind.jpg"
-  }, {
+  },
+  {
     "title": "Animal Farm",
     "subtitle": "",
     "author": "George Orwell",
@@ -690,7 +715,8 @@
     "publisher": "",
     "url": "",
     "image": "images/AnimalFarm.jpg"
-  }, {
+  },
+  {
     "title": "1984",
     "subtitle": "",
     "author": "George Orwell",
@@ -699,7 +725,8 @@
     "publisher": "",
     "url": "",
     "image": "images/1984.jpg"
-  }, {
+  },
+  {
     "title": "Rebel Without a Crew",
     "subtitle": "or How a 23-Year-Old Filmmaker with $7,000 Became a Hollywood Player",
     "author": "Robert Rodríguez",
@@ -718,7 +745,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheWritersJourney.jpg"
-  }, {
+  },
+  {
     "title": "Stories of Emergence",
     "subtitle": "Moving from Absolute to Authentic",
     "author": "Michael Yaconelli",
@@ -727,7 +755,8 @@
     "publisher": "",
     "url": "",
     "image": "images/StoriesOfEmergence.jpg"
-  }, {
+  },
+  {
     "title": "House",
     "subtitle": "",
     "author": "Frank E. Peretti",
@@ -736,7 +765,8 @@
     "publisher": "",
     "url": "",
     "image": "images/House.jpg"
-  }, {
+  },
+  {
     "title": "The Wounded Spirit",
     "subtitle": "",
     "author": "Frank E. Peretti",
@@ -745,7 +775,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheWoundedSpirit.jpg"
-  }, {
+  },
+  {
     "title": "Hangman's Curse",
     "subtitle": "Veritas Project, #1",
     "author": "Frank E. Peretti",
@@ -754,7 +785,8 @@
     "publisher": "",
     "url": "",
     "image": "images/HangmansCurse.jpg"
-  }, {
+  },
+  {
     "title": "The Oath",
     "subtitle": "",
     "author": "Frank E. Peretti",
@@ -763,7 +795,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheOath.jpg"
-  }, {
+  },
+  {
     "title": "Monster",
     "subtitle": "",
     "author": "Frank E. Peretti",
@@ -772,7 +805,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Monster.jpg"
-  }, {
+  },
+  {
     "title": "Nightmare Academy",
     "subtitle": "Veritas Project, #2",
     "author": "Frank E. Peretti",
@@ -781,7 +815,8 @@
     "publisher": "",
     "url": "",
     "image": "images/NightmareAcademy.jpg"
-  }, {
+  },
+  {
     "title": "The Visitation",
     "subtitle": "",
     "author": "Frank E. Peretti",
@@ -790,7 +825,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheVisitation.jpg"
-  }, {
+  },
+  {
     "title": "Turn",
     "subtitle": "Remembering Our Foundations",
     "author": "Max Lucado",
@@ -799,7 +835,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Turn.jpg"
-  }, {
+  },
+  {
     "title": "Next Door Savior",
     "subtitle": "Near Enough to Touch, Strong Enough to Trust",
     "author": "Max Lucado",
@@ -808,7 +845,8 @@
     "publisher": "",
     "url": "",
     "image": "images/NextDoorSavior.jpg"
-  }, {
+  },
+  {
     "title": "More Ready Than You Realize",
     "subtitle": "The Power of Everyday Conversations",
     "author": "Brian D. McLaren",
@@ -817,7 +855,8 @@
     "publisher": "",
     "url": "",
     "image": "images/MoreReadyThanYouRealize.jpg"
-  }, {
+  },
+  {
     "title": "The Story We Find Ourselves in",
     "subtitle": "Further Adventures of a New Kind of Christian",
     "author": "Brian D. McLaren",
@@ -826,7 +865,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheStoryWeFindOurselvesIn.jpg"
-  }, {
+  },
+  {
     "title": "A New Kind of Christian",
     "subtitle": "A Tale of Two Friends on a Spiritual Journey",
     "author": "Brian D. McLaren",
@@ -835,7 +875,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ANewKindOfChristian.jpg"
-  }, {
+  },
+  {
     "title": "Finding Faith",
     "subtitle": "A Self-Discovery Guide for Your Spiritual Quest",
     "author": "Brian D. McLaren",
@@ -844,7 +885,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FindingFaith.jpg"
-  }, {
+  },
+  {
     "title": "The Church on the Other Side",
     "subtitle": "Doing Ministry in the Postmodern Matrix",
     "author": "Brian D. McLaren",
@@ -853,7 +895,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheChurchOnTheOtherSide.jpg"
-  }, {
+  },
+  {
     "title": "A Generous Orthodoxy",
     "subtitle": "Why I am a missional, evangelical, post/protestant, liberal/conservative, biblical, charismatic/contemplative, fundamentalist/calvinist, anabaptist/anglican, incarnational, depressed-yet-hopeful, emergent, unfinished Christian",
     "author": "Brian D. McLaren",
@@ -862,7 +905,8 @@
     "publisher": "",
     "url": "",
     "image": "images/AGenerousOrthodoxy.jpg"
-  }, {
+  },
+  {
     "title": "Don't Waste Your Life",
     "subtitle": "",
     "author": "John Piper",
@@ -871,7 +915,8 @@
     "publisher": "",
     "url": "",
     "image": "images/DontWasteYourLife.jpg"
-  }, {
+  },
+  {
     "title": "Fifty Reasons Why Jesus Came to Die",
     "subtitle": "",
     "author": "John Piper",
@@ -880,7 +925,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FiftyReasonsWhyJesusCameToDie.jpg"
-  }, {
+  },
+  {
     "title": "The Case for Faith",
     "subtitle": "A Journalist Investigates the Toughest Objections to Christianity",
     "author": "Lee Strobel",
@@ -889,7 +935,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheCaseForFaith.jpg"
-  }, {
+  },
+  {
     "title": "The Case for a Creator",
     "subtitle": "A Journalist Investigates Scientific Evidence That Points Toward God",
     "author": "Lee Strobel",
@@ -898,7 +945,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheCaseForACreator.jpg"
-  }, {
+  },
+  {
     "title": "White",
     "subtitle": "The Great Pursuit (The Circle, #3)",
     "author": "Ted Dekker",
@@ -907,7 +955,8 @@
     "publisher": "",
     "url": "",
     "image": "images/White.jpg"
-  }, {
+  },
+  {
     "title": "Red",
     "subtitle": "The Heroic Rescue (The Circle, #2)",
     "author": "Ted Dekker",
@@ -916,7 +965,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Red.jpg"
-  }, {
+  },
+  {
     "title": "Black",
     "subtitle": "The Birth of Evil (The Circle, #1)",
     "author": "Ted Dekker",
@@ -925,7 +975,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Black.jpg"
-  }, {
+  },
+  {
     "title": "Blue Like Jazz",
     "subtitle": "Nonreligious Thoughts on Christian Spirituality",
     "author": "Donald Miller",
@@ -934,7 +985,8 @@
     "publisher": "",
     "url": "",
     "image": "images/BlueLikeJazz.jpg"
-  }, {
+  },
+  {
     "title": "Searching for God Knows What",
     "subtitle": "",
     "author": "Donald Miller",
@@ -943,7 +995,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SearchingForGodKnowsWhat.jpg"
-  }, {
+  },
+  {
     "title": "To Own a Dragon",
     "subtitle": "Reflections on Growing Up Without a Father",
     "author": "Donald Miller",
@@ -952,7 +1005,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ToOwnADragon.jpg"
-  }, {
+  },
+  {
     "title": "Through Painted Deserts",
     "subtitle": "Light, God, and Beauty on the Open Road",
     "author": "Donald Miller",
@@ -961,7 +1015,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ThroughPaintedDeserts.jpg"
-  }, {
+  },
+  {
     "title": "Understanding God's Will",
     "subtitle": "How to Hack the Equation Without Formulas",
     "author": "Kyle Lake",
@@ -970,7 +1025,8 @@
     "publisher": "",
     "url": "",
     "image": "images/UnderstandingGodsWill.jpg"
-  }, {
+  },
+  {
     "title": "(RE)Understanding Prayer",
     "subtitle": "A Fresh Approach to Conversation With God",
     "author": "Kyle Lake",
@@ -979,7 +1035,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ReUnderstandingPrayer.jpg"
-  }, {
+  },
+  {
     "title": "Save the Cat",
     "subtitle": "The Last Book on Screenwriting You'll Ever Need",
     "author": "Blake Snyder",
@@ -988,7 +1045,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SaveTheCat.jpg"
-  }, {
+  },
+  {
     "title": "Selling a Screenplay",
     "subtitle": "The Screenwriter's Guide to Hollywood",
     "author": "Syd Field",
@@ -997,7 +1055,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SellingAScreenplay.jpg"
-  }, {
+  },
+  {
     "title": "Red Moon Rising",
     "subtitle": "How 24-7 Prayer Is Awakening a Generation",
     "author": "Pete Greig",
@@ -1006,7 +1065,8 @@
     "publisher": "",
     "url": "",
     "image": "images/RedMoonRising.jpg"
-  }, {
+  },
+  {
     "title": "The Vision And The Vow",
     "subtitle": "Re-Discovering Life and Grace",
     "author": "Pete Greig",
@@ -1015,7 +1075,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheVisionAndTheVow.jpg"
-  }, {
+  },
+  {
     "title": "Darwin's Black Box",
     "subtitle": "The Biochemical Challenge to Evolution",
     "author": "Michael J. Behe",
@@ -1024,7 +1085,8 @@
     "publisher": "",
     "url": "",
     "image": "images/DarwinsBlackBox.jpg"
-  }, {
+  },
+  {
     "title": "Masters of Light",
     "subtitle": "Conversations with Contemporary Cinematographers",
     "author": "Dennis Schaefer",
@@ -1033,7 +1095,8 @@
     "publisher": "",
     "url": "",
     "image": "images/MastersOfLight.jpg"
-  }, {
+  },
+  {
     "title": "It's a hell of a life, but not a bad living",
     "subtitle": "",
     "author": "Edward Dmytryk",
@@ -1042,7 +1105,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ItsAHellOfALife.jpg"
-  }, {
+  },
+  {
     "title": "The Deity Formerly Known as God",
     "subtitle": "",
     "author": "Jarrett Stevens",
@@ -1051,7 +1115,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheDeityFormerlyKnownAsGod.jpg"
-  }, {
+  },
+  {
     "title": "When Bad Christians Happen to Good People",
     "subtitle": "Where We Have Failed Each Other and How to Reverse the Damage",
     "author": "Dave Burchett",
@@ -1060,7 +1125,8 @@
     "publisher": "",
     "url": "",
     "image": "images/WhenBadChristiansHappenToGoodPeople.jpg"
-  }, {
+  },
+  {
     "title": "The Wizard of Ads",
     "subtitle": "",
     "author": "Roy H. Williams",
@@ -1069,7 +1135,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheWizardOfAds.jpg"
-  }, {
+  },
+  {
     "title": "Out of the Silent Planet",
     "subtitle": " The Space Trilogy, #1",
     "author": "C.S. Lewis",
@@ -1078,7 +1145,8 @@
     "publisher": "",
     "url": "",
     "image": "images/OutOfTheSilentPlanet.jpg"
-  }, {
+  },
+  {
     "title": "That Hideous Strength",
     "subtitle": "The Space Trilogy, #3",
     "author": "C.S. Lewis",
@@ -1087,7 +1155,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheHideousStrength.jpg"
-  }, {
+  },
+  {
     "title": "Perelandra",
     "subtitle": "The Space Trilogy, #2",
     "author": "C.S. Lewis",
@@ -1096,7 +1165,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Perelandra.jpg"
-  }, {
+  },
+  {
     "title": "The Screwtape Letters",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1105,7 +1175,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheScrewtapeLetters.jpg"
-  }, {
+  },
+  {
     "title": "The Problem of Pain",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1114,7 +1185,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheProblemOfPain.jpg"
-  }, {
+  },
+  {
     "title": "The Great Divorce",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1123,7 +1195,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheGreatDivorce.jpg"
-  }, {
+  },
+  {
     "title": "Surprised by Joy",
     "subtitle": "The Shape of My Early Life",
     "author": "C.S. Lewis",
@@ -1132,7 +1205,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SurprisedByJoy.jpg"
-  }, {
+  },
+  {
     "title": "The Chronicles of Narnia (Box Set)",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1141,7 +1215,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheChroniclesOfNarnia.jpg"
-  }, {
+  },
+  {
     "title": "Mere Christianity",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1150,7 +1225,8 @@
     "publisher": "",
     "url": "",
     "image": "images/MereChristianity.jpg"
-  }, {
+  },
+  {
     "title": "Out of the Question...Into the Mystery",
     "subtitle": "Getting Lost in the GodLife Relationship",
     "author": "Leonard Sweet",
@@ -1159,7 +1235,8 @@
     "publisher": "",
     "url": "",
     "image": "images/OutOfTheQuestion.jpg"
-  }, {
+  },
+  {
     "title": "The Coffeehouse Gospel",
     "subtitle": "Sharing Your Faith Through Everyday Conversation",
     "author": "Matthew Paul Turner",
@@ -1168,7 +1245,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheCoffeehouseGospel.jpg"
-  }, {
+  },
+  {
     "title": "The Two Doors of Heaven",
     "subtitle": "A Story of Your Future",
     "author": "John Bolin",
@@ -1177,7 +1255,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheTwoDoorsOfHeaven.jpg"
-  }, {
+  },
+  {
     "title": "God.com",
     "subtitle": "Extreme Intimacy with an Interactive God",
     "author": "James Alexander Langteaux",
@@ -1186,7 +1265,8 @@
     "publisher": "",
     "url": "",
     "image": "images/GodCom.jpg"
-  }, {
+  },
+  {
     "title": "The Historical Reliability of the Gospels",
     "subtitle": "",
     "author": "Craig L. Blomberg",
@@ -1195,7 +1275,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheHistoricalReliabilityOfTheGospels.jpg"
-  }, {
+  },
+  {
     "title": "The War of Art",
     "subtitle": "Break Through the Blocks & Win Your Inner Creative Battles",
     "author": "Steven Pressfield",
@@ -1204,7 +1285,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheWarOfArt.jpg"
-  }, {
+  },
+  {
     "title": "The Out of Bounds Church?",
     "subtitle": "Learning to Create a Community of Faith in a Culture of Change",
     "author": "Steve Taylor",
@@ -1213,7 +1295,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheOutOfBoundsChurch.jpg"
-  }, {
+  },
+  {
     "title": "On Directing Film",
     "subtitle": "",
     "author": "David Mamet",
@@ -1222,7 +1305,8 @@
     "publisher": "",
     "url": "",
     "image": "images/OnDirectingFilm.jpg"
-  }, {
+  },
+  {
     "title": "How Movies Helped Save My Soul",
     "subtitle": "Finding Spiritual Fingerprints in Culturally Significant Films",
     "author": "Gareth Higgins",
@@ -1231,7 +1315,8 @@
     "publisher": "",
     "url": "",
     "image": "images/HowMoviesHelpedSaveMySoal.jpg"
-  }, {
+  },
+  {
     "title": "From Reverence to Rape",
     "subtitle": "The Treatment of Women in the Movies",
     "author": "Molly Haskell",
@@ -1240,7 +1325,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FromReverenceToRape.jpg"
-  }, {
+  },
+  {
     "title": "Painting With Light",
     "subtitle": "",
     "author": "John Alton",
@@ -1249,7 +1335,8 @@
     "publisher": "",
     "url": "",
     "image": "images/PaintingWithLight.jpg"
-  }, {
+  },
+  {
     "title": "The Filmmaker's Handbook",
     "subtitle": "",
     "author": "Steven Ascher",
@@ -1258,7 +1345,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheFilmmakersHandbook.jpg"
-  }, {
+  },
+  {
     "title": "Blink",
     "subtitle": "The Power of Thinking Without Thinking",
     "author": "Malcom Gladwell",
@@ -1267,7 +1355,8 @@
     "publisher": "",
     "url": "",
     "image": "images/BlinkGladwell.jpg"
-  }, {
+  },
+  {
     "title": "The Tipping Point",
     "subtitle": "How Little Things Can Make a Big Difference",
     "author": "Malcolm Gladwell",
@@ -1276,7 +1365,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheTippingPoint.jpg"
-  }, {
+  },
+  {
     "title": "Redeeming Love",
     "subtitle": "",
     "author": "Francine Rivers",
@@ -1285,7 +1375,8 @@
     "publisher": "",
     "url": "",
     "image": "images/RedeemingLove.jpg"
-  }, {
+  },
+  {
     "title": "The Purpose Driven Life",
     "subtitle": "What on Earth Am I Here for?",
     "author": "Rick Warren",
@@ -1294,7 +1385,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ThePurposeDrivenLife.jpg"
-  }, {
+  },
+  {
     "title": "The Barbarian Way",
     "subtitle": "Unleash the Untamed Faith Within",
     "author": "Erwin Raphael McManus",
@@ -1303,7 +1395,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheBarbarianWay.jpg"
-  }, {
+  },
+  {
     "title": "Strengths Finder 2.0",
     "subtitle": "",
     "author": "Tom Rath",
@@ -1312,7 +1405,8 @@
     "publisher": "",
     "url": "",
     "image": "images/StrengthsFinder.jpg"
-  }, {
+  },
+  {
     "title": "The Pilgrim's Progress",
     "subtitle": "",
     "author": "John Bunyan",
@@ -1321,7 +1415,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ThePilgrimsProgress.jpg"
-  }, {
+  },
+  {
     "title": "The Giver",
     "subtitle": "",
     "author": "Lois Lowry",
@@ -1330,7 +1425,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheGiver.jpg"
-  }, {
+  },
+  {
     "title": "Read, Think, Pray, Live",
     "subtitle": "A Guide to Reading the Bible in a New Way",
     "author": "Tony Jones",
@@ -1339,7 +1435,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ReadThinkPrayLive.jpg"
-  }, {
+  },
+  {
     "title": "A Walk Across America",
     "subtitle": "",
     "author": "Peter Jenkins",
@@ -1348,7 +1445,8 @@
     "publisher": "",
     "url": "",
     "image": "images/AWalkAcrossAmerica.jpg"
-  }, {
+  },
+  {
     "title": "God Is Here",
     "subtitle": "Connecting with Him in Everyday Life",
     "author": "Steve Case",
@@ -1357,7 +1455,8 @@
     "publisher": "",
     "url": "",
     "image": "images/GodIsHere.jpg"
-  }, {
+  },
+  {
     "title": "Your First Two Years in Youth Ministry",
     "subtitle": "A personal and practical guide to starting right",
     "author": "Doug Fields",
@@ -1366,7 +1465,8 @@
     "publisher": "",
     "url": "",
     "image": "images/YourFirstTwoYearsInYM.jpg"
-  }, {
+  },
+  {
     "title": "Refuel",
     "subtitle": "An Uncomplicated Guide to Connecting with God",
     "author": "Doug Fields",
@@ -1375,7 +1475,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Refuel.jpg"
-  }, {
+  },
+  {
     "title": "Faith That Goes the Distance",
     "subtitle": "",
     "author": "Jud Wilhite",
@@ -1384,7 +1485,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FaithThatGoesTheDistance.jpg"
-  }, {
+  },
+  {
     "title": "Love That Goes the Distance",
     "subtitle": "",
     "author": "Jud Wilhite",
@@ -1393,7 +1495,8 @@
     "publisher": "",
     "url": "",
     "image": "images/LoveThatGoesTheDistance.jpg"
-  }, {
+  },
+  {
     "title": "Stripped",
     "subtitle": "",
     "author": "Jud Wilhite",
@@ -1402,7 +1505,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Stripped.jpg"
-  }, {
+  },
+  {
     "title": "Sex God",
     "subtitle": "",
     "author": "Rob Bell",
@@ -1411,7 +1515,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SexGod.jpg"
-  }, {
+  },
+  {
     "title": "If You Want to Walk on Water, You've Got to Get Out of the Boat",
     "subtitle": "",
     "author": "John Ortberg",
@@ -1420,7 +1525,8 @@
     "publisher": "",
     "url": "",
     "image": "images/IfYouWantToWalkOnWater.jpg"
-  }, {
+  },
+  {
     "title": "The Case for Christ",
     "subtitle": "",
     "author": "Lee Strobel",
@@ -1429,7 +1535,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheCaseForChrist.jpg"
-  }, {
+  },
+  {
     "title": "Drive",
     "subtitle": "The Surprising Truth About What Motivates Us",
     "author": "Daniel H. Pink",
@@ -1438,7 +1545,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Drive.jpg"
-  }, {
+  },
+  {
     "title": "The Four Loves",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1447,7 +1555,8 @@
     "publisher": "",
     "url": "",
     "image": "images/TheFourLoves.jpg"
-  }, {
+  },
+  {
     "title": "A Million Miles in a Thousand Years",
     "subtitle": "How I Learned to Live a Better Story",
     "author": "Donald Miller",
@@ -1456,7 +1565,8 @@
     "publisher": "",
     "url": "",
     "image": "images/AMillionMilesInAThousandYears.jpg"
-  }, {
+  },
+  {
     "title": "This Beautiful Mess",
     "subtitle": "Practicing the Presence of the Kingdom of God",
     "author": "Rick McKinley",
@@ -1465,7 +1575,8 @@
     "publisher": "",
     "url": "",
     "image": "images/ThisBeautifulMess.jpg"
-  }, {
+  },
+  {
     "title": "Simply Christian",
     "subtitle": "Why Christianity Makes Sense",
     "author": "N.T. Wright",
@@ -1474,7 +1585,8 @@
     "publisher": "",
     "url": "",
     "image": "images/SimplyChristian.jpg"
-  }, {
+  },
+  {
     "title": "Fresh Power",
     "subtitle": "What Happens When God Leads and You Follow",
     "author": "Jim Cymbala, Dean Merrill",
@@ -1483,7 +1595,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FreshPower.jpg"
-  }, {
+  },
+  {
     "title": "Fresh Faith",
     "subtitle": "What Happens When Real Faith Ignites God's People",
     "author": "Jim Cymbala, Dean Merrill",
@@ -1492,7 +1605,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FreshFaith.jpg"
-  }, {
+  },
+  {
     "title": "Fresh Wind, Fresh Fire",
     "subtitle": "What Happens When God's Spirit Invades the Hearts of His People",
     "author": "Jim Cymbala, Dean Merrill",
@@ -1501,7 +1615,8 @@
     "publisher": "",
     "url": "",
     "image": "images/FreshWindFreshFire.jpg"
-  }, {
+  },
+  {
     "title": "When God Builds a Church",
     "subtitle": "10 Principles for Growing a Dynamic Church",
     "author": "Bob Russell",
@@ -1510,7 +1625,8 @@
     "publisher": "",
     "url": "",
     "image": "images/WhenGodBuildsAChurch.jpg"
-  }, {
+  },
+  {
     "title": "20 Compelling Evidences That God Exists",
     "subtitle": "Discover Why Believing in God Makes So Much Sense",
     "author": "Kenneth D. Boa, Robert M. Jr. Bowman",
@@ -1519,7 +1635,8 @@
     "publisher": "",
     "url": "",
     "image": "images/20CompellingEvidencesThatGodExists.jpg"
-  }, {
+  },
+  {
     "title": "A Grief Observed",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1528,7 +1645,8 @@
     "publisher": "",
     "url": "",
     "image": "images/AGriefObserved.jpg"
-  }, {
+  },
+  {
     "title": "Miracles",
     "subtitle": "",
     "author": "C.S. Lewis",
@@ -1537,7 +1655,8 @@
     "publisher": "",
     "url": "",
     "image": "images/Miracles.jpg"
-  }, {
+  },
+  {
     "title": "Letters From a Skeptic",
     "subtitle": "A Son Wrestles with His Father's Questions about Christianity",
     "author": "Gregory A Boyd, Edward K Boyd",
@@ -1546,7 +1665,8 @@
     "publisher": "",
     "url": "",
     "image": "images/LettersFromASkeptic.jpg"
-  }, {
+  },
+  {
     "title": "Jesus Wants to Save Christians",
     "subtitle": "A Manifesto for the Church in Exile",
     "author": "Rob Bell",
@@ -1555,7 +1675,8 @@
     "publisher": "",
     "url": "",
     "image": "images/JesusWantsToSaveChristians.jpg"
-  }, {
+  },
+  {
     "title": "Eat this book",
     "subtitle": "A Conversation in the Art of Spiritual Reading",
     "author": "Eugene Peterson",
@@ -1564,7 +1685,8 @@
     "publisher": "",
     "url": "",
     "image": "images/EatThisBook.jpg"
-  }, {
+  },
+  {
     "title": "Everybody Wants to Go to Heaven, but Nobody Wants to Die",
     "subtitle": "Or the Eschatology of Bluegrass",
     "author": "David Crowder and Mike Hogan",
