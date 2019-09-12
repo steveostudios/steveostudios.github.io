@@ -22,7 +22,7 @@
     "publisher": "A Book Apart",
     "stars": null,
     "review": null,
-    "progress": 17,
+    "progress": 57,
     "total": 151,
     "url": "https://abookapart.com/products/responsive-design-patterns-principlesg",
     "image": "images/ResponsiveDesignPatternsAndPrinciples.jpg"
@@ -34,10 +34,7 @@
     "dateStart": "2019-02-28",
     "dateFinish": null,
     "publisher": "Penguin Books",
-    "stars": null,
-    "review": null,
-    "progress": 295,
-    "total": 309,
+    "stars": 5,
     "url": "https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
     "image": "images/ThanksForTheFeedback.jpg"
   },
