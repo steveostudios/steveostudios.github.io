@@ -6,12 +6,22 @@
     "dateStart": null,
     "dateFinish": null,
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "progress": null,
     "total": 101,
     "url": "https://abookapart.com/products/resilient-management",
     "image": "images/ResilentManagement.jpg"
+  },
+  {
+    "title": "Future Grace",
+    "subtitle": "The Purifying Power of the Promises of God",
+    "author": "John Piper",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "",
+    "url": "",
+    "progress": null,
+    "total": null,
+    "image": "images/FutureGrace.jpg"
   },
   {
     "title": "Responsive Design: Patterns & Principles",
@@ -20,9 +30,7 @@
     "dateStart": "2019-09-07",
     "dateFinish": null,
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
-    "progress": 113,
+    "progress": 128,
     "total": 151,
     "url": "https://abookapart.com/products/responsive-design-patterns-principlesg",
     "image": "images/ResponsiveDesignPatternsAndPrinciples.jpg"
@@ -45,8 +53,6 @@
     "dateStart": "2019-06-11",
     "dateFinish": "2019-06-17",
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "url": "https://abookapart.com/products/accessibility-for-everyone",
     "image": "images/AccessibilityForEveryone.jpg"
   },
@@ -57,20 +63,8 @@
     "dateStart": "2019-08-25",
     "dateFinish": "2019-08-30",
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "url": "https://abookapart.com/products/flexible-typesetting",
     "image": "images/FlexibleTypesetting.jpg"
-  },
-  {
-    "title": "Future Grace",
-    "subtitle": "The Purifying Power of the Promises of God",
-    "author": "John Piper",
-    "dateStart": null,
-    "dateFinish": null,
-    "publisher": "",
-    "url": "",
-    "image": "images/FutureGrace.jpg"
   },
   {
     "title": "Demystifying Public Speaking",
@@ -79,8 +73,6 @@
     "dateStart": "2019-08-30",
     "dateFinish": "2019-09-03",
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "url": "https://abookapart.com/products/demystifying-public-speaking",
     "image": "images/DemistifyingPublicSpeaking.jpg"
   },
@@ -91,8 +83,6 @@
     "dateStart": "2019-04-07",
     "dateFinish": "2019-06-11",
     "publisher": "Invisible Cities Press Llc",
-    "stars": null,
-    "review": null,
     "url": "https://www.amazon.com/Rex-Appeal-Amazing-Dinosaur-Changed/dp/1931229384",
     "image": "images/RexAppeal.jpg"
   },
@@ -103,8 +93,6 @@
     "dateStart": "2018-07-19",
     "dateFinish": "2019-04-14",
     "publisher": "Prentice Hall",
-    "stars": null,
-    "review": null,
     "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&qid=1532031940&sr=8-3&keywords=clean+code&linkCode=ll1&tag=steveostudi0c-20&linkId=3a849aca23fa18d512c11cad44ed6526",
     "image": "images/CleanCode.jpg"
   },
@@ -115,8 +103,6 @@
     "dateStart": "2019-02-12",
     "dateFinish": "2019-02-24",
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "url": "https://abookapart.com/products/animation-at-work",
     "image": "images/AnimationAtWork.png"
   },
@@ -308,8 +294,6 @@
     "dateStart": "2018-03-02",
     "dateFinish": "2018-03-29",
     "publisher": "A Book Apart",
-    "stars": null,
-    "review": null,
     "url": "https://abookapart.com/products/practical-design-discovery",
     "image": "images/PracticalDesignDiscovery.png"
   },
@@ -345,7 +329,6 @@
     "dateFinish": "2017-07-04",
     "publisher": "A Book Apart",
     "stars": 5,
-    "review": null,
     "url": "https://abookapart.com/products/css3-for-web-designers",
     "image": "images/CSS3ForWebDesigners.png"
   },
@@ -356,7 +339,6 @@
     "dateStart": "2017-07-04",
     "dateFinish": "2017-07-04",
     "publisher": "A Book Apart",
-    "stars": null,
     "review": "",
     "url": "https://abookapart.com/products/responsive-web-design",
     "image": "images/ResponsiveWebDesign.png"
@@ -368,7 +350,6 @@
     "dateStart": "2017-03-02",
     "dateFinish": "2017-03-02",
     "publisher": "Simon & Schuster",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/gp/product/150113258X/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=steveostudi0c-20&linkId=67ea54caaf69f89104e5e71d6077da94",
     "image": "images/TheThirdWave.jpg"
@@ -380,7 +361,6 @@
     "dateStart": "2016-11-30",
     "dateFinish": "2016-11-30",
     "publisher": "A Book Apart",
-    "stars": null,
     "review": "",
     "url": "https://abookapart.com/products/just-enough-research",
     "image": "images/JustEnoughResearch.png"
@@ -392,7 +372,6 @@
     "dateStart": "2017-01-30",
     "dateFinish": "2017-01-30",
     "publisher": "A Book Apart",
-    "stars": null,
     "review": "",
     "url": "https://abookapart.com/products/designing-for-emotion",
     "image": "images/DesigningForEmotion.png"
@@ -404,7 +383,6 @@
     "dateStart": "2017-01-30",
     "dateFinish": "2017-01-30",
     "publisher": "A Book Apart",
-    "stars": null,
     "review": "",
     "url": "https://abookapart.com/products/design-for-real-life",
     "image": "images/DesignForRealLife.png"
@@ -452,7 +430,6 @@
     "dateStart": "2016-02-19",
     "dateFinish": "2016-02-19",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Performance-ebook/dp/B00TXVCJ7O/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-6&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=704aab462580c75d1dcb02f8429155c0",
     "image": "images/YouDontKnowJSAsyncAndPerformance.jpg"
@@ -464,7 +441,6 @@
     "dateStart": "2016-02-18",
     "dateFinish": "2016-02-18",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Grammar/dp/1491904194/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-4&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=c2ff425aad937a761a3ffc888bfd69bb",
     "image": "images/YouDontKnowJSTypesAndGrammar.jpg"
@@ -476,7 +452,6 @@
     "dateStart": "2016-02-20",
     "dateFinish": "2016-02-20",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-5&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=456e4c3109e981dcb9fa0756da4ca3be",
     "image": "images/YouDontKnowJSES6AndBeyond.jpg"
@@ -488,7 +463,6 @@
     "dateStart": "2016-02-16",
     "dateFinish": "2016-02-16",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-2&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=a99c946afd2dc42e794eaa616ace0dec",
     "image": "images/YouDontKnowJSScopeAndClosures.jpg"
@@ -500,7 +474,6 @@
     "dateStart": "2016-02-17",
     "dateFinish": "2016-02-17",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-3&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=146c129765a14c99d6b84d770b51f970",
     "image": "images/YouDontKnowJSThisAndObjectPrototypes.jpg"
@@ -512,7 +485,6 @@
     "dateStart": "2016-02-15",
     "dateFinish": "2016-02-15",
     "publisher": "O'Reilly",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-1&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=640e8b51b5da0f9863662f31be4eb666",
     "image": "images/YouDontKnowJSUpAndGoing.jpg"
@@ -524,7 +496,6 @@
     "dateStart": "2016-01-15",
     "dateFinish": "2016-01-15",
     "publisher": "Simon & Schuster",
-    "stars": null,
     "review": "",
     "url": "https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=as_li_ss_tl?ie=UTF8&qid=1531075696&sr=8-2&keywords=sprint&linkCode=ll1&tag=steveostudi0c-20&linkId=6d131932f77600def106419e0a205f69",
     "image": "images/Sprint.jpg"
@@ -708,7 +679,6 @@
     "dateFinish": "2006-01-24",
     "publisher": "",
     "url": "",
-    "stars": null,
     "image": "images/InTheBlinkOfAnEye.jpg"
   },
   {
