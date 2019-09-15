@@ -6,7 +6,7 @@
     "dateStart": "2019-09-13",
     "dateFinish": null,
     "publisher": "A Book Apart",
-    "progress": 0,
+    "progress": 9,
     "total": 101,
     "url": "https://abookapart.com/products/resilient-management",
     "image": "images/ResilentManagement.jpg"
@@ -15,12 +15,12 @@
     "title": "Future Grace",
     "subtitle": "The Purifying Power of the Promises of God",
     "author": "John Piper",
-    "dateStart": null,
+    "dateStart": "2019-09-14",
     "dateFinish": null,
     "publisher": "",
     "url": "",
-    "progress": null,
-    "total": null,
+    "progress": 10,
+    "total": 266,
     "image": "images/FutureGrace.jpg"
   },
   {
