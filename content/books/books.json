@@ -1,13 +1,10 @@
 [
   {
     "title": "Resilient Management",
-    "subtitle": "",
     "author": "Lara Callender Hogan",
     "dateStart": "2019-09-13",
-    "dateFinish": null,
+    "dateFinish": "2019-10-14",
     "publisher": "A Book Apart",
-    "progress": 41,
-    "total": 101,
     "url": "https://abookapart.com/products/resilient-management",
     "image": "images/ResilentManagement.jpg"
   },
@@ -17,15 +14,13 @@
     "author": "John Piper",
     "dateStart": "2019-09-14",
     "dateFinish": null,
-    "publisher": "",
-    "url": "",
-    "progress": 80,
+    "url": "https://www.amazon.com/Brothers-We-Are-Not-Professionals/dp/1433678829/ref=sr_1_1?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfPvDmU8RZQ6vd54DMZQQljqkls7SrGDyRxY4tquX6YKL7ogsDbPIAaAsMsEALw_wcB&hvadid=241658431181&hvdev=c&hvlocphy=9052432&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=4861461604014654878&hvtargid=kwd-131506102&hydadcr=8294_10376136&keywords=brothers+we+are+not+professionals&qid=1569594051&sr=8-1",
+    "progress": 105,
     "total": 266,
-    "image": "images/FutureGrace.jpg"
+    "image": "images/BrothersWeAreNotProfessionals.jpg.jpg"
   },
   {
     "title": "Responsive Design: Patterns & Principles",
-    "subtitle": "",
     "author": "Ethan Marcotte",
     "dateStart": "2019-09-07",
     "dateFinish": "2019-09-13",
@@ -46,7 +41,6 @@
   },
   {
     "title": "Accessibility for Everyone",
-    "subtitle": "",
     "author": "Laura Kalbag",
     "dateStart": "2019-06-11",
     "dateFinish": "2019-06-17",
@@ -56,7 +50,6 @@
   },
   {
     "title": "Flexible Typesetting",
-    "subtitle": "",
     "author": "Tim Brown",
     "dateStart": "2019-08-25",
     "dateFinish": "2019-08-30",
@@ -66,7 +59,6 @@
   },
   {
     "title": "Demystifying Public Speaking",
-    "subtitle": "",
     "author": "Lara Callender Hogan",
     "dateStart": "2019-08-30",
     "dateFinish": "2019-09-03",
@@ -76,7 +68,6 @@
   },
   {
     "title": "Rex Appeal",
-    "subtitle": "",
     "author": "Peter Larson and Kristin Donnan",
     "dateStart": "2019-04-07",
     "dateFinish": "2019-06-11",
@@ -96,7 +87,6 @@
   },
   {
     "title": "Animation at Work",
-    "subtitle": "",
     "author": "Rachel Nabors",
     "dateStart": "2019-02-12",
     "dateFinish": "2019-02-24",
@@ -106,7 +96,6 @@
   },
   {
     "title": "Image Performance",
-    "subtitle": "",
     "author": "Mat Marquis",
     "dateStart": "2019-02-08",
     "dateFinish": "2019-02-12",
@@ -118,7 +107,6 @@
   },
   {
     "title": "Working the Command Line",
-    "subtitle": "",
     "author": "Remy Sharp",
     "dateStart": "2019-02-07",
     "dateFinish": "2019-02-08",
@@ -130,7 +118,6 @@
   },
   {
     "title": "Making Sense of Color Management",
-    "subtitle": "",
     "author": "Craig Hockenberry",
     "dateStart": "2019-02-06",
     "dateFinish": "2019-02-07",
@@ -154,7 +141,6 @@
   },
   {
     "title": "Progressive Web Apps",
-    "subtitle": "",
     "author": "Jason Grigsby",
     "dateStart": "2019-02-03",
     "dateFinish": "2019-02-06",
@@ -166,7 +152,6 @@
   },
   {
     "title": "Going Offline",
-    "subtitle": "",
     "author": "Jeremy Keith",
     "dateStart": "2018-12-26",
     "dateFinish": "2018-12-31",
@@ -202,7 +187,6 @@
   },
   {
     "title": "On Web typography",
-    "subtitle": "",
     "author": "Jason Santa Maria",
     "dateStart": "2018-08-16",
     "dateFinish": "2018-12-16",
@@ -214,7 +198,6 @@
   },
   {
     "title": "Webfont Handbook",
-    "subtitle": "",
     "author": "Bram Stein",
     "dateStart": "2018-08-04",
     "dateFinish": "2018-08-16",
@@ -227,7 +210,6 @@
 
   {
     "title": "Remote",
-    "subtitle": "",
     "author": "Jason Fried and David Heinemeier Hansson",
     "dateStart": "2018-05-29",
     "dateFinish": "2018-07-25",
@@ -239,7 +221,6 @@
   },
   {
     "title": "Conversational Design",
-    "subtitle": "",
     "author": "Erika Hall",
     "dateStart": "2018-05-27",
     "dateFinish": "2018-05-29",
@@ -251,7 +232,6 @@
   },
   {
     "title": "The New CSS Layout",
-    "subtitle": "",
     "author": "Rachael Andrew",
     "dateStart": "2018-05-15",
     "dateFinish": "2018-05-27",
@@ -263,7 +243,6 @@
   },
   {
     "title": "JavaScript: The Good Parts",
-    "subtitle": "",
     "author": "Douglas Crockford",
     "dateStart": "2018-05-02",
     "dateFinish": "2018-05-15",
@@ -275,11 +254,9 @@
   },
   {
     "title": "Rocket Surgery Made Easy",
-    "subtitle": "",
     "author": "Steven Krugg",
     "dateStart": "2018-04-02",
     "dateFinish": "2018-04-29",
-    "publisher": "",
     "stars": 5,
     "review": "Seriously. The most profound book on user testing. Steve gives you a script, clear examples, how to read your data... This book made me want to test!",
     "url": "https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1530649852&sr=1-1&keywords=rocket+surgery+made+easy+steve+krug&linkCode=ll1&tag=steveostudi0c-20&linkId=031fcb032fd2ff1c178fd7ddb322a43c",
@@ -287,7 +264,6 @@
   },
   {
     "title": "Practical Design Discovery",
-    "subtitle": "",
     "author": "Dan Brown",
     "dateStart": "2018-03-02",
     "dateFinish": "2018-03-29",
@@ -297,7 +273,6 @@
   },
   {
     "title": "High Performance JavaScript",
-    "subtitle": "",
     "author": "Nicholas C. Zakas",
     "dateStart": "2018-01-01",
     "dateFinish": "2018-03-02",
@@ -309,7 +284,6 @@
   },
   {
     "title": "HTML5 for Web Designers",
-    "subtitle": "",
     "author": "Jeremy Keith and Rachel Andrew",
     "dateStart": "2017-07-04",
     "dateFinish": "2017-07-04",
@@ -321,7 +295,6 @@
   },
   {
     "title": "CSS3 for Web Designers",
-    "subtitle": "",
     "author": "Dan Cederholm",
     "dateStart": "2017-07-04",
     "dateFinish": "2017-07-04",
@@ -332,12 +305,10 @@
   },
   {
     "title": "Responsive Web Design",
-    "subtitle": "",
     "author": "Ethan Marcotte",
     "dateStart": "2017-07-04",
     "dateFinish": "2017-07-04",
     "publisher": "A Book Apart",
-    "review": "",
     "url": "https://abookapart.com/products/responsive-web-design",
     "image": "images/ResponsiveWebDesign.png"
   },
@@ -348,46 +319,38 @@
     "dateStart": "2017-03-02",
     "dateFinish": "2017-03-02",
     "publisher": "Simon & Schuster",
-    "review": "",
     "url": "https://www.amazon.com/gp/product/150113258X/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=steveostudi0c-20&linkId=67ea54caaf69f89104e5e71d6077da94",
     "image": "images/TheThirdWave.jpg"
   },
   {
     "title": "Just Enough Research",
-    "subtitle": "",
     "author": "Erika Hall",
     "dateStart": "2016-11-30",
     "dateFinish": "2016-11-30",
     "publisher": "A Book Apart",
-    "review": "",
     "url": "https://abookapart.com/products/just-enough-research",
     "image": "images/JustEnoughResearch.png"
   },
   {
     "title": "Designing for Emotion",
-    "subtitle": "",
     "author": "Aarron Walter",
     "dateStart": "2017-01-30",
     "dateFinish": "2017-01-30",
     "publisher": "A Book Apart",
-    "review": "",
     "url": "https://abookapart.com/products/designing-for-emotion",
     "image": "images/DesigningForEmotion.png"
   },
   {
     "title": "Design for Real Life",
-    "subtitle": "",
     "author": "Eric Meyer and Sara Wachter-Boettcher",
     "dateStart": "2017-01-30",
     "dateFinish": "2017-01-30",
     "publisher": "A Book Apart",
-    "review": "",
     "url": "https://abookapart.com/products/design-for-real-life",
     "image": "images/DesignForRealLife.png"
   },
   {
     "title": "JavaScript for Web Designers",
-    "subtitle": "",
     "author": "Mat Marquis",
     "dateStart": "2016-11-30",
     "dateFinish": "2016-11-30",
@@ -399,7 +362,6 @@
   },
   {
     "title": "Git for Humans",
-    "subtitle": "",
     "author": "David Demaree",
     "dateStart": "2016-09-26",
     "dateFinish": "2016-09-26",
@@ -411,7 +373,6 @@
   },
   {
     "title": "Practical SVG",
-    "subtitle": "",
     "author": "Chris Coyier",
     "dateStart": "2016-09-26",
     "dateFinish": "2016-09-26",
@@ -428,7 +389,6 @@
     "dateStart": "2016-02-19",
     "dateFinish": "2016-02-19",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Performance-ebook/dp/B00TXVCJ7O/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-6&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=704aab462580c75d1dcb02f8429155c0",
     "image": "images/YouDontKnowJSAsyncAndPerformance.jpg"
   },
@@ -439,7 +399,6 @@
     "dateStart": "2016-02-18",
     "dateFinish": "2016-02-18",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Grammar/dp/1491904194/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-4&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=c2ff425aad937a761a3ffc888bfd69bb",
     "image": "images/YouDontKnowJSTypesAndGrammar.jpg"
   },
@@ -450,7 +409,6 @@
     "dateStart": "2016-02-20",
     "dateFinish": "2016-02-20",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-5&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=456e4c3109e981dcb9fa0756da4ca3be",
     "image": "images/YouDontKnowJSES6AndBeyond.jpg"
   },
@@ -461,7 +419,6 @@
     "dateStart": "2016-02-16",
     "dateFinish": "2016-02-16",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-2&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=a99c946afd2dc42e794eaa616ace0dec",
     "image": "images/YouDontKnowJSScopeAndClosures.jpg"
   },
@@ -472,7 +429,6 @@
     "dateStart": "2016-02-17",
     "dateFinish": "2016-02-17",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-3&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=146c129765a14c99d6b84d770b51f970",
     "image": "images/YouDontKnowJSThisAndObjectPrototypes.jpg"
   },
@@ -483,7 +439,6 @@
     "dateStart": "2016-02-15",
     "dateFinish": "2016-02-15",
     "publisher": "O'Reilly",
-    "review": "",
     "url": "https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462/ref=as_li_ss_tl?ie=UTF8&qid=1530674071&sr=8-1&keywords=you+don't+know+js&linkCode=ll1&tag=steveostudi0c-20&linkId=640e8b51b5da0f9863662f31be4eb666",
     "image": "images/YouDontKnowJSUpAndGoing.jpg"
   },
@@ -494,7 +449,6 @@
     "dateStart": "2016-01-15",
     "dateFinish": "2016-01-15",
     "publisher": "Simon & Schuster",
-    "review": "",
     "url": "https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=as_li_ss_tl?ie=UTF8&qid=1531075696&sr=8-2&keywords=sprint&linkCode=ll1&tag=steveostudi0c-20&linkId=6d131932f77600def106419e0a205f69",
     "image": "images/Sprint.jpg"
   },
@@ -504,9 +458,6 @@
     "author": "William Lane Craig, John Dominic Crossan, Paul Copan (editor)",
     "dateStart": "2006-01-24",
     "dateFinish": "2006-01-24",
-    "publisher": "",
-    "url": "",
-    "review": "",
     "image": "images/WillTheRealJesusPleaseStandUp.jpg"
   },
   {
@@ -515,8 +466,6 @@
     "author": "Lee Strobel",
     "dateStart": "2005-04-25",
     "dateFinish": "2005-04-25",
-    "publisher": "",
-    "url": "",
     "image": "images/TheCaseForEaster.jpg"
   },
   {
@@ -525,8 +474,6 @@
     "author": "Max Lucado",
     "dateStart": "2005-04-10",
     "dateFinish": "2005-04-10",
-    "publisher": "",
-    "url": "",
     "image": "images/ComeThirsty.jpg"
   },
   {
@@ -535,38 +482,27 @@
     "author": "Max Lucado",
     "dateStart": "2005-01-01",
     "dateFinish": "2005-01-01",
-    "publisher": "",
-    "url": "",
     "image": "images/TravelingLight.jpg"
   },
   {
     "title": "Thunder of Heaven (The Heaven Trilogy, #3)",
-    "subtitle": "",
     "author": "Ted Dekker",
     "dateStart": "2004-10-12",
     "dateFinish": "2004-10-12",
-    "publisher": "",
-    "url": "",
     "image": "images/ThunderOfHeaven.jpg"
   },
   {
     "title": "Thr3e",
-    "subtitle": "",
     "author": "Ted Dekker",
     "dateStart": "2004-10-12",
     "dateFinish": "2004-10-12",
-    "publisher": "",
-    "url": "",
     "image": "images/Thr3e.jpg"
   },
   {
     "title": "Blink",
-    "subtitle": "",
     "author": "Ted Dekker",
     "dateStart": "2004-01-24",
     "dateFinish": "2004-01-24",
-    "publisher": "",
-    "url": "",
     "image": "images/Blink.jpg"
   },
   {
@@ -575,18 +511,13 @@
     "author": "John Ortberg",
     "dateStart": "2004-06-24",
     "dateFinish": "2004-06-24",
-    "publisher": "",
-    "url": "",
     "image": "images/TheLifeYouveAlwaysWanted.jpg"
   },
   {
     "title": "The Da Vinci Code",
-    "subtitle": "",
     "author": "Dan Brown",
     "dateStart": "2004-05-11",
     "dateFinish": "2004-05-11",
-    "publisher": "",
-    "url": "",
     "image": "images/TheDaVinciCode.jpg"
   },
   {
@@ -595,8 +526,6 @@
     "author": "Rob Bell",
     "dateStart": "2004-10-11",
     "dateFinish": "2004-10-11",
-    "publisher": "",
-    "url": "",
     "image": "images/VelvetElvis.jpg"
   },
   {
@@ -605,8 +534,6 @@
     "author": "David Crowder",
     "dateStart": "2006-11-18",
     "dateFinish": "2006-11-18",
-    "publisher": "",
-    "url": "",
     "image": "images/PraiseHabit.jpg"
   },
   {
@@ -615,8 +542,6 @@
     "author": "Steven D. Katz",
     "dateStart": "2005-01-18",
     "dateFinish": "2005-01-18",
-    "publisher": "",
-    "url": "",
     "image": "images/FilmDirectingShotByShot.jpg"
   },
   {
@@ -625,18 +550,13 @@
     "author": "Michael Yaconelli",
     "dateStart": "2004-01-22",
     "dateFinish": "2004-01-22",
-    "publisher": "",
-    "url": "",
     "image": "images/MessySpirituality.jpg"
   },
   {
     "title": "The Gospel Reloaded",
-    "subtitle": "",
     "author": "Seay Garrett",
     "dateStart": "2007-04-24",
     "dateFinish": "2007-04-24",
-    "publisher": "",
-    "url": "",
     "image": "images/TheGospelReloaded.jpg"
   },
   {
@@ -645,8 +565,6 @@
     "author": "Phil Vischer",
     "dateStart": "2011-02-12",
     "dateFinish": "2011-02-12",
-    "publisher": "",
-    "url": "",
     "image": "images/MeMyselfAndBob.jpg"
   },
   {
@@ -655,8 +573,6 @@
     "author": "Michael J. Wilkins",
     "dateStart": "2005-04-04",
     "dateFinish": "2005-04-04",
-    "publisher": "",
-    "url": "",
     "image": "images/JesusUnderFire.jpg"
   },
   {
@@ -665,28 +581,20 @@
     "author": "J.P. Moreland",
     "dateStart": "2005-04-23",
     "dateFinish": "2005-04-23",
-    "publisher": "",
-    "url": "",
     "image": "images/ScalingTheSecularCity.jpg"
   },
   {
     "title": "In the Blink of an Eye",
-    "subtitle": "",
     "author": "Walter Murch",
     "dateStart": "2006-01-24",
     "dateFinish": "2006-01-24",
-    "publisher": "",
-    "url": "",
     "image": "images/InTheBlinkOfAnEye.jpg"
   },
   {
     "title": "Obsessed",
-    "subtitle": "",
     "author": "Ted Dekker",
     "dateStart": "2005-02-05",
     "dateFinish": "2005-02-05",
-    "publisher": "",
-    "url": "",
     "image": "images/Obsessed.jpg"
   },
   {
@@ -695,28 +603,20 @@
     "author": "J.P. Moreland",
     "dateStart": "2005-03-09",
     "dateFinish": "2005-03-09",
-    "publisher": "",
-    "url": "",
     "image": "images/LoveYourGodWithAllYourMind.jpg"
   },
   {
     "title": "Animal Farm",
-    "subtitle": "",
     "author": "George Orwell",
     "dateStart": "2006-05-11",
     "dateFinish": "2006-05-11",
-    "publisher": "",
-    "url": "",
     "image": "images/AnimalFarm.jpg"
   },
   {
     "title": "1984",
-    "subtitle": "",
     "author": "George Orwell",
     "dateStart": "2005-10-28",
     "dateFinish": "2005-10-28",
-    "publisher": "",
-    "url": "",
     "image": "images/1984.jpg"
   },
   {
@@ -725,18 +625,14 @@
     "author": "Robert Rodríguez",
     "dateStart": "2005-02-23",
     "dateFinish": "2005-02-23",
-    "publisher": "",
-    "url": "",
     "image": "images/RebelWithoutACrew.jpg"
   },
   {
     "title": "The Writer's Journey",
     "subtitle": "Mythic Structure for Writers",
-    "author": "",
+    "author": "Christopher Vogler",
     "dateStart": "2006-01-25",
     "dateFinish": "2006-01-25",
-    "publisher": "",
-    "url": "",
     "image": "images/TheWritersJourney.jpg"
   },
   {
@@ -745,28 +641,20 @@
     "author": "Michael Yaconelli",
     "dateStart": "2007-03-16",
     "dateFinish": "2007-03-16",
-    "publisher": "",
-    "url": "",
     "image": "images/StoriesOfEmergence.jpg"
   },
   {
     "title": "House",
-    "subtitle": "",
     "author": "Frank E. Peretti",
     "dateStart": "2007-05-21",
     "dateFinish": "2007-05-21",
-    "publisher": "",
-    "url": "",
     "image": "images/House.jpg"
   },
   {
     "title": "The Wounded Spirit",
-    "subtitle": "",
     "author": "Frank E. Peretti",
     "dateStart": "2005-05-27",
     "dateFinish": "2005-05-27",
-    "publisher": "",
-    "url": "",
     "image": "images/TheWoundedSpirit.jpg"
   },
   {
@@ -775,28 +663,20 @@
     "author": "Frank E. Peretti",
     "dateStart": "2005-05-27",
     "dateFinish": "2005-05-27",
-    "publisher": "",
-    "url": "",
     "image": "images/HangmansCurse.jpg"
   },
   {
     "title": "The Oath",
-    "subtitle": "",
     "author": "Frank E. Peretti",
     "dateStart": "2005-05-27",
     "dateFinish": "2005-05-27",
-    "publisher": "",
-    "url": "",
     "image": "images/TheOath.jpg"
   },
   {
     "title": "Monster",
-    "subtitle": "",
     "author": "Frank E. Peretti",
     "dateStart": "2005-05-16",
     "dateFinish": "2005-05-16",
-    "publisher": "",
-    "url": "",
     "image": "images/Monster.jpg"
   },
   {
@@ -805,18 +685,13 @@
     "author": "Frank E. Peretti",
     "dateStart": "2005-05-27",
     "dateFinish": "2005-05-27",
-    "publisher": "",
-    "url": "",
     "image": "images/NightmareAcademy.jpg"
   },
   {
     "title": "The Visitation",
-    "subtitle": "",
     "author": "Frank E. Peretti",
     "dateStart": "2005-06-12",
     "dateFinish": "2005-06-12",
-    "publisher": "",
-    "url": "",
     "image": "images/TheVisitation.jpg"
   },
   {
@@ -825,8 +700,6 @@
     "author": "Max Lucado",
     "dateStart": "2005-12-05",
     "dateFinish": "2005-12-05",
-    "publisher": "",
-    "url": "",
     "image": "images/Turn.jpg"
   },
   {
@@ -835,8 +708,6 @@
     "author": "Max Lucado",
     "dateStart": "2004-04-21",
     "dateFinish": "2004-04-21",
-    "publisher": "",
-    "url": "",
     "image": "images/NextDoorSavior.jpg"
   },
   {
@@ -845,8 +716,6 @@
     "author": "Brian D. McLaren",
     "dateStart": "2007-11-08",
     "dateFinish": "2007-11-08",
-    "publisher": "",
-    "url": "",
     "image": "images/MoreReadyThanYouRealize.jpg"
   },
   {
@@ -855,8 +724,6 @@
     "author": "Brian D. McLaren",
     "dateStart": "2004-09-01",
     "dateFinish": "2004-09-01",
-    "publisher": "",
-    "url": "",
     "image": "images/TheStoryWeFindOurselvesIn.jpg"
   },
   {
@@ -865,8 +732,6 @@
     "author": "Brian D. McLaren",
     "dateStart": "2004-04-07",
     "dateFinish": "2004-04-07",
-    "publisher": "",
-    "url": "",
     "image": "images/ANewKindOfChristian.jpg"
   },
   {
@@ -875,8 +740,6 @@
     "author": "Brian D. McLaren",
     "dateStart": "2004-10-12",
     "dateFinish": "2004-10-12",
-    "publisher": "",
-    "url": "",
     "image": "images/FindingFaith.jpg"
   },
   {
@@ -885,8 +748,6 @@
     "author": "Brian D. McLaren",
     "dateStart": "2006-05-11",
     "dateFinish": "2006-05-11",
-    "publisher": "",
-    "url": "",
     "image": "images/TheChurchOnTheOtherSide.jpg"
   },
   {
@@ -895,28 +756,20 @@
     "author": "Brian D. McLaren",
     "dateStart": "2007-01-11",
     "dateFinish": "2007-01-11",
-    "publisher": "",
-    "url": "",
     "image": "images/AGenerousOrthodoxy.jpg"
   },
   {
     "title": "Don't Waste Your Life",
-    "subtitle": "",
     "author": "John Piper",
     "dateStart": "2007-10-31",
     "dateFinish": "2007-10-31",
-    "publisher": "",
-    "url": "",
     "image": "images/DontWasteYourLife.jpg"
   },
   {
     "title": "Fifty Reasons Why Jesus Came to Die",
-    "subtitle": "",
     "author": "John Piper",
     "dateStart": "2009-11-18",
     "dateFinish": "2009-11-18",
-    "publisher": "",
-    "url": "",
     "image": "images/FiftyReasonsWhyJesusCameToDie.jpg"
   },
   {
@@ -925,8 +778,6 @@
     "author": "Lee Strobel",
     "dateStart": "2005-03-09",
     "dateFinish": "2005-03-09",
-    "publisher": "",
-    "url": "",
     "image": "images/TheCaseForFaith.jpg"
   },
   {
@@ -935,8 +786,6 @@
     "author": "Lee Strobel",
     "dateStart": "2005-02-13",
     "dateFinish": "2005-02-13",
-    "publisher": "",
-    "url": "",
     "image": "images/TheCaseForACreator.jpg"
   },
   {
@@ -945,8 +794,6 @@
     "author": "Ted Dekker",
     "dateStart": "2004-03-03",
     "dateFinish": "2004-03-03",
-    "publisher": "",
-    "url": "",
     "image": "images/White.jpg"
   },
   {
@@ -955,8 +802,6 @@
     "author": "Ted Dekker",
     "dateStart": "2004-02-02",
     "dateFinish": "2004-02-02",
-    "publisher": "",
-    "url": "",
     "image": "images/Red.jpg"
   },
   {
@@ -965,8 +810,6 @@
     "author": "Ted Dekker",
     "dateStart": "2004-02-02",
     "dateFinish": "2004-02-02",
-    "publisher": "",
-    "url": "",
     "image": "images/Black.jpg"
   },
   {
@@ -975,18 +818,13 @@
     "author": "Donald Miller",
     "dateStart": "2005-06-07",
     "dateFinish": "2005-06-07",
-    "publisher": "",
-    "url": "",
     "image": "images/BlueLikeJazz.jpg"
   },
   {
     "title": "Searching for God Knows What",
-    "subtitle": "",
     "author": "Donald Miller",
     "dateStart": "2005-06-17",
     "dateFinish": "2005-06-17",
-    "publisher": "",
-    "url": "",
     "image": "images/SearchingForGodKnowsWhat.jpg"
   },
   {
@@ -995,8 +833,6 @@
     "author": "Donald Miller",
     "dateStart": "2007-08-07",
     "dateFinish": "2007-08-07",
-    "publisher": "",
-    "url": "",
     "image": "images/ToOwnADragon.jpg"
   },
   {
@@ -1005,8 +841,6 @@
     "author": "Donald Miller",
     "dateStart": "2006-04-30",
     "dateFinish": "2006-04-30",
-    "publisher": "",
-    "url": "",
     "image": "images/ThroughPaintedDeserts.jpg"
   },
   {
@@ -1015,8 +849,6 @@
     "author": "Kyle Lake",
     "dateStart": "2005-06-17",
     "dateFinish": "2005-06-17",
-    "publisher": "",
-    "url": "",
     "image": "images/UnderstandingGodsWill.jpg"
   },
   {
@@ -1025,8 +857,6 @@
     "author": "Kyle Lake",
     "dateStart": "2007-10-31",
     "dateFinish": "2007-10-31",
-    "publisher": "",
-    "url": "",
     "image": "images/ReUnderstandingPrayer.jpg"
   },
   {
@@ -1035,8 +865,6 @@
     "author": "Blake Snyder",
     "dateStart": "2006-02-10",
     "dateFinish": "2006-02-10",
-    "publisher": "",
-    "url": "",
     "image": "images/SaveTheCat.jpg"
   },
   {
@@ -1045,8 +873,6 @@
     "author": "Syd Field",
     "dateStart": "2006-03-02",
     "dateFinish": "2006-03-02",
-    "publisher": "",
-    "url": "",
     "image": "images/SellingAScreenplay.jpg"
   },
   {
@@ -1055,8 +881,6 @@
     "author": "Pete Greig",
     "dateStart": "2006-10-01",
     "dateFinish": "2006-10-01",
-    "publisher": "",
-    "url": "",
     "image": "images/RedMoonRising.jpg"
   },
   {
@@ -1065,8 +889,6 @@
     "author": "Pete Greig",
     "dateStart": "2005-12-25",
     "dateFinish": "2005-12-25",
-    "publisher": "",
-    "url": "",
     "image": "images/TheVisionAndTheVow.jpg"
   },
   {
@@ -1075,8 +897,6 @@
     "author": "Michael J. Behe",
     "dateStart": "2005-05-24",
     "dateFinish": "2005-05-24",
-    "publisher": "",
-    "url": "",
     "image": "images/DarwinsBlackBox.jpg"
   },
   {
@@ -1085,28 +905,20 @@
     "author": "Dennis Schaefer",
     "dateStart": "2006-02-26",
     "dateFinish": "2006-02-26",
-    "publisher": "",
-    "url": "",
     "image": "images/MastersOfLight.jpg"
   },
   {
     "title": "It's a hell of a life, but not a bad living",
-    "subtitle": "",
     "author": "Edward Dmytryk",
     "dateStart": "2006-03-08",
     "dateFinish": "2006-03-08",
-    "publisher": "",
-    "url": "",
     "image": "images/ItsAHellOfALife.jpg"
   },
   {
     "title": "The Deity Formerly Known as God",
-    "subtitle": "",
     "author": "Jarrett Stevens",
     "dateStart": "2006-10-01",
     "dateFinish": "2006-10-01",
-    "publisher": "",
-    "url": "",
     "image": "images/TheDeityFormerlyKnownAsGod.jpg"
   },
   {
@@ -1115,18 +927,13 @@
     "author": "Dave Burchett",
     "dateStart": "2004-02-03",
     "dateFinish": "2004-02-03",
-    "publisher": "",
-    "url": "",
     "image": "images/WhenBadChristiansHappenToGoodPeople.jpg"
   },
   {
     "title": "The Wizard of Ads",
-    "subtitle": "",
     "author": "Roy H. Williams",
     "dateStart": "2011-10-09",
     "dateFinish": "2011-10-09",
-    "publisher": "",
-    "url": "",
     "image": "images/TheWizardOfAds.jpg"
   },
   {
@@ -1135,8 +942,6 @@
     "author": "C.S. Lewis",
     "dateStart": "2007-05-21",
     "dateFinish": "2007-05-21",
-    "publisher": "",
-    "url": "",
     "image": "images/OutOfTheSilentPlanet.jpg"
   },
   {
@@ -1145,8 +950,6 @@
     "author": "C.S. Lewis",
     "dateStart": "2007-08-17",
     "dateFinish": "2007-08-17",
-    "publisher": "",
-    "url": "",
     "image": "images/TheHideousStrength.jpg"
   },
   {
@@ -1155,38 +958,27 @@
     "author": "C.S. Lewis",
     "dateStart": "2007-06-20",
     "dateFinish": "2007-06-20",
-    "publisher": "",
-    "url": "",
     "image": "images/Perelandra.jpg"
   },
   {
     "title": "The Screwtape Letters",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2004-02-03",
     "dateFinish": "2004-02-03",
-    "publisher": "",
-    "url": "",
     "image": "images/TheScrewtapeLetters.jpg"
   },
   {
     "title": "The Problem of Pain",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2004-04-21",
     "dateFinish": "2004-04-21",
-    "publisher": "",
-    "url": "",
     "image": "images/TheProblemOfPain.jpg"
   },
   {
     "title": "The Great Divorce",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2004-04-21",
     "dateFinish": "2004-04-21",
-    "publisher": "",
-    "url": "",
     "image": "images/TheGreatDivorce.jpg"
   },
   {
@@ -1195,28 +987,20 @@
     "author": "C.S. Lewis",
     "dateStart": "2005-04-21",
     "dateFinish": "2005-04-21",
-    "publisher": "",
-    "url": "",
     "image": "images/SurprisedByJoy.jpg"
   },
   {
     "title": "The Chronicles of Narnia (Box Set)",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2005-01-17",
     "dateFinish": "2005-01-17",
-    "publisher": "",
-    "url": "",
     "image": "images/TheChroniclesOfNarnia.jpg"
   },
   {
     "title": "Mere Christianity",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2004-01-22",
     "dateFinish": "2004-01-22",
-    "publisher": "",
-    "url": "",
     "image": "images/MereChristianity.jpg"
   },
   {
@@ -1225,8 +1009,6 @@
     "author": "Leonard Sweet",
     "dateStart": "2007-04-24",
     "dateFinish": "2007-04-24",
-    "publisher": "",
-    "url": "",
     "image": "images/OutOfTheQuestion.jpg"
   },
   {
@@ -1235,8 +1017,6 @@
     "author": "Matthew Paul Turner",
     "dateStart": "2005-06-07",
     "dateFinish": "2005-06-07",
-    "publisher": "",
-    "url": "",
     "image": "images/TheCoffeehouseGospel.jpg"
   },
   {
@@ -1245,8 +1025,6 @@
     "author": "John Bolin",
     "dateStart": "2007-02-10",
     "dateFinish": "2007-02-10",
-    "publisher": "",
-    "url": "",
     "image": "images/TheTwoDoorsOfHeaven.jpg"
   },
   {
@@ -1255,18 +1033,13 @@
     "author": "James Alexander Langteaux",
     "dateStart": "2004-02-21",
     "dateFinish": "2004-02-21",
-    "publisher": "",
-    "url": "",
     "image": "images/GodCom.jpg"
   },
   {
     "title": "The Historical Reliability of the Gospels",
-    "subtitle": "",
     "author": "Craig L. Blomberg",
     "dateStart": "2005-04-23",
     "dateFinish": "2005-04-23",
-    "publisher": "",
-    "url": "",
     "image": "images/TheHistoricalReliabilityOfTheGospels.jpg"
   },
   {
@@ -1275,8 +1048,6 @@
     "author": "Steven Pressfield",
     "dateStart": "2009-05-22",
     "dateFinish": "2009-05-22",
-    "publisher": "",
-    "url": "",
     "image": "images/TheWarOfArt.jpg"
   },
   {
@@ -1285,18 +1056,13 @@
     "author": "Steve Taylor",
     "dateStart": "2006-01-15",
     "dateFinish": "2006-01-15",
-    "publisher": "",
-    "url": "",
     "image": "images/TheOutOfBoundsChurch.jpg"
   },
   {
     "title": "On Directing Film",
-    "subtitle": "",
     "author": "David Mamet",
     "dateStart": "2006-03-06",
     "dateFinish": "2006-03-06",
-    "publisher": "",
-    "url": "",
     "image": "images/OnDirectingFilm.jpg"
   },
   {
@@ -1305,8 +1071,6 @@
     "author": "Gareth Higgins",
     "dateStart": "2005-12-28",
     "dateFinish": "2005-12-28",
-    "publisher": "",
-    "url": "",
     "image": "images/HowMoviesHelpedSaveMySoal.jpg"
   },
   {
@@ -1315,28 +1079,20 @@
     "author": "Molly Haskell",
     "dateStart": "2006-01-24",
     "dateFinish": "2006-01-24",
-    "publisher": "",
-    "url": "",
     "image": "images/FromReverenceToRape.jpg"
   },
   {
     "title": "Painting With Light",
-    "subtitle": "",
     "author": "John Alton",
     "dateStart": "2006-01-26",
     "dateFinish": "2006-01-26",
-    "publisher": "",
-    "url": "",
     "image": "images/PaintingWithLight.jpg"
   },
   {
     "title": "The Filmmaker's Handbook",
-    "subtitle": "",
     "author": "Steven Ascher",
     "dateStart": "2005-01-25",
     "dateFinish": "2005-01-25",
-    "publisher": "",
-    "url": "",
     "image": "images/TheFilmmakersHandbook.jpg"
   },
   {
@@ -1345,8 +1101,6 @@
     "author": "Malcom Gladwell",
     "dateStart": "2007-04-09",
     "dateFinish": "2007-04-09",
-    "publisher": "",
-    "url": "",
     "image": "images/BlinkGladwell.jpg"
   },
   {
@@ -1355,18 +1109,13 @@
     "author": "Malcolm Gladwell",
     "dateStart": "2004-06-06",
     "dateFinish": "2004-06-06",
-    "publisher": "",
-    "url": "",
     "image": "images/TheTippingPoint.jpg"
   },
   {
     "title": "Redeeming Love",
-    "subtitle": "",
     "author": "Francine Rivers",
     "dateStart": "2006-06-17",
     "dateFinish": "2006-06-17",
-    "publisher": "",
-    "url": "",
     "image": "images/RedeemingLove.jpg"
   },
   {
@@ -1375,8 +1124,6 @@
     "author": "Rick Warren",
     "dateStart": "2003-10-08",
     "dateFinish": "2003-10-08",
-    "publisher": "",
-    "url": "",
     "image": "images/ThePurposeDrivenLife.jpg"
   },
   {
@@ -1385,38 +1132,27 @@
     "author": "Erwin Raphael McManus",
     "dateStart": "2007-01-27",
     "dateFinish": "2007-01-27",
-    "publisher": "",
-    "url": "",
     "image": "images/TheBarbarianWay.jpg"
   },
   {
     "title": "Strengths Finder 2.0",
-    "subtitle": "",
     "author": "Tom Rath",
     "dateStart": "2008-08-08",
     "dateFinish": "2008-08-08",
-    "publisher": "",
-    "url": "",
     "image": "images/StrengthsFinder.jpg"
   },
   {
     "title": "The Pilgrim's Progress",
-    "subtitle": "",
     "author": "John Bunyan",
     "dateStart": "2006-03-03",
     "dateFinish": "2006-03-03",
-    "publisher": "",
-    "url": "",
     "image": "images/ThePilgrimsProgress.jpg"
   },
   {
     "title": "The Giver",
-    "subtitle": "",
     "author": "Lois Lowry",
     "dateStart": "2006-04-17",
     "dateFinish": "2006-04-17",
-    "publisher": "",
-    "url": "",
     "image": "images/TheGiver.jpg"
   },
   {
@@ -1425,18 +1161,13 @@
     "author": "Tony Jones",
     "dateStart": "2007-03-16",
     "dateFinish": "2007-03-16",
-    "publisher": "",
-    "url": "",
     "image": "images/ReadThinkPrayLive.jpg"
   },
   {
     "title": "A Walk Across America",
-    "subtitle": "",
     "author": "Peter Jenkins",
     "dateStart": "2006-01-17",
     "dateFinish": "2006-01-17",
-    "publisher": "",
-    "url": "",
     "image": "images/AWalkAcrossAmerica.jpg"
   },
   {
@@ -1445,8 +1176,6 @@
     "author": "Steve Case",
     "dateStart": "2006-12-02",
     "dateFinish": "2006-12-02",
-    "publisher": "",
-    "url": "",
     "image": "images/GodIsHere.jpg"
   },
   {
@@ -1455,8 +1184,6 @@
     "author": "Doug Fields",
     "dateStart": "2008-05-02",
     "dateFinish": "2008-05-02",
-    "publisher": "",
-    "url": "",
     "image": "images/YourFirstTwoYearsInYM.jpg"
   },
   {
@@ -1465,68 +1192,48 @@
     "author": "Doug Fields",
     "dateStart": "2011-11-30",
     "dateFinish": "2011-11-30",
-    "publisher": "",
-    "url": "",
     "image": "images/Refuel.jpg"
   },
   {
     "title": "Faith That Goes the Distance",
-    "subtitle": "",
     "author": "Jud Wilhite",
     "dateStart": "2002-06-02",
     "dateFinish": "2002-06-02",
-    "publisher": "",
-    "url": "",
     "image": "images/FaithThatGoesTheDistance.jpg"
   },
   {
     "title": "Love That Goes the Distance",
-    "subtitle": "",
     "author": "Jud Wilhite",
     "dateStart": "2003-07-02",
     "dateFinish": "2003-07-02",
-    "publisher": "",
-    "url": "",
     "image": "images/LoveThatGoesTheDistance.jpg"
   },
   {
     "title": "Stripped",
-    "subtitle": "",
     "author": "Jud Wilhite",
     "dateStart": "2007-03-07",
     "dateFinish": "2007-03-07",
-    "publisher": "",
-    "url": "",
     "image": "images/Stripped.jpg"
   },
   {
     "title": "Sex God",
-    "subtitle": "",
     "author": "Rob Bell",
     "dateStart": "2009-03-07",
     "dateFinish": "2009-03-07",
-    "publisher": "",
-    "url": "",
     "image": "images/SexGod.jpg"
   },
   {
     "title": "If You Want to Walk on Water, You've Got to Get Out of the Boat",
-    "subtitle": "",
     "author": "John Ortberg",
     "dateStart": "2004-01-02",
     "dateFinish": "2004-01-02",
-    "publisher": "",
-    "url": "",
     "image": "images/IfYouWantToWalkOnWater.jpg"
   },
   {
     "title": "The Case for Christ",
-    "subtitle": "",
     "author": "Lee Strobel",
     "dateStart": "2003-08-08",
     "dateFinish": "2003-08-08",
-    "publisher": "",
-    "url": "",
     "image": "images/TheCaseForChrist.jpg"
   },
   {
@@ -1535,18 +1242,13 @@
     "author": "Daniel H. Pink",
     "dateStart": "2012-04-03",
     "dateFinish": "2012-04-03",
-    "publisher": "",
-    "url": "",
     "image": "images/Drive.jpg"
   },
   {
     "title": "The Four Loves",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2008-03-02",
     "dateFinish": "2008-03-02",
-    "publisher": "",
-    "url": "",
     "image": "images/TheFourLoves.jpg"
   },
   {
@@ -1555,8 +1257,6 @@
     "author": "Donald Miller",
     "dateStart": "2011-08-08",
     "dateFinish": "2011-08-08",
-    "publisher": "",
-    "url": "",
     "image": "images/AMillionMilesInAThousandYears.jpg"
   },
   {
@@ -1565,8 +1265,6 @@
     "author": "Rick McKinley",
     "dateStart": "2006-08-08",
     "dateFinish": "2006-08-08",
-    "publisher": "",
-    "url": "",
     "image": "images/ThisBeautifulMess.jpg"
   },
   {
@@ -1575,8 +1273,6 @@
     "author": "N.T. Wright",
     "dateStart": "2010-01-14",
     "dateFinish": "2010-01-14",
-    "publisher": "",
-    "url": "",
     "image": "images/SimplyChristian.jpg"
   },
   {
@@ -1585,8 +1281,6 @@
     "author": "Jim Cymbala, Dean Merrill",
     "dateStart": "2010-05-05",
     "dateFinish": "2010-05-05",
-    "publisher": "",
-    "url": "",
     "image": "images/FreshPower.jpg"
   },
   {
@@ -1595,8 +1289,6 @@
     "author": "Jim Cymbala, Dean Merrill",
     "dateStart": "2009-10-10",
     "dateFinish": "2009-10-10",
-    "publisher": "",
-    "url": "",
     "image": "images/FreshFaith.jpg"
   },
   {
@@ -1605,8 +1297,6 @@
     "author": "Jim Cymbala, Dean Merrill",
     "dateStart": "2009-02-02",
     "dateFinish": "2009-02-02",
-    "publisher": "",
-    "url": "",
     "image": "images/FreshWindFreshFire.jpg"
   },
   {
@@ -1615,8 +1305,6 @@
     "author": "Bob Russell",
     "dateStart": "2010-10-10",
     "dateFinish": "2010-10-10",
-    "publisher": "",
-    "url": "",
     "image": "images/WhenGodBuildsAChurch.jpg"
   },
   {
@@ -1625,28 +1313,20 @@
     "author": "Kenneth D. Boa, Robert M. Jr. Bowman",
     "dateStart": "2005-05-05",
     "dateFinish": "2005-05-05",
-    "publisher": "",
-    "url": "",
     "image": "images/20CompellingEvidencesThatGodExists.jpg"
   },
   {
     "title": "A Grief Observed",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2007-03-02",
     "dateFinish": "2007-03-02",
-    "publisher": "",
-    "url": "",
     "image": "images/AGriefObserved.jpg"
   },
   {
     "title": "Miracles",
-    "subtitle": "",
     "author": "C.S. Lewis",
     "dateStart": "2004-05-11",
     "dateFinish": "2004-05-11",
-    "publisher": "",
-    "url": "",
     "image": "images/Miracles.jpg"
   },
   {
@@ -1655,8 +1335,6 @@
     "author": "Gregory A Boyd, Edward K Boyd",
     "dateStart": "2008-08-30",
     "dateFinish": "2008-08-30",
-    "publisher": "",
-    "url": "",
     "image": "images/LettersFromASkeptic.jpg"
   },
   {
@@ -1665,8 +1343,6 @@
     "author": "Rob Bell",
     "dateStart": "2008-12-12",
     "dateFinish": "2008-12-12",
-    "publisher": "",
-    "url": "",
     "image": "images/JesusWantsToSaveChristians.jpg"
   },
   {
@@ -1675,8 +1351,6 @@
     "author": "Eugene Peterson",
     "dateStart": "2010-05-05",
     "dateFinish": "2010-05-05",
-    "publisher": "",
-    "url": "",
     "image": "images/EatThisBook.jpg"
   },
   {
@@ -1685,8 +1359,6 @@
     "author": "David Crowder and Mike Hogan",
     "dateStart": "2008-09-12",
     "dateFinish": "2008-09-12",
-    "publisher": "",
-    "url": "",
     "image": "images/EverybodyWantsToGoToHeaven.jpg"
   }
 ]
