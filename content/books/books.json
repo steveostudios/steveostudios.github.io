@@ -1,12 +1,30 @@
 [
   {
-    "title": "Resilient Management",
-    "author": "Lara Callender Hogan",
-    "dateStart": "2019-09-13",
-    "dateFinish": "2019-10-14",
+    "title": "Everyday Information Architecture",
+    "author": "Lisa Maria Marquis",
+    "dateStart": null,
+    "dateFinish": null,
     "publisher": "A Book Apart",
-    "url": "https://abookapart.com/products/resilient-management",
-    "image": "images/ResilentManagement.jpg"
+    "url": "https://abookapart.com/products/everyday-information-architecture",
+    "image": "images/EverydayInformationArchitecture.jpg"
+  },
+  {
+    "title": "Going Responsive",
+    "author": "Karen McGrane",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/going-responsive",
+    "image": "images/GoingResponsive.jpg"
+  },
+  {
+    "title": "You're My Favorite Client",
+    "author": "Mike Monteiro",
+    "dateStart": null,
+    "dateFinish": null,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/youre-my-favorite-client",
+    "image": "images/YoureMyFavoriteClient.jpg"
   },
   {
     "title": "Brothers, We Are Not Professionals",
@@ -18,6 +36,24 @@
     "progress": 105,
     "total": 266,
     "image": "images/BrothersWeAreNotProfessionals.jpg.jpg"
+  },
+  {
+    "title": "Content Strategy For Mobile",
+    "author": "Karen McGrane",
+    "dateStart": "2019-11-04",
+    "dateFinish": "2019-11-27",
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/content-strategy-for-mobile",
+    "image": "images/ContentStrategyForMobile.jpg"
+  },
+  {
+    "title": "Resilient Management",
+    "author": "Lara Callender Hogan",
+    "dateStart": "2019-09-13",
+    "dateFinish": "2019-10-14",
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/resilient-management",
+    "image": "images/ResilentManagement.jpg"
   },
   {
     "title": "Responsive Design: Patterns & Principles",
