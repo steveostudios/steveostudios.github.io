@@ -1,8 +1,10 @@
 [{
     "title": "Everyday Information Architecture",
     "author": "Lisa Maria Marquis",
-    "dateStart": null,
+    "dateStart": "2019-11-30",
     "dateFinish": null,
+    "progress": 36,
+    "total": 116,
     "publisher": "A Book Apart",
     "url": "https://abookapart.com/products/everyday-information-architecture",
     "image": "images/EverydayInformationArchitecture.jpg"
