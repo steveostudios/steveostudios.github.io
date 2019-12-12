@@ -1,17 +1,55 @@
-[{
-    "title": "Everyday Information Architecture",
-    "author": "Lisa Maria Marquis",
-    "dateStart": "2019-11-30",
-    "dateFinish": "2019-12-10",
+[
+  {
+    "title": "Color Accessibility Workflows",
+    "author": "Geri Coady",
+    "dateStart": null,
+    "dateFinish": null,
+    "progress": null,
+    "total": 145,
     "publisher": "A Book Apart",
-    "url": "https://abookapart.com/products/everyday-information-architecture",
-    "image": "images/EverydayInformationArchitecture.jpg"
+    "url": "https://abookapart.com/products/color-accessibility-workflows",
+    "image": "images/ColorAccessibilityWorkflows.jpg"
+  },
+  {
+    "title": "Get Ready for CSS Grid Layout",
+    "author": "Rachel Andrews",
+    "dateStart": null,
+    "dateFinish": null,
+    "progress": null,
+    "total": 106,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/get-ready-for-css-grid-layout",
+    "image": "images/GetReadyForCSSGridLayout.jpg"
+  },
+  {
+    "title": "Pricing Design",
+    "author": "Dan Mall",
+    "dateStart": null,
+    "dateFinish": null,
+    "progress": null,
+    "total": 104,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/pricing-design",
+    "image": "images/PricingDesign.jpg"
+  },
+  {
+    "title": "Writing For Designers",
+    "author": "Scott Kubie",
+    "dateStart": null,
+    "dateFinish": null,
+    "progress": null,
+    "total": 127,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/writing-for-designers",
+    "image": "images/WritingForDesigners.jpg"
   },
   {
     "title": "Going Responsive",
     "author": "Karen McGrane",
     "dateStart": null,
     "dateFinish": null,
+    "progress": null,
+    "total": 127,
     "publisher": "A Book Apart",
     "url": "https://abookapart.com/products/going-responsive",
     "image": "images/GoingResponsive.jpg"
@@ -21,6 +59,8 @@
     "author": "Mike Monteiro",
     "dateStart": null,
     "dateFinish": null,
+    "progress": null,
+    "total": 115,
     "publisher": "A Book Apart",
     "url": "https://abookapart.com/products/youre-my-favorite-client",
     "image": "images/YoureMyFavoriteClient.jpg"
@@ -35,6 +75,15 @@
     "progress": 105,
     "total": 266,
     "image": "images/BrothersWeAreNotProfessionals.jpg"
+  },
+  {
+    "title": "Everyday Information Architecture",
+    "author": "Lisa Maria Marquis",
+    "dateStart": "2019-11-30",
+    "dateFinish": "2019-12-10",
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/everyday-information-architecture",
+    "image": "images/EverydayInformationArchitecture.jpg"
   },
   {
     "title": "Content Strategy For Mobile",
