@@ -1,4 +1,36 @@
-[
+[{
+    "title": "Coders",
+    "author": "Clive Thompson",
+    "dateStart": "2020-06-06",
+    "dateFinish": null,
+    "progress": 10,
+    "total": 448,
+    "publisher": "Penguin Press",
+    "url": "https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/",
+    "image": "images/Coders.jpg"
+  },
+  {
+    "title": "You're My Favorite Client",
+    "author": "Mike Monteiro",
+    "dateStart": "2020-06-04",
+    "dateFinish": null,
+    "progress": 70,
+    "total": 115,
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/youre-my-favorite-client",
+    "image": "images/YoureMyFavoriteClient.jpg"
+  },
+  {
+    "title": "Brothers, We Are Not Professionals",
+    "subtitle": "A Plea to Pastors for Radical Ministry",
+    "author": "John Piper",
+    "dateStart": "2019-09-14",
+    "dateFinish": null,
+    "url": "https://www.amazon.com/Brothers-We-Are-Not-Professionals/dp/1433678829/ref=sr_1_1?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfPvDmU8RZQ6vd54DMZQQljqkls7SrGDyRxY4tquX6YKL7ogsDbPIAaAsMsEALw_wcB&hvadid=241658431181&hvdev=c&hvlocphy=9052432&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=4861461604014654878&hvtargid=kwd-131506102&hydadcr=8294_10376136&keywords=brothers+we+are+not+professionals&qid=1569594051&sr=8-1",
+    "progress": 105,
+    "total": 266,
+    "image": "images/BrothersWeAreNotProfessionals.jpg"
+  },
   {
     "title": "Color Accessibility Workflows",
     "author": "Geri Coady",
@@ -43,28 +75,6 @@
     "publisher": "A Book Apart",
     "url": "https://abookapart.com/products/going-responsive",
     "image": "images/GoingResponsive.jpg"
-  },
-  {
-    "title": "You're My Favorite Client",
-    "author": "Mike Monteiro",
-    "dateStart": null,
-    "dateFinish": null,
-    "progress": null,
-    "total": 115,
-    "publisher": "A Book Apart",
-    "url": "https://abookapart.com/products/youre-my-favorite-client",
-    "image": "images/YoureMyFavoriteClient.jpg"
-  },
-  {
-    "title": "Brothers, We Are Not Professionals",
-    "subtitle": "A Plea to Pastors for Radical Ministry",
-    "author": "John Piper",
-    "dateStart": "2019-09-14",
-    "dateFinish": null,
-    "url": "https://www.amazon.com/Brothers-We-Are-Not-Professionals/dp/1433678829/ref=sr_1_1?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfPvDmU8RZQ6vd54DMZQQljqkls7SrGDyRxY4tquX6YKL7ogsDbPIAaAsMsEALw_wcB&hvadid=241658431181&hvdev=c&hvlocphy=9052432&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=4861461604014654878&hvtargid=kwd-131506102&hydadcr=8294_10376136&keywords=brothers+we+are+not+professionals&qid=1569594051&sr=8-1",
-    "progress": 105,
-    "total": 266,
-    "image": "images/BrothersWeAreNotProfessionals.jpg"
   },
   {
     "title": "Everyday Information Architecture",
