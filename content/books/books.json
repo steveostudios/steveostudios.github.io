@@ -1,22 +1,25 @@
-[{
+[
+  {
+    "title": "How I Killed Pluto and Why It Had It Coming",
+    "author": "Mike Brown",
+    "dateStart": null,
+    "dateFinish": null,
+    "progress": 0,
+    "total": 208,
+    "publisher": "Random House",
+    "url": "https://www.amazon.com/How-Killed-Pluto-Why-Coming/dp/0385531109",
+    "image": "images/HowIKilledPlutoAndWhyItHadItComing.jpg"
+  },
+  {
     "title": "Coders",
     "author": "Clive Thompson",
     "dateStart": "2020-06-06",
     "dateFinish": null,
-    "progress": 59,
+    "progress": 146,
     "total": 448,
     "publisher": "Penguin Press",
     "url": "https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/",
     "image": "images/Coders.jpg"
-  },
-  {
-    "title": "You're My Favorite Client",
-    "author": "Mike Monteiro",
-    "dateStart": "2020-06-04",
-    "dateFinish": "2020-06-09",
-    "publisher": "A Book Apart",
-    "url": "https://abookapart.com/products/youre-my-favorite-client",
-    "image": "images/YoureMyFavoriteClient.jpg"
   },
   {
     "title": "Brothers, We Are Not Professionals",
@@ -28,6 +31,15 @@
     "progress": 105,
     "total": 266,
     "image": "images/BrothersWeAreNotProfessionals.jpg"
+  },
+  {
+    "title": "You're My Favorite Client",
+    "author": "Mike Monteiro",
+    "dateStart": "2020-06-04",
+    "dateFinish": "2020-06-09",
+    "publisher": "A Book Apart",
+    "url": "https://abookapart.com/products/youre-my-favorite-client",
+    "image": "images/YoureMyFavoriteClient.jpg"
   },
   {
     "title": "Color Accessibility Workflows",
