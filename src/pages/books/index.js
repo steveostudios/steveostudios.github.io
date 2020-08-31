@@ -10,8 +10,8 @@ import "./style.css";
 class BookshelfPage extends React.Component {
   static propTypes = {
     data: PropTypes.shape({
-      allPostsJson: PropTypes.object
-    })
+      allPostsJson: PropTypes.object,
+    }),
   };
 
   renderBook(book, i) {
@@ -32,17 +32,17 @@ class BookshelfPage extends React.Component {
 
   groupByArray(xs, key) {
     return xs
-      .filter(book => book.dateFinish)
+      .filter((book) => book.dateFinish)
       .sort((a, b) => new Date(b.dateFinish) - new Date(a.dateFinish))
-      .reduce(function(rv, x) {
+      .reduce(function (rv, x) {
         let v = key instanceof Function ? key(x) : x[key];
-        let el = rv.find(r => r && r.key === new Date(v).getFullYear());
+        let el = rv.find((r) => r && r.key === new Date(v).getFullYear());
         if (el) {
           el.values.push(x);
         } else {
           rv.push({
             key: new Date(v).getFullYear(),
-            values: [x]
+            values: [x],
           });
         }
         return rv;
@@ -52,10 +52,10 @@ class BookshelfPage extends React.Component {
   render() {
     let { allBooksJson } = this.props.data;
     const books = allBooksJson.edges
-      .map(e => e.node)
-      .filter(item => item.dateStart !== null);
+      .map((e) => e.node)
+      .filter((item) => item.dateStart !== null);
     const years = this.groupByArray(books, "dateFinish");
-    const current = books.filter(item => item.progress !== null);
+    const current = books.filter((item) => item.progress !== null);
     return (
       <Layout>
         <SEO title="Books" />
@@ -97,6 +97,7 @@ export const pageQuery = graphql`
           dateFinish
           progress
           total
+          totalPages
           bigImage: image {
             childImageSharp {
               big: fluid(maxHeight: 200) {

@@ -1,4 +1,16 @@
-[{
+[
+  {
+    "title": "Atomic Design",
+    "author": "Brad Frost",
+    "dateStart": "08-29-2020",
+    "dateFinish": null,
+    "progress": 92,
+    "total": 285,
+    "totalPages": 285,
+    "url": "https://atomicdesign.bradfrost.com",
+    "image": "images/AtomicDesign.jpg"
+  },
+  {
     "title": "Quiet",
     "subtitle": "The Power of Introvers in a World that Can't Stop Talking",
     "author": "Susan Cain",
@@ -6,6 +18,7 @@
     "dateFinish": null,
     "progress": 97,
     "total": 352,
+    "totalPages": 352,
     "publisher": "Broadway Books",
     "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153",
     "image": "images/Quiet.jpg"
@@ -15,6 +28,7 @@
     "author": "Mike Brown",
     "dateStart": "2020-07-05",
     "dateFinish": "2020-07-24",
+    "totalPages": 288,
     "publisher": "Random House",
     "url": "https://www.amazon.com/How-Killed-Pluto-Why-Coming/dp/0385531109",
     "image": "images/HowIKilledPlutoAndWhyItHadItComing.jpg"
@@ -24,6 +38,7 @@
     "author": "Clive Thompson",
     "dateStart": "2020-06-06",
     "dateFinish": "2020-07-01",
+    "totalPages": 448,
     "publisher": "Penguin Press",
     "url": "https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/",
     "image": "images/Coders.jpg"
@@ -1300,6 +1315,7 @@
     "author": "Jud Wilhite",
     "dateStart": "2002-06-02",
     "dateFinish": "2002-06-02",
+    "totalPages": 160,
     "image": "images/FaithThatGoesTheDistance.jpg"
   },
   {
@@ -1307,6 +1323,7 @@
     "author": "Jud Wilhite",
     "dateStart": "2003-07-02",
     "dateFinish": "2003-07-02",
+    "totalPages": 144,
     "image": "images/LoveThatGoesTheDistance.jpg"
   },
   {
@@ -1335,6 +1352,7 @@
     "author": "Lee Strobel",
     "dateStart": "2003-08-08",
     "dateFinish": "2003-08-08",
+    "totalPages": 336,
     "image": "images/TheCaseForChrist.jpg"
   },
   {
