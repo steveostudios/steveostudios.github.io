@@ -1,0 +1,206 @@
+:root {
+  --primary-color: rgb(238, 232, 65);
+  --black: #1f1f1f;
+  --white: #e8eaef;
+  --trim: #cfd8d1;
+  --grey: #b5b7ba;
+
+}
+
+html,
+body {
+  font-family: "Roboto";
+  background: var(--white);
+  color: var(--black);
+  margin: 0;
+  padding: 0;
+}
+
+.layout {
+  display: grid;
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-template-columns: 256px 1fr;
+  grid-template-rows: 6rem 1fr 3rem;
+}
+
+h1 {
+  font-family: "Source Sans Pro";
+  font-weight: 900;
+  font-size: 3em;
+  line-height: 1;
+}
+
+h2 {
+  font-family: "Source Sans Pro";
+  font-weight: 300;
+}
+
+h3 {
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.875em;
+  color: var(--black);
+  line-height: 1.5;
+  padding-bottom: .75rem;
+  margin: 0;
+}
+
+header {
+  grid-column: span 2;
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  background: var(--white);
+  z-index: 10;
+}
+
+header .logo {
+  margin: 0;
+  padding: 1rem;
+  font-weight: 900;
+  border: 2px solid var(--black);
+  border-radius: 50%;
+}
+
+header .menu {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+header .menu li a {
+  border: 2px solid var(--black);
+  padding: 4px 8px;
+  color: var(--black);
+  margin-left: 8px;
+  text-decoration: none;
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+header .menu li a:hover {
+  border: 2px solid var(--black);
+  background: var(--black);
+  color: var(--white);
+}
+
+aside {
+  border-right: 1px solid #cfd8d1;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+aside .avatar {
+  position: relative;
+  display: inline-block;
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+aside .avatar .headshot {
+  position: absolute;
+  height: 8rem;
+  width: 8rem;
+  display: inline-block;
+}
+
+aside .avatar .headshot img,
+aside .avatar .headshot picture {
+  border-radius: 50%;
+  height: 8rem !important;
+  width: 8rem !important;
+}
+
+aside .avatar .swatch {
+  position: absolute;
+  border-radius: 50%;
+  background: var(--primary-color);
+  height: 8rem;
+  width: 8rem;
+  right: 0;
+  display: inline-block;
+}
+
+aside .location {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+aside .location>* {
+  height: 1.5rem;
+  background: var(--black);
+  min-width: 24px;
+  margin-right: 2px;
+  color: var(--white);
+  font-weight: 900;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  height: 32px;
+  flex: 1;
+  margin-bottom: 48px;
+}
+
+aside .location>*:first-of-type {
+  max-width: 32px;
+}
+
+aside .location svg {
+  fill: var(--primary-color);
+  height: 16px;
+}
+
+aside .social-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+aside .social-list a {
+  opacity: 0.25;
+  transition: opacity 0.25s ease-in-out;
+}
+
+aside .social-list a:hover {
+  opacity: 0.5;
+}
+
+aside .social-list img {
+  width: 32px;
+}
+
+main {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+footer {
+  grid-column: span 2;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #cfd8d1;
+  color: #cfd8d1;
+  text-decoration: none;
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 0.875rem;
+}

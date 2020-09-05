@@ -1,6 +1,10 @@
 {
   "name": "steveostudios",
   "private": true,
+  "workspaces": [
+    "gatsby-theme-steveostudios",
+    "site"
+  ],
   "description": "The portfolio of Steve Stone",
   "version": "1.1.0",
   "author": "Steve Stone <steveostudios@gmail.com>",

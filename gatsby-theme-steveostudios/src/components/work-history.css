@@ -1,0 +1,55 @@
+.work-history ul {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 0;
+  padding-bottom: 1.5rem;
+  list-style: none;
+}
+
+.work-history ul::before {
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+  background-color: var(--trim);
+  left: 1rem;
+  width: 2px;
+  -webkit-transform: translateX(-1px);
+  transform: translateX(-1px);
+  content: "";
+}
+
+.work-history ul li {
+  position: relative;
+  margin-left: 6px;
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.work-history ul li .dot-double {
+  background: var(--white);
+  border: 2px solid var(--trim);
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-right: 1rem;
+  border-radius: 9999px;
+}
+
+.work-history ul li h4 {
+  margin: 0;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+}
+
+.work-history ul li p {
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+.work-history ul li .dates {
+  color: var(--grey);
+}

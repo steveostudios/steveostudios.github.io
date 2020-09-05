@@ -1,0 +1,64 @@
+.book-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.book-list-year {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-gap: calc(1em + 2vw);
+  grid-template-columns: 1fr 1fr;
+  font-size: 0.875em;
+  margin-bottom: calc(1em + 2vw);
+  line-height: 1.2;
+}
+
+.book-list .year h5 span {
+  opacity: 0.5;
+  font-weight: 300;
+  margin-left: 8px;
+}
+
+.book {
+  position: relative;
+  text-align: center;
+}
+
+
+.book .progress-bar {
+  margin: 4px 0 16px 0;
+  width: inherit;
+  display: block;
+  height: 4px;
+  background-color: var(--trim);
+}
+
+.book .progress-bar span {
+  background-color: var(--primary-color);
+  height: 100%;
+  display: block;
+}
+
+.book .gatsby-image-wrapper {
+  min-width: 129px;
+  max-width: 156px;
+  max-height: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+@media (min-width: 30em) {
+  .book-list-year {
+    grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+  }
+
+  .book img {
+    height: 270px;
+  }
+}
