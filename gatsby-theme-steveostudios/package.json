@@ -2,6 +2,7 @@
   "name": "gatsby-theme-steveostudios",
   "version": "0.1.0",
   "license": "MIT",
+  "repository": "https://github.com/steveostudios/gatsby-theme-steveostudios.git",
   "main": "index.js",
   "scripts": {
     "build": "gatsby build",
