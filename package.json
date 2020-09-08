@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "gatsby-theme-steveostudios",
+    "site"
+  ],
+  "version": "2.0.0",
+  "author": "Steve Stone <steveostudios@gmail.com>"
+}
