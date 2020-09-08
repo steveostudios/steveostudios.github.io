@@ -36,5 +36,8 @@
     "gatsby": "^2.24.53",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
