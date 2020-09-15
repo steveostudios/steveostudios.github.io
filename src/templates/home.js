@@ -15,14 +15,14 @@ const HomeTemplate = () => {
       <div>
         <About />
       </div>
+      <div className="history">
+        <WorkHistory />
+        <EducationHistory />
+      </div>
       <div className="personality">
         <PersonalityEnneagram />
         <Personality16Personalities />
         <PersonalityStrengthsFinder />
-      </div>
-      <div className="history">
-        <WorkHistory />
-        <EducationHistory />
       </div>
     </Layout>
   );

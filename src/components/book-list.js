@@ -15,11 +15,8 @@ const BookList = ({ books }) => {
       return acc;
     }, {});
 
-  console.log(booksByYear);
-
   return (
     <>
-      <h2>Books</h2>
       <ul className="book-list">
         <li>
           <h5>Currently Reading</h5>

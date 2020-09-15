@@ -22,7 +22,7 @@
 
 .education-history ul li {
   position: relative;
-  margin-left: 6px;
+  margin-left: 10px;
   display: flex;
   margin-bottom: 2rem;
 }
@@ -30,8 +30,10 @@
 .education-history ul li .dot-double {
   background: var(--white);
   border: 2px solid var(--trim);
-  width: 16px;
-  height: 16px;
+  min-width: 8px;
+
+  width: 8px;
+  height: 8px;
   display: inline-block;
   margin-right: 1rem;
   border-radius: 9999px;

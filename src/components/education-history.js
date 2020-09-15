@@ -29,7 +29,7 @@ const EducationHistory = () => {
             <span className="dot-double"></span>
             <div>
               <h4>{job.organization}</h4>
-              <p>{job.title}</p>
+              <p>{job.subject}</p>
               <p className="dates">
                 {job.startDate} - {job.endDate ? job.endDate : "Present"}
               </p>

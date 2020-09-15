@@ -4,7 +4,6 @@
   --white: #e8eaef;
   --trim: #cfd8d1;
   --grey: #b5b7ba;
-
 }
 
 html,
@@ -22,6 +21,7 @@ body {
   margin: 0 auto;
   grid-template-columns: 256px 1fr;
   grid-template-rows: 6rem 1fr 3rem;
+  height: 100vh;
 }
 
 h1 {
@@ -43,7 +43,7 @@ h3 {
   font-size: 0.875em;
   color: var(--black);
   line-height: 1.5;
-  padding-bottom: .75rem;
+  padding-bottom: 0.75rem;
   margin: 0;
 }
 
@@ -59,12 +59,15 @@ header {
   z-index: 10;
 }
 
-header .logo {
-  margin: 0;
-  padding: 1rem;
-  font-weight: 900;
-  border: 2px solid var(--black);
-  border-radius: 50%;
+header .left {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+header .name {
+  font-size: 1.625rem;
+  line-height: 0.875;
 }
 
 header .menu {
@@ -75,18 +78,27 @@ header .menu {
 }
 
 header .menu li a {
-  border: 2px solid var(--black);
-  padding: 4px 8px;
+  background: var(--primary-color);
+  padding: 8px 32px;
   color: var(--black);
   margin-left: 8px;
+  border-radius: 24px;
   text-decoration: none;
   font-family: "Source Sans Pro";
-  text-transform: uppercase;
   font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .menu li a .icon,
+header .menu li a .icon svg {
+  height: 16px;
+  width: 16px;
+  display: none;
 }
 
 header .menu li a:hover {
-  border: 2px solid var(--black);
   background: var(--black);
   color: var(--white);
 }
@@ -104,7 +116,6 @@ aside .avatar {
   position: relative;
   display: inline-block;
   display: flex;
-  margin-bottom: 3rem;
 }
 
 aside .avatar .headshot {
@@ -164,7 +175,32 @@ aside .location svg {
   height: 16px;
 }
 
-aside .social-list {
+
+
+main {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  overflow: scroll;
+}
+
+main .content {
+  overflow-y: scroll;
+}
+
+footer {
+  grid-column: span 2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  font-family: "Source Sans Pro";
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 0.875rem;
+  padding: 1rem;
+}
+
+.social-list {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -172,35 +208,47 @@ aside .social-list {
   justify-content: space-between;
 }
 
-aside .social-list a {
+.social-list a {
   opacity: 0.25;
   transition: opacity 0.25s ease-in-out;
 }
 
-aside .social-list a:hover {
+.social-list a:hover {
   opacity: 0.5;
 }
 
-aside .social-list img {
+.social-list img {
   width: 32px;
 }
 
-main {
-  padding-left: 3rem;
-  padding-right: 3rem;
-}
+@media (max-width: 400px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
 
-footer {
-  grid-column: span 2;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border-top: 1px solid #cfd8d1;
-  color: #cfd8d1;
-  text-decoration: none;
-  font-family: "Source Sans Pro";
-  text-transform: uppercase;
-  font-weight: 300;
-  font-size: 0.875rem;
+  header {
+    padding: 1rem;
+    margin: 0;
+  }
+
+  header .menu li a {
+    padding: 16px;
+  }
+
+  header .menu li a .label {
+    display: none;
+  }
+
+  header .menu li a .icon,
+  header .menu li a .icon svg {
+    display: flex;
+  }
+
+  aside {
+    display: none;
+  }
+
+  main {
+    padding: 0 1rem;
+  }
 }
