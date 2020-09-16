@@ -17,7 +17,7 @@ const About = () => {
 
   return about !== null ? (
     <div className="about">
-      <h3>About</h3>
+      <h3>About Me</h3>
       <div dangerouslySetInnerHTML={{ __html: about }} />
     </div>
   ) : null;
