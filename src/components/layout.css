@@ -16,12 +16,11 @@ body {
 }
 
 .layout {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   max-width: 1200px;
   margin: 0 auto;
-  grid-template-columns: 256px 1fr;
-  grid-template-rows: 6rem 1fr 3rem;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 h1 {
@@ -61,7 +60,7 @@ header {
 
 header .left {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
 }
 
@@ -103,88 +102,13 @@ header .menu li a:hover {
   color: var(--white);
 }
 
-aside {
-  border-right: 1px solid #cfd8d1;
-  padding-left: 3rem;
-  padding-right: 3rem;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-}
 
-aside .avatar {
-  position: relative;
-  display: inline-block;
-  display: flex;
-}
-
-aside .avatar .headshot {
-  position: absolute;
-  height: 8rem;
-  width: 8rem;
-  display: inline-block;
-}
-
-aside .avatar .headshot img,
-aside .avatar .headshot picture {
-  border-radius: 50%;
-  height: 8rem !important;
-  width: 8rem !important;
-}
-
-aside .avatar .swatch {
-  position: absolute;
-  border-radius: 50%;
-  background: var(--primary-color);
-  height: 8rem;
-  width: 8rem;
-  right: 0;
-  display: inline-block;
-}
-
-aside .location {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
-aside .location>* {
-  height: 1.5rem;
-  background: var(--black);
-  min-width: 24px;
-  margin-right: 2px;
-  color: var(--white);
-  font-weight: 900;
-  font-size: 0.75rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-  height: 32px;
-  flex: 1;
-  margin-bottom: 48px;
-}
-
-aside .location>*:first-of-type {
-  max-width: 32px;
-}
-
-aside .location svg {
-  fill: var(--primary-color);
-  height: 16px;
-}
 
 
 
 main {
   padding-left: 3rem;
   padding-right: 3rem;
-  overflow: scroll;
-}
-
-main .content {
-  overflow-y: scroll;
 }
 
 footer {
@@ -222,10 +146,6 @@ footer {
 }
 
 @media (max-width: 400px) {
-  .layout {
-    grid-template-columns: 1fr;
-  }
-
   header {
     padding: 1rem;
     margin: 0;
@@ -242,10 +162,6 @@ footer {
   header .menu li a .icon,
   header .menu li a .icon svg {
     display: flex;
-  }
-
-  aside {
-    display: none;
   }
 
   main {

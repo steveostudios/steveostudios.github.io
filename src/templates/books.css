@@ -1,4 +1,4 @@
-.book-list {
+.books {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 
-.book-list-year {
+.books-year {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -19,7 +19,7 @@
   line-height: 1.2;
 }
 
-.book-list .year h5 span {
+.books .year h5 span {
   opacity: 0.5;
   font-weight: 300;
   margin-left: 8px;
@@ -54,7 +54,7 @@
 }
 
 @media (min-width: 30em) {
-  .book-list-year {
+  .books-year {
     grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
   }
 
