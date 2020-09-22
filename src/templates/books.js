@@ -8,7 +8,7 @@ import "./books.css";
 const BooksTemplate = () => {
   const data = useStaticQuery(graphql`
     query {
-      allBooksYaml(sort: { fields: dateFinish, order: DESC }) {
+      allBooksJson(sort: { fields: dateFinish, order: DESC }) {
         nodes {
           dateFinish
           subtitle
@@ -30,7 +30,7 @@ const BooksTemplate = () => {
     }
   `);
 
-  const books = data.allBooksYaml.nodes;
+  const books = data.allBooksJson.nodes;
 
   const booksByYear = books
     .filter((book) => book.dateFinish)
