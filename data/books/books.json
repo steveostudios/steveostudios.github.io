@@ -2,10 +2,9 @@
   {
     "author": "Robert L. Thomas and Stanley N. Gundry",
     "pages": 352,
-    "dateFinish": null,
+    "dateFinish": "2020-10-09",
     "title": "A Harmony of the Gospels",
     "image": "HarmonyOfTheGospels.jpg",
-    "progress": 280,
     "dateStart": "2020-03-01"
   },
   {
@@ -14,7 +13,7 @@
     "dateFinish": null,
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
-    "progress": 89,
+    "progress": 98,
     "dateStart": "2020-09-07"
   },
   {
@@ -35,7 +34,7 @@
     "title": "Quiet",
     "image": "Quiet.jpg",
     "publisher": "Broadway Books",
-    "progress": 114,
+    "progress": 155,
     "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153"
   },
   {
