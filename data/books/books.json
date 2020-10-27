@@ -1,12 +1,11 @@
 [
   {
-    "author": "Robert L. Thomas and Stanley N. Gundry",
     "pages": 352,
-    "dateFinish": null,
+    "author": "Robert L. Thomas and Stanley N. Gundry",
     "title": "A Harmony of the Gospels",
     "image": "HarmonyOfTheGospels.jpg",
-    "progress": 280,
-    "dateStart": "2020-03-01"
+    "dateStart": "2020-03-01",
+    "dateFinish": "2020-10-09"
   },
   {
     "author": "John Resig and Bear Bibeault",
@@ -14,17 +13,17 @@
     "dateFinish": null,
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
-    "progress": 89,
+    "progress": 150,
     "dateStart": "2020-09-07"
   },
   {
     "author": "Brad Frost",
     "pages": 285,
-    "url": "https://atomicdesign.bradfrost.com",
+    "dateStart": "2020-08-29",
     "dateFinish": "2020-09-08",
     "title": "Atomic Design",
     "image": "AtomicDesign.jpg",
-    "dateStart": "2020-08-29"
+    "url": "https://atomicdesign.bradfrost.com"
   },
   {
     "author": "Susan Cain",
@@ -35,7 +34,7 @@
     "title": "Quiet",
     "image": "Quiet.jpg",
     "publisher": "Broadway Books",
-    "progress": 114,
+    "progress": 155,
     "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153"
   },
   {
