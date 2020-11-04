@@ -13,17 +13,17 @@
     "dateFinish": null,
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
-    "progress": 150,
+    "progress": 161,
     "dateStart": "2020-09-07"
   },
   {
     "author": "Brad Frost",
     "pages": 285,
-    "dateStart": "2020-08-29",
+    "url": "https://atomicdesign.bradfrost.com",
     "dateFinish": "2020-09-08",
     "title": "Atomic Design",
     "image": "AtomicDesign.jpg",
-    "url": "https://atomicdesign.bradfrost.com"
+    "dateStart": "2020-08-29"
   },
   {
     "author": "Susan Cain",
