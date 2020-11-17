@@ -13,7 +13,7 @@
     "dateFinish": null,
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
-    "progress": 161,
+    "progress": 201,
     "dateStart": "2020-09-07"
   },
   {
@@ -29,12 +29,11 @@
     "author": "Susan Cain",
     "pages": 352,
     "subtitle": "The Power of Introvers in a World that Can't Stop Talking",
-    "dateFinish": null,
+    "dateFinish": "2020-11-16",
     "dateStart": "2020-08-02",
     "title": "Quiet",
     "image": "Quiet.jpg",
     "publisher": "Broadway Books",
-    "progress": 155,
     "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153"
   },
   {
