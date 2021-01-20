@@ -11,11 +11,10 @@
   {
     "author": "John Resig and Bear Bibeault",
     "pages": 370,
-    "dateFinish": null,
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
-    "progress": 344,
-    "dateStart": "2020-09-07"
+    "dateStart": "2020-09-07",
+    "dateFinish": "2021-01-20"
   },
   {
     "author": "John Piper",
