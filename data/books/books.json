@@ -9,14 +9,6 @@
     "dateStart": "2021-01-05"
   },
   {
-    "author": "John Resig and Bear Bibeault",
-    "pages": 370,
-    "title": "Secrets of the JavaScript Ninja",
-    "image": "SecretsOfAJavaScriptNinja.jpg",
-    "dateStart": "2020-09-07",
-    "dateFinish": "2021-01-20"
-  },
-  {
     "author": "John Piper",
     "pages": 286,
     "subtitle": "A Plea to Pastors for Radical Ministry",
@@ -26,6 +18,70 @@
     "image": "BrothersWeAreNotProfessionals.jpg",
     "progress": 166,
     "url": "https://www.amazon.com/Brothers-We-Are-Not-Professionals/dp/1433678829/ref=sr_1_1?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfPvDmU8RZQ6vd54DMZQQljqkls7SrGDyRxY4tquX6YKL7ogsDbPIAaAsMsEALw_wcB&hvadid=241658431181&hvdev=c&hvlocphy=9052432&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=4861461604014654878&hvtargid=kwd-131506102&hydadcr=8294_10376136&keywords=brothers+we+are+not+professionals&qid=1569594051&sr=8-1"
+  },
+    {
+    "author": "Erin Kissane",
+    "pages": 81,
+    "title": "The Elements of Content Strategy",
+    "image": "TheElementsOfContentStrategy.jpg",
+    "dateStart": "2021-02-18",
+    "dateFinish": null
+  },
+   {
+    "author": "Dan Cederholm",
+    "pages": 97,
+    "title": "SASS for Web Designers",
+    "image": "SASSForWebDesigners.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+   {
+    "author": "Mike Monteiro",
+    "pages": 137,
+    "title": "Design is a Job",
+    "image": "DesignIsAJob.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+   {
+    "author": "Luke Wroblewski",
+    "pages": 130,
+    "title": "Mobile First",
+    "image": "MobileFirst.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+   {
+    "author": "Yesenia Perez-Cruz",
+    "pages": 126,
+    "title": "Expressive Design Systems",
+    "image": "ExpressiveDesignSystems.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+   {
+    "author": "Josh Clark",
+    "pages": 169,
+    "title": "Designing for Touch",
+    "image": "DesigningForTouch.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+   {
+    "author": "Scott Jehl",
+    "pages": 188,
+    "title": "Responsible Responsive Design",
+    "image": "ResponsibleResponsiveDesign.jpg",
+    "dateStart": null,
+    "dateFinish": null
+  },
+    {
+    "author": "John Resig and Bear Bibeault",
+    "pages": 370,
+    "title": "Secrets of the JavaScript Ninja",
+    "image": "SecretsOfAJavaScriptNinja.jpg",
+    "dateStart": "2020-09-07",
+    "dateFinish": "2021-01-20"
   },
   {
     "pages": 352,
