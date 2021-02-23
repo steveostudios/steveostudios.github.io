@@ -33,48 +33,42 @@
     "pages": 97,
     "title": "SASS for Web Designers",
     "image": "SASSForWebDesigners.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
    {
     "author": "Mike Monteiro",
     "pages": 137,
     "title": "Design is a Job",
     "image": "DesignIsAJob.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
    {
     "author": "Luke Wroblewski",
     "pages": 130,
     "title": "Mobile First",
     "image": "MobileFirst.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
    {
     "author": "Yesenia Perez-Cruz",
     "pages": 126,
     "title": "Expressive Design Systems",
     "image": "ExpressiveDesignSystems.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
    {
     "author": "Josh Clark",
     "pages": 169,
     "title": "Designing for Touch",
     "image": "DesigningForTouch.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
    {
     "author": "Scott Jehl",
     "pages": 188,
     "title": "Responsible Responsive Design",
     "image": "ResponsibleResponsiveDesign.jpg",
-    "dateStart": null,
-    "dateFinish": null
+    "dateStart": null
   },
     {
     "author": "John Resig and Bear Bibeault",
