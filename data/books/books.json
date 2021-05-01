@@ -39,14 +39,16 @@
     "pages": 137,
     "title": "Design is a Job",
     "image": "DesignIsAJob.jpg",
-    "dateStart": null
+    "dateStart": "2021-04-28",
+    "progress": 30
   },
    {
     "author": "Luke Wroblewski",
     "pages": 130,
     "title": "Mobile First",
     "image": "MobileFirst.jpg",
-    "dateStart": null
+    "dateStart": "2021-04-23",
+    "dateFinish": "2021-=4-27"
   },
    {
     "author": "Yesenia Perez-Cruz",
