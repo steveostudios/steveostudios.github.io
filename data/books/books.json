@@ -32,7 +32,8 @@
     "pages": 97,
     "title": "SASS for Web Designers",
     "image": "SASSForWebDesigners.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-08",
+    "progress": 1
   },
    {
     "author": "Mike Monteiro",
@@ -40,7 +41,7 @@
     "title": "Design is a Job",
     "image": "DesignIsAJob.jpg",
     "dateStart": "2021-04-28",
-    "progress": 30
+    "dateFinish": "2021-05-07"
   },
    {
     "author": "Luke Wroblewski",
