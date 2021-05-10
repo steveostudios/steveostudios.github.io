@@ -33,7 +33,7 @@
     "title": "SASS for Web Designers",
     "image": "SASSForWebDesigners.jpg",
     "dateStart": "2021-05-08",
-    "progress": 1
+    "dateFinish": "2021-05-09"
   },
    {
     "author": "Mike Monteiro",
@@ -70,7 +70,8 @@
     "pages": 188,
     "title": "Responsible Responsive Design",
     "image": "ResponsibleResponsiveDesign.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-10",
+    "progress": 24
   },
     {
     "author": "John Resig and Bear Bibeault",
