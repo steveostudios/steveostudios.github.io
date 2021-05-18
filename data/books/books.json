@@ -1,9 +1,10 @@
-[{
+[
+  {
     "author": "Marty Cagan with Chris Jones",
     "pages": 416,
+    "subtitle": "Ordinary People, Extraordinary Products",
     "dateFinish": null,
     "title": "Empowered",
-    "subtitle": "Ordinary People, Extraordinary Products",
     "image": "Empowered.jpg",
     "progress": 92,
     "dateStart": "2021-01-05"
@@ -19,59 +20,63 @@
     "progress": 166,
     "url": "https://www.amazon.com/Brothers-We-Are-Not-Professionals/dp/1433678829/ref=sr_1_1?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwfPvDmU8RZQ6vd54DMZQQljqkls7SrGDyRxY4tquX6YKL7ogsDbPIAaAsMsEALw_wcB&hvadid=241658431181&hvdev=c&hvlocphy=9052432&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=4861461604014654878&hvtargid=kwd-131506102&hydadcr=8294_10376136&keywords=brothers+we+are+not+professionals&qid=1569594051&sr=8-1"
   },
-    {
-    "author": "Erin Kissane",
+  {
     "pages": 81,
+    "author": "Erin Kissane",
     "title": "The Elements of Content Strategy",
     "image": "TheElementsOfContentStrategy.jpg",
     "dateStart": "2021-02-18",
     "dateFinish": "2021-03-12"
   },
-   {
-    "author": "Dan Cederholm",
+  {
     "pages": 97,
+    "author": "Dan Cederholm",
     "title": "SASS for Web Designers",
     "image": "SASSForWebDesigners.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-08",
+    "dateFinish": "2021-05-09"
   },
-   {
-    "author": "Mike Monteiro",
+  {
     "pages": 137,
+    "author": "Mike Monteiro",
     "title": "Design is a Job",
     "image": "DesignIsAJob.jpg",
-    "dateStart": null
+    "dateStart": "2021-04-28",
+    "dateFinish": "2021-05-07"
   },
-   {
-    "author": "Luke Wroblewski",
+  {
     "pages": 130,
+    "author": "Luke Wroblewski",
     "title": "Mobile First",
     "image": "MobileFirst.jpg",
-    "dateStart": null
+    "dateStart": "2021-04-23",
+    "dateFinish": "2021-04-27"
   },
-   {
-    "author": "Yesenia Perez-Cruz",
+  {
     "pages": 126,
+    "author": "Yesenia Perez-Cruz",
     "title": "Expressive Design Systems",
     "image": "ExpressiveDesignSystems.jpg",
     "dateStart": null
   },
-   {
-    "author": "Josh Clark",
+  {
     "pages": 169,
+    "author": "Josh Clark",
     "title": "Designing for Touch",
     "image": "DesigningForTouch.jpg",
     "dateStart": null
   },
-   {
-    "author": "Scott Jehl",
+  {
     "pages": 188,
+    "author": "Scott Jehl",
     "title": "Responsible Responsive Design",
     "image": "ResponsibleResponsiveDesign.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-10",
+    "progress": 154
   },
-    {
-    "author": "John Resig and Bear Bibeault",
+  {
     "pages": 370,
+    "author": "John Resig and Bear Bibeault",
     "title": "Secrets of the JavaScript Ninja",
     "image": "SecretsOfAJavaScriptNinja.jpg",
     "dateStart": "2020-09-07",
@@ -88,11 +93,11 @@
   {
     "author": "Brad Frost",
     "pages": 285,
-    "url": "https://atomicdesign.bradfrost.com",
+    "dateStart": "2020-08-29",
     "dateFinish": "2020-09-08",
     "title": "Atomic Design",
     "image": "AtomicDesign.jpg",
-    "dateStart": "2020-08-29"
+    "url": "https://atomicdesign.bradfrost.com"
   },
   {
     "author": "Susan Cain",
