@@ -64,7 +64,8 @@
     "author": "Josh Clark",
     "title": "Designing for Touch",
     "image": "DesigningForTouch.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-19",
+    "progress": 2
   },
   {
     "pages": 188,
@@ -72,7 +73,7 @@
     "title": "Responsible Responsive Design",
     "image": "ResponsibleResponsiveDesign.jpg",
     "dateStart": "2021-05-10",
-    "progress": 154
+    "dateFinish": "2021-05-18"
   },
   {
     "pages": 370,
