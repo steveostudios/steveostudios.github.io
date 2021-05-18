@@ -51,6 +51,7 @@ const BooksTemplate = () => {
           <h5>Currently Reading</h5>
           <ul className="books-year">
             {books
+              .filter((book) => book.progress)
               .filter((book) => !book.dateFinish)
               .map((book) => (
                 <li key={book.id} className="book">
