@@ -57,7 +57,8 @@
     "author": "Yesenia Perez-Cruz",
     "title": "Expressive Design Systems",
     "image": "ExpressiveDesignSystems.jpg",
-    "dateStart": null
+    "dateStart": "2021-05-30",
+    "progress": 1
   },
   {
     "pages": 169,
@@ -65,7 +66,7 @@
     "title": "Designing for Touch",
     "image": "DesigningForTouch.jpg",
     "dateStart": "2021-05-19",
-    "progress": 44
+    "dateFinish": "2021-05-25"
   },
   {
     "pages": 188,
