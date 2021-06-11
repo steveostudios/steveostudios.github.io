@@ -1,13 +1,36 @@
 [
-  {
+   {
+    "author": "Senongo Akpem",
+    "pages": 161,
+    "dateFinish": null,
+    "dateStart": null,
+    "title": "Cross-Cultural Design",
+    "image": "CrossCulturalDesign.jpg",
+    "url": "https://abookapart.com/products/cross-cultural-design"
+  }, {
+    "author": "David Dylan Thomas",
+    "pages": 106,
+    "dateFinish": null,
+    "dateStart": null,
+    "title": "Design for Cognitive Bias",
+    "image": "DesignForCognitiveBias.jpg",
+    "url": "https://abookapart.com/products/design-for-cognitive-bias"
+  }, {
+    "author": "Tom Greenwood",
+    "pages": 125,
+    "dateFinish": null,
+    "dateStart": null,
+    "title": "Sustainable Web Design",
+    "image": "SustainableWebDesign.jpg",
+    "url": "https://abookapart.com/products/sustainable-web-design"
+  },{
     "author": "Marty Cagan with Chris Jones",
     "pages": 416,
     "subtitle": "Ordinary People, Extraordinary Products",
-    "dateFinish": null,
     "title": "Empowered",
     "image": "Empowered.jpg",
-    "progress": 355,
-    "dateStart": "2021-01-05"
+    "dateStart": "2021-01-05",
+    "dateFinish": "2021-06-11"
   },
   {
     "author": "John Piper",
