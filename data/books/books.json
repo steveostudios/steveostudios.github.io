@@ -1,71 +1,78 @@
 [
-   {
+  {
     "author": "Kim Scott",
     "pages": 246,
     "dateFinish": null,
     "dateStart": "2021-06-15",
-    "progress": 18,
     "title": "Radical Candor",
     "image": "RadicalCandor.jpg",
+    "progress": 86,
     "url": "https://www.amazon.com/Radical-Candor-KIM-SCOTT/dp/1509845380/ref=sr_1_6?crid=35LTOYU6HA6MH&dchild=1&keywords=radical+candor&qid=1623729589&sprefix=radical+can%2Caps%2C278&sr=8-6"
-  },{
+  },
+  {
     "author": "Satya Nadella",
     "pages": 272,
+    "url": "https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA/ref=sr_1_1?crid=1HU6BOHPS46Z2&dchild=1&keywords=hit+refresh&qid=1623729842&sprefix=hit+ref%2Caps%2C174&sr=8-1",
     "dateFinish": null,
-    "dateStart": null,
     "title": "Hit Refresh",
     "image": "HitRefresh.jpg",
-    "url": "https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA/ref=sr_1_1?crid=1HU6BOHPS46Z2&dchild=1&keywords=hit+refresh&qid=1623729842&sprefix=hit+ref%2Caps%2C174&sr=8-1"
-  },{
+    "dateStart": null
+  },
+  {
     "author": "Paul Gilster",
-    "subtitle": "The Essential Guide to the Internet Interface",
     "pages": 243,
+    "subtitle": "The Essential Guide to the Internet Interface",
     "dateFinish": null,
     "dateStart": null,
     "title": "The Mosaic Navigator",
     "image": "TheMosaicNavigator.jpg",
     "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
-  },{
+  },
+  {
     "author": "Jamin Googin and Kyle Strobel",
     "pages": 272,
     "dateFinish": null,
     "dateStart": "2021-06-14",
-    "progress": 30,
     "title": "The Way of the Dragon or the Way of the Lamb",
     "image": "TheWayOfTheDragonOrTheWayOfTheLamb.jpg",
+    "progress": 30,
     "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
-  },{
+  },
+  {
     "author": "Senongo Akpem",
     "pages": 161,
+    "url": "https://abookapart.com/products/cross-cultural-design",
     "dateFinish": null,
-    "dateStart": null,
     "title": "Cross-Cultural Design",
     "image": "CrossCulturalDesign.jpg",
-    "url": "https://abookapart.com/products/cross-cultural-design"
-  }, {
+    "dateStart": null
+  },
+  {
     "author": "David Dylan Thomas",
     "pages": 106,
+    "url": "https://abookapart.com/products/design-for-cognitive-bias",
     "dateFinish": null,
-    "dateStart": null,
     "title": "Design for Cognitive Bias",
     "image": "DesignForCognitiveBias.jpg",
-    "url": "https://abookapart.com/products/design-for-cognitive-bias"
-  }, {
+    "dateStart": null
+  },
+  {
     "author": "Tom Greenwood",
     "pages": 125,
+    "url": "https://abookapart.com/products/sustainable-web-design",
     "dateFinish": null,
-    "dateStart": null,
     "title": "Sustainable Web Design",
     "image": "SustainableWebDesign.jpg",
-    "url": "https://abookapart.com/products/sustainable-web-design"
-  },{
+    "dateStart": null
+  },
+  {
     "author": "Marty Cagan with Chris Jones",
     "pages": 416,
     "subtitle": "Ordinary People, Extraordinary Products",
+    "dateFinish": "2021-06-11",
     "title": "Empowered",
     "image": "Empowered.jpg",
-    "dateStart": "2021-01-05",
-    "dateFinish": "2021-06-11"
+    "dateStart": "2021-01-05"
   },
   {
     "author": "John Piper",
@@ -152,11 +159,11 @@
   {
     "author": "Brad Frost",
     "pages": 285,
-    "dateStart": "2020-08-29",
+    "url": "https://atomicdesign.bradfrost.com",
     "dateFinish": "2020-09-08",
     "title": "Atomic Design",
     "image": "AtomicDesign.jpg",
-    "url": "https://atomicdesign.bradfrost.com"
+    "dateStart": "2020-08-29"
   },
   {
     "author": "Susan Cain",
