@@ -41,11 +41,10 @@
     "author": "Senongo Akpem",
     "pages": 161,
     "url": "https://abookapart.com/products/cross-cultural-design",
-    "dateFinish": null,
+    "dateFinish": "2021-06-23",
     "title": "Cross-Cultural Design",
     "image": "CrossCulturalDesign.jpg",
-    "progress": 112,
-    "dateStart": null
+    "dateStart": "2021-06-21"
   },
   {
     "author": "David Dylan Thomas",
@@ -54,7 +53,8 @@
     "dateFinish": null,
     "title": "Design for Cognitive Bias",
     "image": "DesignForCognitiveBias.jpg",
-    "dateStart": null
+    "dateStart": "2021-06-21",
+    "progress": 12
   },
   {
     "author": "Tom Greenwood",
