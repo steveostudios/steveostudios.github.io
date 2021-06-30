@@ -1,5 +1,16 @@
 [
   {
+    "author": "Dan Olsen",
+    "pages": 336,
+    "url": "https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=asc_df_1118960874/?tag=hyprod-20&linkCode=df0&hvadid=312111907622&hvpos=&hvnetw=g&hvrand=14703172276164071782&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1017825&hvtargid=pla-434197569733&psc=1",
+    "dateFinish": null,
+    "progress": 25,
+    "title": "The Lean Product Playbook",
+    "subtitle": "How to Innovate with Minimum Viable Products and Rapid Customer Feedback",
+    "image": "TheLeanProductPlaybook.jpg",
+    "dateStart": "2021-06-29"
+  },
+  {
     "author": "Kim Scott",
     "pages": 246,
     "url": "https://www.amazon.com/Radical-Candor-KIM-SCOTT/dp/1509845380/ref=sr_1_6?crid=35LTOYU6HA6MH&dchild=1&keywords=radical+candor&qid=1623729589&sprefix=radical+can%2Caps%2C278&sr=8-6",
@@ -34,7 +45,7 @@
     "dateStart": "2021-06-14",
     "title": "The Way of the Dragon or the Way of the Lamb",
     "image": "TheWayOfTheDragonOrTheWayOfTheLamb.jpg",
-    "progress": 30,
+    "progress": 50,
     "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
   },
   {
