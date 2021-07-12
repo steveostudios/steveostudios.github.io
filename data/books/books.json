@@ -11,6 +11,42 @@
     "dateStart": "2021-06-29"
   },
   {
+    "author": "Jason Garber",
+    "pages": 59,
+    "dateFinish": null,
+    "url": "https://abookapart.com/products/practical-pair-programming",
+    "title": "Practical Pair Programming",
+    "image": "Practical Pair Programming.jpg",
+    "dateStart": null
+  },
+  {
+    "author": "Donna Spencer",
+    "pages": 52,
+    "dateFinish": null,
+    "url": "https://abookapart.com/products/presenting-design-work",
+    "title": "Presenting Design Work",
+    "image": "PresentingDesignWork.jpg",
+    "dateStart": null
+  },
+  {
+    "author": "Beth Dunn",
+    "pages": 54,
+    "dateFinish": null,
+    "url": "https://abookapart.com/products/cultivating-content-design",
+    "title": "Cultivating Content Design",
+    "image": "CultivatingContentDesign.jpg",
+    "dateStart": null
+  },
+  {
+    "author": "Krystal Higgins",
+    "pages": 130,
+    "dateFinish": null,
+    "url": "https://abookapart.com/products/better-onboarding",
+    "title": "Better Onboarding",
+    "image": "BetterOnboarding.jpg",
+    "dateStart": null
+  },
+  {
     "author": "Kim Scott",
     "pages": 246,
     "dateStart": "2021-06-15",
