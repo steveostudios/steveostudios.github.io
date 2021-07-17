@@ -17,13 +17,14 @@
     "url": "https://abookapart.com/products/practical-pair-programming",
     "title": "Practical Pair Programming",
     "image": "PracticalPairProgramming.jpg",
-    "progress": 5,
-    "dateStart": "2021-07-13"
+    "dateStart": "2021-07-13",
+    "dateFinish": "2021-07-16"
   },
   {
     "author": "Donna Spencer",
     "pages": 52,
-    "dateStart": null,
+    "dateStart": "2021-07-13",
+    "progress": 26,
     "dateFinish": null,
     "title": "Presenting Design Work",
     "image": "PresentingDesignWork.jpg",
