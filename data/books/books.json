@@ -59,7 +59,8 @@
   {
     "author": "Satya Nadella",
     "pages": 272,
-    "dateStart": null,
+    "dateStart": "2021-07-21",
+    "progress": 11,
     "dateFinish": null,
     "title": "Hit Refresh",
     "image": "HitRefresh.jpg",
