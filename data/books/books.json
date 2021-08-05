@@ -12,11 +12,11 @@
   {
     "author": "Jason Garber",
     "pages": 59,
-    "dateStart": "2021-07-13",
+    "url": "https://abookapart.com/products/practical-pair-programming",
     "dateFinish": null,
     "title": "Practical Pair Programming",
     "image": "PracticalPairProgramming.jpg",
-    "url": "https://abookapart.com/products/practical-pair-programming"
+    "dateStart": "2021-07-13"
   },
   {
     "author": "Donna Spencer",
@@ -31,29 +31,29 @@
   {
     "author": "Beth Dunn",
     "pages": 54,
-    "url": "https://abookapart.com/products/cultivating-content-design",
+    "dateStart": null,
     "dateFinish": null,
     "title": "Cultivating Content Design",
     "image": "CultivatingContentDesign.jpg",
-    "dateStart": null
+    "url": "https://abookapart.com/products/cultivating-content-design"
   },
   {
     "author": "Krystal Higgins",
     "pages": 130,
-    "url": "https://abookapart.com/products/better-onboarding",
+    "dateStart": null,
     "dateFinish": null,
     "title": "Better Onboarding",
     "image": "BetterOnboarding.jpg",
-    "dateStart": null
+    "url": "https://abookapart.com/products/better-onboarding"
   },
   {
     "author": "Kim Scott",
     "pages": 246,
-    "dateStart": "2021-06-15",
+    "url": "https://www.amazon.com/Radical-Candor-KIM-SCOTT/dp/1509845380/ref=sr_1_6?crid=35LTOYU6HA6MH&dchild=1&keywords=radical+candor&qid=1623729589&sprefix=radical+can%2Caps%2C278&sr=8-6",
     "dateFinish": "2021-06-20",
     "title": "Radical Candor",
     "image": "RadicalCandor.jpg",
-    "url": "https://www.amazon.com/Radical-Candor-KIM-SCOTT/dp/1509845380/ref=sr_1_6?crid=35LTOYU6HA6MH&dchild=1&keywords=radical+candor&qid=1623729589&sprefix=radical+can%2Caps%2C278&sr=8-6"
+    "dateStart": "2021-06-15"
   },
   {
     "author": "Satya Nadella",
@@ -62,7 +62,7 @@
     "dateStart": "2021-07-21",
     "title": "Hit Refresh",
     "image": "HitRefresh.jpg",
-    "progress": 168,
+    "progress": 210,
     "url": "https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA/ref=sr_1_1?crid=1HU6BOHPS46Z2&dchild=1&keywords=hit+refresh&qid=1623729842&sprefix=hit+ref%2Caps%2C174&sr=8-1"
   },
   {
@@ -78,38 +78,38 @@
   {
     "author": "Jamin Googin and Kyle Strobel",
     "pages": 272,
-    "dateStart": "2021-06-14",
+    "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1",
     "dateFinish": "2021-06-07",
     "title": "The Way of the Dragon or the Way of the Lamb",
     "image": "TheWayOfTheDragonOrTheWayOfTheLamb.jpg",
-    "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
+    "dateStart": "2021-06-14"
   },
   {
     "author": "Senongo Akpem",
     "pages": 161,
-    "url": "https://abookapart.com/products/cross-cultural-design",
+    "dateStart": "2021-06-21",
     "dateFinish": "2021-06-23",
     "title": "Cross-Cultural Design",
     "image": "CrossCulturalDesign.jpg",
-    "dateStart": "2021-06-21"
+    "url": "https://abookapart.com/products/cross-cultural-design"
   },
   {
     "author": "David Dylan Thomas",
     "pages": 106,
-    "dateStart": "2021-06-21",
+    "url": "https://abookapart.com/products/design-for-cognitive-bias",
     "dateFinish": "2021-06-28",
     "title": "Design for Cognitive Bias",
     "image": "DesignForCognitiveBias.jpg",
-    "url": "https://abookapart.com/products/design-for-cognitive-bias"
+    "dateStart": "2021-06-21"
   },
   {
     "author": "Tom Greenwood",
     "pages": 125,
-    "url": "https://abookapart.com/products/sustainable-web-design",
+    "dateStart": null,
     "dateFinish": null,
     "title": "Sustainable Web Design",
     "image": "SustainableWebDesign.jpg",
-    "dateStart": null
+    "url": "https://abookapart.com/products/sustainable-web-design"
   },
   {
     "author": "Marty Cagan with Chris Jones",
@@ -205,11 +205,11 @@
   {
     "author": "Brad Frost",
     "pages": 285,
-    "url": "https://atomicdesign.bradfrost.com",
+    "dateStart": "2020-08-29",
     "dateFinish": "2020-09-08",
     "title": "Atomic Design",
     "image": "AtomicDesign.jpg",
-    "dateStart": "2020-08-29"
+    "url": "https://atomicdesign.bradfrost.com"
   },
   {
     "author": "Susan Cain",
