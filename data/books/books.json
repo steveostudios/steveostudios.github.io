@@ -10,6 +10,17 @@
     "dateStart": "2021-06-29"
   },
   {
+    "author": "David A. Vise",
+    "pages": 326,
+    "progress": 241,
+    "subtitle": "Inside the Hottest Business, Media and Technology Success of Our Time",
+    "dateFinish": null,
+    "url": "https://www.amazon.com/Google-Story-David-Vise/dp/055380457X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1629213436&sr=1-1",
+    "title": "The Google Story",
+    "image": "TheGoogleStory.jpg",
+    "dateStart": "2017-06-01"
+  },
+  {
     "author": "Jason Garber",
     "pages": 59,
     "url": "https://abookapart.com/products/practical-pair-programming",
@@ -71,7 +82,7 @@
     "dateStart": "2021-08-06",
     "title": "The Mosaic Navigator",
     "image": "TheMosaicNavigator.jpg",
-    "progress": 198,
+    "progress": 204,
     "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
   },
   {
@@ -104,7 +115,8 @@
   {
     "author": "Tom Greenwood",
     "pages": 125,
-    "dateStart": null,
+    "dateStart": "2021-08-17",
+    "progress": 20,
     "dateFinish": null,
     "title": "Sustainable Web Design",
     "image": "SustainableWebDesign.jpg",
