@@ -78,11 +78,10 @@
     "author": "Paul Gilster",
     "pages": 243,
     "subtitle": "The Essential Guide to the Internet Interface",
-    "dateFinish": null,
+    "dateFinish": "2021-08-18",
     "dateStart": "2021-08-06",
     "title": "The Mosaic Navigator",
     "image": "TheMosaicNavigator.jpg",
-    "progress": 204,
     "url": "https://www.amazon.com/Way-Dragon-Lamb-Searching-Abandoned/dp/140022523X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623673504&sr=8-1"
   },
   {
@@ -116,7 +115,7 @@
     "author": "Tom Greenwood",
     "pages": 125,
     "dateStart": "2021-08-17",
-    "progress": 20,
+    "progress": 35,
     "dateFinish": null,
     "title": "Sustainable Web Design",
     "image": "SustainableWebDesign.jpg",
